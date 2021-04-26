@@ -1,4 +1,4 @@
-year,month,lapse,estados,sales,empresa
+year,month,lapse,estados,ventas_total,empresa
 2016,1,1,Nuevo Leon,132314,Empresa 1
 2016,1,1,Jalisco,167265,Empresa 1
 2016,1,1,Baja California Norte,122877,Empresa 1
