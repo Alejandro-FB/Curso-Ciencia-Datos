@@ -1,0 +1,1801 @@
+year,month,lapse,estados,sales,empresa
+2016,1,1,Nuevo Leon,132314,Empresa 1
+2016,1,1,Jalisco,167265,Empresa 1
+2016,1,1,Baja California Norte,122877,Empresa 1
+2016,1,1,Distrito Federal,106713,Empresa 1
+2016,1,1,Guerrero,111406,Empresa 1
+2016,1,2,Nuevo Leon,143686,Empresa 1
+2016,1,2,Jalisco,105124,Empresa 1
+2016,1,2,Baja California Norte,147956,Empresa 1
+2016,1,2,Distrito Federal,195947,Empresa 1
+2016,1,2,Guerrero,162590,Empresa 1
+2016,2,1,Nuevo Leon,174461,Empresa 1
+2016,2,1,Jalisco,141128,Empresa 1
+2016,2,1,Baja California Norte,164590,Empresa 1
+2016,2,1,Distrito Federal,168961,Empresa 1
+2016,2,1,Guerrero,181339,Empresa 1
+2016,2,2,Nuevo Leon,125485,Empresa 1
+2016,2,2,Jalisco,112515,Empresa 1
+2016,2,2,Baja California Norte,102333,Empresa 1
+2016,2,2,Distrito Federal,113596,Empresa 1
+2016,2,2,Guerrero,100520,Empresa 1
+2016,3,1,Nuevo Leon,116207,Empresa 1
+2016,3,1,Jalisco,172374,Empresa 1
+2016,3,1,Baja California Norte,178172,Empresa 1
+2016,3,1,Distrito Federal,137221,Empresa 1
+2016,3,1,Guerrero,146481,Empresa 1
+2016,3,2,Nuevo Leon,100086,Empresa 1
+2016,3,2,Jalisco,102313,Empresa 1
+2016,3,2,Baja California Norte,122388,Empresa 1
+2016,3,2,Distrito Federal,131885,Empresa 1
+2016,3,2,Guerrero,133725,Empresa 1
+2016,4,1,Nuevo Leon,128244,Empresa 1
+2016,4,1,Jalisco,114451,Empresa 1
+2016,4,1,Baja California Norte,197173,Empresa 1
+2016,4,1,Distrito Federal,119980,Empresa 1
+2016,4,1,Guerrero,130899,Empresa 1
+2016,4,2,Nuevo Leon,176047,Empresa 1
+2016,4,2,Jalisco,158335,Empresa 1
+2016,4,2,Baja California Norte,108364,Empresa 1
+2016,4,2,Distrito Federal,103359,Empresa 1
+2016,4,2,Guerrero,190760,Empresa 1
+2016,5,1,Nuevo Leon,153034,Empresa 1
+2016,5,1,Jalisco,147449,Empresa 1
+2016,5,1,Baja California Norte,172025,Empresa 1
+2016,5,1,Distrito Federal,106342,Empresa 1
+2016,5,1,Guerrero,104089,Empresa 1
+2016,5,2,Nuevo Leon,137702,Empresa 1
+2016,5,2,Jalisco,106275,Empresa 1
+2016,5,2,Baja California Norte,173190,Empresa 1
+2016,5,2,Distrito Federal,131731,Empresa 1
+2016,5,2,Guerrero,189366,Empresa 1
+2016,6,1,Nuevo Leon,136204,Empresa 1
+2016,6,1,Jalisco,128040,Empresa 1
+2016,6,1,Baja California Norte,104128,Empresa 1
+2016,6,1,Distrito Federal,155049,Empresa 1
+2016,6,1,Guerrero,159272,Empresa 1
+2016,6,2,Nuevo Leon,134266,Empresa 1
+2016,6,2,Jalisco,197961,Empresa 1
+2016,6,2,Baja California Norte,187690,Empresa 1
+2016,6,2,Distrito Federal,198554,Empresa 1
+2016,6,2,Guerrero,199362,Empresa 1
+2016,7,1,Nuevo Leon,120286,Empresa 1
+2016,7,1,Jalisco,192268,Empresa 1
+2016,7,1,Baja California Norte,165161,Empresa 1
+2016,7,1,Distrito Federal,128154,Empresa 1
+2016,7,1,Guerrero,166941,Empresa 1
+2016,7,2,Nuevo Leon,167631,Empresa 1
+2016,7,2,Jalisco,182551,Empresa 1
+2016,7,2,Baja California Norte,166405,Empresa 1
+2016,7,2,Distrito Federal,116971,Empresa 1
+2016,7,2,Guerrero,162402,Empresa 1
+2016,8,1,Nuevo Leon,136211,Empresa 1
+2016,8,1,Jalisco,161423,Empresa 1
+2016,8,1,Baja California Norte,136524,Empresa 1
+2016,8,1,Distrito Federal,162309,Empresa 1
+2016,8,1,Guerrero,132228,Empresa 1
+2016,8,2,Nuevo Leon,152066,Empresa 1
+2016,8,2,Jalisco,187194,Empresa 1
+2016,8,2,Baja California Norte,117097,Empresa 1
+2016,8,2,Distrito Federal,166421,Empresa 1
+2016,8,2,Guerrero,150167,Empresa 1
+2016,9,1,Nuevo Leon,171925,Empresa 1
+2016,9,1,Jalisco,132845,Empresa 1
+2016,9,1,Baja California Norte,195705,Empresa 1
+2016,9,1,Distrito Federal,175568,Empresa 1
+2016,9,1,Guerrero,187799,Empresa 1
+2016,9,2,Nuevo Leon,119427,Empresa 1
+2016,9,2,Jalisco,176398,Empresa 1
+2016,9,2,Baja California Norte,184059,Empresa 1
+2016,9,2,Distrito Federal,127608,Empresa 1
+2016,9,2,Guerrero,121138,Empresa 1
+2016,10,1,Nuevo Leon,199009,Empresa 1
+2016,10,1,Jalisco,156610,Empresa 1
+2016,10,1,Baja California Norte,139746,Empresa 1
+2016,10,1,Distrito Federal,122043,Empresa 1
+2016,10,1,Guerrero,128603,Empresa 1
+2016,10,2,Nuevo Leon,178974,Empresa 1
+2016,10,2,Jalisco,176672,Empresa 1
+2016,10,2,Baja California Norte,109321,Empresa 1
+2016,10,2,Distrito Federal,182666,Empresa 1
+2016,10,2,Guerrero,134533,Empresa 1
+2016,11,1,Nuevo Leon,105244,Empresa 1
+2016,11,1,Jalisco,135238,Empresa 1
+2016,11,1,Baja California Norte,124643,Empresa 1
+2016,11,1,Distrito Federal,104014,Empresa 1
+2016,11,1,Guerrero,129911,Empresa 1
+2016,11,2,Nuevo Leon,132082,Empresa 1
+2016,11,2,Jalisco,195394,Empresa 1
+2016,11,2,Baja California Norte,133000,Empresa 1
+2016,11,2,Distrito Federal,141793,Empresa 1
+2016,11,2,Guerrero,180746,Empresa 1
+2016,12,1,Nuevo Leon,134602,Empresa 1
+2016,12,1,Jalisco,116411,Empresa 1
+2016,12,1,Baja California Norte,126135,Empresa 1
+2016,12,1,Distrito Federal,196897,Empresa 1
+2016,12,1,Guerrero,178183,Empresa 1
+2016,12,2,Nuevo Leon,153873,Empresa 1
+2016,12,2,Jalisco,128518,Empresa 1
+2016,12,2,Baja California Norte,172775,Empresa 1
+2016,12,2,Distrito Federal,140714,Empresa 1
+2016,12,2,Guerrero,191392,Empresa 1
+2017,1,1,Nuevo Leon,115321,Empresa 1
+2017,1,1,Jalisco,130193,Empresa 1
+2017,1,1,Baja California Norte,198653,Empresa 1
+2017,1,1,Distrito Federal,113910,Empresa 1
+2017,1,1,Guerrero,171436,Empresa 1
+2017,1,2,Nuevo Leon,115609,Empresa 1
+2017,1,2,Jalisco,142972,Empresa 1
+2017,1,2,Baja California Norte,101803,Empresa 1
+2017,1,2,Distrito Federal,181265,Empresa 1
+2017,1,2,Guerrero,141317,Empresa 1
+2017,2,1,Nuevo Leon,199220,Empresa 1
+2017,2,1,Jalisco,130524,Empresa 1
+2017,2,1,Baja California Norte,100226,Empresa 1
+2017,2,1,Distrito Federal,149192,Empresa 1
+2017,2,1,Guerrero,104640,Empresa 1
+2017,2,2,Nuevo Leon,183170,Empresa 1
+2017,2,2,Jalisco,102599,Empresa 1
+2017,2,2,Baja California Norte,138065,Empresa 1
+2017,2,2,Distrito Federal,164995,Empresa 1
+2017,2,2,Guerrero,141937,Empresa 1
+2017,3,1,Nuevo Leon,162198,Empresa 1
+2017,3,1,Jalisco,118481,Empresa 1
+2017,3,1,Baja California Norte,107484,Empresa 1
+2017,3,1,Distrito Federal,196435,Empresa 1
+2017,3,1,Guerrero,160897,Empresa 1
+2017,3,2,Nuevo Leon,166550,Empresa 1
+2017,3,2,Jalisco,184132,Empresa 1
+2017,3,2,Baja California Norte,103948,Empresa 1
+2017,3,2,Distrito Federal,192405,Empresa 1
+2017,3,2,Guerrero,132777,Empresa 1
+2017,4,1,Nuevo Leon,101462,Empresa 1
+2017,4,1,Jalisco,116260,Empresa 1
+2017,4,1,Baja California Norte,123349,Empresa 1
+2017,4,1,Distrito Federal,173252,Empresa 1
+2017,4,1,Guerrero,161903,Empresa 1
+2017,4,2,Nuevo Leon,135522,Empresa 1
+2017,4,2,Jalisco,176448,Empresa 1
+2017,4,2,Baja California Norte,176747,Empresa 1
+2017,4,2,Distrito Federal,125883,Empresa 1
+2017,4,2,Guerrero,106192,Empresa 1
+2017,5,1,Nuevo Leon,190885,Empresa 1
+2017,5,1,Jalisco,117862,Empresa 1
+2017,5,1,Baja California Norte,196568,Empresa 1
+2017,5,1,Distrito Federal,114936,Empresa 1
+2017,5,1,Guerrero,131075,Empresa 1
+2017,5,2,Nuevo Leon,146163,Empresa 1
+2017,5,2,Jalisco,152651,Empresa 1
+2017,5,2,Baja California Norte,129463,Empresa 1
+2017,5,2,Distrito Federal,142343,Empresa 1
+2017,5,2,Guerrero,102816,Empresa 1
+2017,6,1,Nuevo Leon,126492,Empresa 1
+2017,6,1,Jalisco,146940,Empresa 1
+2017,6,1,Baja California Norte,185346,Empresa 1
+2017,6,1,Distrito Federal,173055,Empresa 1
+2017,6,1,Guerrero,182641,Empresa 1
+2017,6,2,Nuevo Leon,167360,Empresa 1
+2017,6,2,Jalisco,100561,Empresa 1
+2017,6,2,Baja California Norte,155378,Empresa 1
+2017,6,2,Distrito Federal,167659,Empresa 1
+2017,6,2,Guerrero,101082,Empresa 1
+2017,7,1,Nuevo Leon,108764,Empresa 1
+2017,7,1,Jalisco,151202,Empresa 1
+2017,7,1,Baja California Norte,192328,Empresa 1
+2017,7,1,Distrito Federal,155776,Empresa 1
+2017,7,1,Guerrero,146485,Empresa 1
+2017,7,2,Nuevo Leon,117581,Empresa 1
+2017,7,2,Jalisco,171225,Empresa 1
+2017,7,2,Baja California Norte,130478,Empresa 1
+2017,7,2,Distrito Federal,105617,Empresa 1
+2017,7,2,Guerrero,176571,Empresa 1
+2017,8,1,Nuevo Leon,115280,Empresa 1
+2017,8,1,Jalisco,156483,Empresa 1
+2017,8,1,Baja California Norte,124179,Empresa 1
+2017,8,1,Distrito Federal,143058,Empresa 1
+2017,8,1,Guerrero,128327,Empresa 1
+2017,8,2,Nuevo Leon,143261,Empresa 1
+2017,8,2,Jalisco,104171,Empresa 1
+2017,8,2,Baja California Norte,153519,Empresa 1
+2017,8,2,Distrito Federal,170124,Empresa 1
+2017,8,2,Guerrero,137634,Empresa 1
+2017,9,1,Nuevo Leon,157720,Empresa 1
+2017,9,1,Jalisco,160220,Empresa 1
+2017,9,1,Baja California Norte,119964,Empresa 1
+2017,9,1,Distrito Federal,165141,Empresa 1
+2017,9,1,Guerrero,127130,Empresa 1
+2017,9,2,Nuevo Leon,124510,Empresa 1
+2017,9,2,Jalisco,102670,Empresa 1
+2017,9,2,Baja California Norte,100846,Empresa 1
+2017,9,2,Distrito Federal,197338,Empresa 1
+2017,9,2,Guerrero,118182,Empresa 1
+2017,10,1,Nuevo Leon,110631,Empresa 1
+2017,10,1,Jalisco,116918,Empresa 1
+2017,10,1,Baja California Norte,127657,Empresa 1
+2017,10,1,Distrito Federal,144245,Empresa 1
+2017,10,1,Guerrero,191705,Empresa 1
+2017,10,2,Nuevo Leon,127646,Empresa 1
+2017,10,2,Jalisco,144429,Empresa 1
+2017,10,2,Baja California Norte,139340,Empresa 1
+2017,10,2,Distrito Federal,104811,Empresa 1
+2017,10,2,Guerrero,122627,Empresa 1
+2017,11,1,Nuevo Leon,158857,Empresa 1
+2017,11,1,Jalisco,187866,Empresa 1
+2017,11,1,Baja California Norte,156099,Empresa 1
+2017,11,1,Distrito Federal,192146,Empresa 1
+2017,11,1,Guerrero,193584,Empresa 1
+2017,11,2,Nuevo Leon,172659,Empresa 1
+2017,11,2,Jalisco,154679,Empresa 1
+2017,11,2,Baja California Norte,161499,Empresa 1
+2017,11,2,Distrito Federal,120139,Empresa 1
+2017,11,2,Guerrero,179355,Empresa 1
+2017,12,1,Nuevo Leon,157724,Empresa 1
+2017,12,1,Jalisco,125067,Empresa 1
+2017,12,1,Baja California Norte,186278,Empresa 1
+2017,12,1,Distrito Federal,171509,Empresa 1
+2017,12,1,Guerrero,196131,Empresa 1
+2017,12,2,Nuevo Leon,151805,Empresa 1
+2017,12,2,Jalisco,167156,Empresa 1
+2017,12,2,Baja California Norte,161080,Empresa 1
+2017,12,2,Distrito Federal,157729,Empresa 1
+2017,12,2,Guerrero,175185,Empresa 1
+2018,1,1,Nuevo Leon,190439,Empresa 1
+2018,1,1,Jalisco,168968,Empresa 1
+2018,1,1,Baja California Norte,181982,Empresa 1
+2018,1,1,Distrito Federal,135414,Empresa 1
+2018,1,1,Guerrero,157065,Empresa 1
+2018,1,2,Nuevo Leon,102621,Empresa 1
+2018,1,2,Jalisco,132882,Empresa 1
+2018,1,2,Baja California Norte,107370,Empresa 1
+2018,1,2,Distrito Federal,185996,Empresa 1
+2018,1,2,Guerrero,124312,Empresa 1
+2018,2,1,Nuevo Leon,124367,Empresa 1
+2018,2,1,Jalisco,150512,Empresa 1
+2018,2,1,Baja California Norte,117915,Empresa 1
+2018,2,1,Distrito Federal,146437,Empresa 1
+2018,2,1,Guerrero,116976,Empresa 1
+2018,2,2,Nuevo Leon,117996,Empresa 1
+2018,2,2,Jalisco,120031,Empresa 1
+2018,2,2,Baja California Norte,177925,Empresa 1
+2018,2,2,Distrito Federal,176504,Empresa 1
+2018,2,2,Guerrero,190085,Empresa 1
+2018,3,1,Nuevo Leon,174071,Empresa 1
+2018,3,1,Jalisco,158633,Empresa 1
+2018,3,1,Baja California Norte,114721,Empresa 1
+2018,3,1,Distrito Federal,129518,Empresa 1
+2018,3,1,Guerrero,166961,Empresa 1
+2018,3,2,Nuevo Leon,173612,Empresa 1
+2018,3,2,Jalisco,171550,Empresa 1
+2018,3,2,Baja California Norte,128326,Empresa 1
+2018,3,2,Distrito Federal,171851,Empresa 1
+2018,3,2,Guerrero,128814,Empresa 1
+2018,4,1,Nuevo Leon,133426,Empresa 1
+2018,4,1,Jalisco,187155,Empresa 1
+2018,4,1,Baja California Norte,199072,Empresa 1
+2018,4,1,Distrito Federal,120254,Empresa 1
+2018,4,1,Guerrero,180088,Empresa 1
+2018,4,2,Nuevo Leon,175876,Empresa 1
+2018,4,2,Jalisco,127175,Empresa 1
+2018,4,2,Baja California Norte,192868,Empresa 1
+2018,4,2,Distrito Federal,116457,Empresa 1
+2018,4,2,Guerrero,175408,Empresa 1
+2018,5,1,Nuevo Leon,128130,Empresa 1
+2018,5,1,Jalisco,121341,Empresa 1
+2018,5,1,Baja California Norte,145705,Empresa 1
+2018,5,1,Distrito Federal,101890,Empresa 1
+2018,5,1,Guerrero,198222,Empresa 1
+2018,5,2,Nuevo Leon,177718,Empresa 1
+2018,5,2,Jalisco,116449,Empresa 1
+2018,5,2,Baja California Norte,122865,Empresa 1
+2018,5,2,Distrito Federal,198630,Empresa 1
+2018,5,2,Guerrero,139251,Empresa 1
+2018,6,1,Nuevo Leon,167445,Empresa 1
+2018,6,1,Jalisco,153232,Empresa 1
+2018,6,1,Baja California Norte,167615,Empresa 1
+2018,6,1,Distrito Federal,169395,Empresa 1
+2018,6,1,Guerrero,184447,Empresa 1
+2018,6,2,Nuevo Leon,132193,Empresa 1
+2018,6,2,Jalisco,198885,Empresa 1
+2018,6,2,Baja California Norte,137192,Empresa 1
+2018,6,2,Distrito Federal,168751,Empresa 1
+2018,6,2,Guerrero,113163,Empresa 1
+2018,7,1,Nuevo Leon,140156,Empresa 1
+2018,7,1,Jalisco,183428,Empresa 1
+2018,7,1,Baja California Norte,101379,Empresa 1
+2018,7,1,Distrito Federal,134441,Empresa 1
+2018,7,1,Guerrero,177969,Empresa 1
+2018,7,2,Nuevo Leon,136329,Empresa 1
+2018,7,2,Jalisco,150374,Empresa 1
+2018,7,2,Baja California Norte,172676,Empresa 1
+2018,7,2,Distrito Federal,197766,Empresa 1
+2018,7,2,Guerrero,145851,Empresa 1
+2018,8,1,Nuevo Leon,169142,Empresa 1
+2018,8,1,Jalisco,130130,Empresa 1
+2018,8,1,Baja California Norte,196247,Empresa 1
+2018,8,1,Distrito Federal,145866,Empresa 1
+2018,8,1,Guerrero,147217,Empresa 1
+2018,8,2,Nuevo Leon,166840,Empresa 1
+2018,8,2,Jalisco,180170,Empresa 1
+2018,8,2,Baja California Norte,100234,Empresa 1
+2018,8,2,Distrito Federal,145724,Empresa 1
+2018,8,2,Guerrero,158013,Empresa 1
+2018,9,1,Nuevo Leon,136598,Empresa 1
+2018,9,1,Jalisco,130123,Empresa 1
+2018,9,1,Baja California Norte,132860,Empresa 1
+2018,9,1,Distrito Federal,169116,Empresa 1
+2018,9,1,Guerrero,121416,Empresa 1
+2018,9,2,Nuevo Leon,150359,Empresa 1
+2018,9,2,Jalisco,139023,Empresa 1
+2018,9,2,Baja California Norte,145025,Empresa 1
+2018,9,2,Distrito Federal,165585,Empresa 1
+2018,9,2,Guerrero,159680,Empresa 1
+2018,10,1,Nuevo Leon,148631,Empresa 1
+2018,10,1,Jalisco,155693,Empresa 1
+2018,10,1,Baja California Norte,133569,Empresa 1
+2018,10,1,Distrito Federal,190945,Empresa 1
+2018,10,1,Guerrero,155195,Empresa 1
+2018,10,2,Nuevo Leon,105969,Empresa 1
+2018,10,2,Jalisco,196532,Empresa 1
+2018,10,2,Baja California Norte,164270,Empresa 1
+2018,10,2,Distrito Federal,145745,Empresa 1
+2018,10,2,Guerrero,148828,Empresa 1
+2018,11,1,Nuevo Leon,122913,Empresa 1
+2018,11,1,Jalisco,193909,Empresa 1
+2018,11,1,Baja California Norte,143746,Empresa 1
+2018,11,1,Distrito Federal,197229,Empresa 1
+2018,11,1,Guerrero,155056,Empresa 1
+2018,11,2,Nuevo Leon,105481,Empresa 1
+2018,11,2,Jalisco,114313,Empresa 1
+2018,11,2,Baja California Norte,191908,Empresa 1
+2018,11,2,Distrito Federal,153434,Empresa 1
+2018,11,2,Guerrero,134872,Empresa 1
+2018,12,1,Nuevo Leon,122837,Empresa 1
+2018,12,1,Jalisco,136396,Empresa 1
+2018,12,1,Baja California Norte,165290,Empresa 1
+2018,12,1,Distrito Federal,138398,Empresa 1
+2018,12,1,Guerrero,184992,Empresa 1
+2018,12,2,Nuevo Leon,108015,Empresa 1
+2018,12,2,Jalisco,170488,Empresa 1
+2018,12,2,Baja California Norte,140905,Empresa 1
+2018,12,2,Distrito Federal,116282,Empresa 1
+2018,12,2,Guerrero,136441,Empresa 1
+2019,1,1,Nuevo Leon,101385,Empresa 1
+2019,1,1,Jalisco,141796,Empresa 1
+2019,1,1,Baja California Norte,133129,Empresa 1
+2019,1,1,Distrito Federal,117861,Empresa 1
+2019,1,1,Guerrero,191968,Empresa 1
+2019,1,2,Nuevo Leon,117246,Empresa 1
+2019,1,2,Jalisco,188152,Empresa 1
+2019,1,2,Baja California Norte,197774,Empresa 1
+2019,1,2,Distrito Federal,142340,Empresa 1
+2019,1,2,Guerrero,159079,Empresa 1
+2019,2,1,Nuevo Leon,101619,Empresa 1
+2019,2,1,Jalisco,123403,Empresa 1
+2019,2,1,Baja California Norte,110825,Empresa 1
+2019,2,1,Distrito Federal,140969,Empresa 1
+2019,2,1,Guerrero,137793,Empresa 1
+2019,2,2,Nuevo Leon,198128,Empresa 1
+2019,2,2,Jalisco,146797,Empresa 1
+2019,2,2,Baja California Norte,174591,Empresa 1
+2019,2,2,Distrito Federal,175802,Empresa 1
+2019,2,2,Guerrero,131323,Empresa 1
+2019,3,1,Nuevo Leon,198403,Empresa 1
+2019,3,1,Jalisco,109747,Empresa 1
+2019,3,1,Baja California Norte,146193,Empresa 1
+2019,3,1,Distrito Federal,198766,Empresa 1
+2019,3,1,Guerrero,108726,Empresa 1
+2019,3,2,Nuevo Leon,131279,Empresa 1
+2019,3,2,Jalisco,195467,Empresa 1
+2019,3,2,Baja California Norte,170684,Empresa 1
+2019,3,2,Distrito Federal,190158,Empresa 1
+2019,3,2,Guerrero,191898,Empresa 1
+2019,4,1,Nuevo Leon,174420,Empresa 1
+2019,4,1,Jalisco,112663,Empresa 1
+2019,4,1,Baja California Norte,130874,Empresa 1
+2019,4,1,Distrito Federal,165491,Empresa 1
+2019,4,1,Guerrero,182422,Empresa 1
+2019,4,2,Nuevo Leon,120481,Empresa 1
+2019,4,2,Jalisco,153335,Empresa 1
+2019,4,2,Baja California Norte,118393,Empresa 1
+2019,4,2,Distrito Federal,121516,Empresa 1
+2019,4,2,Guerrero,196479,Empresa 1
+2019,5,1,Nuevo Leon,177223,Empresa 1
+2019,5,1,Jalisco,195875,Empresa 1
+2019,5,1,Baja California Norte,125443,Empresa 1
+2019,5,1,Distrito Federal,119739,Empresa 1
+2019,5,1,Guerrero,133072,Empresa 1
+2019,5,2,Nuevo Leon,121020,Empresa 1
+2019,5,2,Jalisco,151625,Empresa 1
+2019,5,2,Baja California Norte,196711,Empresa 1
+2019,5,2,Distrito Federal,144614,Empresa 1
+2019,5,2,Guerrero,125517,Empresa 1
+2019,6,1,Nuevo Leon,172276,Empresa 1
+2019,6,1,Jalisco,107291,Empresa 1
+2019,6,1,Baja California Norte,115564,Empresa 1
+2019,6,1,Distrito Federal,109549,Empresa 1
+2019,6,1,Guerrero,142524,Empresa 1
+2019,6,2,Nuevo Leon,104749,Empresa 1
+2019,6,2,Jalisco,173865,Empresa 1
+2019,6,2,Baja California Norte,120358,Empresa 1
+2019,6,2,Distrito Federal,100294,Empresa 1
+2019,6,2,Guerrero,105789,Empresa 1
+2019,7,1,Nuevo Leon,107678,Empresa 1
+2019,7,1,Jalisco,179367,Empresa 1
+2019,7,1,Baja California Norte,133849,Empresa 1
+2019,7,1,Distrito Federal,125160,Empresa 1
+2019,7,1,Guerrero,158914,Empresa 1
+2019,7,2,Nuevo Leon,160266,Empresa 1
+2019,7,2,Jalisco,147640,Empresa 1
+2019,7,2,Baja California Norte,130974,Empresa 1
+2019,7,2,Distrito Federal,199756,Empresa 1
+2019,7,2,Guerrero,163973,Empresa 1
+2019,8,1,Nuevo Leon,182029,Empresa 1
+2019,8,1,Jalisco,128544,Empresa 1
+2019,8,1,Baja California Norte,117618,Empresa 1
+2019,8,1,Distrito Federal,181876,Empresa 1
+2019,8,1,Guerrero,149965,Empresa 1
+2019,8,2,Nuevo Leon,176079,Empresa 1
+2019,8,2,Jalisco,134291,Empresa 1
+2019,8,2,Baja California Norte,100469,Empresa 1
+2019,8,2,Distrito Federal,119163,Empresa 1
+2019,8,2,Guerrero,146017,Empresa 1
+2019,9,1,Nuevo Leon,137614,Empresa 1
+2019,9,1,Jalisco,153438,Empresa 1
+2019,9,1,Baja California Norte,181855,Empresa 1
+2019,9,1,Distrito Federal,104981,Empresa 1
+2019,9,1,Guerrero,187505,Empresa 1
+2019,9,2,Nuevo Leon,159933,Empresa 1
+2019,9,2,Jalisco,161633,Empresa 1
+2019,9,2,Baja California Norte,105428,Empresa 1
+2019,9,2,Distrito Federal,101751,Empresa 1
+2019,9,2,Guerrero,156369,Empresa 1
+2019,10,1,Nuevo Leon,129847,Empresa 1
+2019,10,1,Jalisco,161608,Empresa 1
+2019,10,1,Baja California Norte,149318,Empresa 1
+2019,10,1,Distrito Federal,194197,Empresa 1
+2019,10,1,Guerrero,137512,Empresa 1
+2019,10,2,Nuevo Leon,187078,Empresa 1
+2019,10,2,Jalisco,171541,Empresa 1
+2019,10,2,Baja California Norte,182242,Empresa 1
+2019,10,2,Distrito Federal,179492,Empresa 1
+2019,10,2,Guerrero,101086,Empresa 1
+2019,11,1,Nuevo Leon,136947,Empresa 1
+2019,11,1,Jalisco,184555,Empresa 1
+2019,11,1,Baja California Norte,111395,Empresa 1
+2019,11,1,Distrito Federal,132144,Empresa 1
+2019,11,1,Guerrero,122275,Empresa 1
+2019,11,2,Nuevo Leon,165898,Empresa 1
+2019,11,2,Jalisco,184378,Empresa 1
+2019,11,2,Baja California Norte,173105,Empresa 1
+2019,11,2,Distrito Federal,197188,Empresa 1
+2019,11,2,Guerrero,114175,Empresa 1
+2019,12,1,Nuevo Leon,105024,Empresa 1
+2019,12,1,Jalisco,151804,Empresa 1
+2019,12,1,Baja California Norte,147268,Empresa 1
+2019,12,1,Distrito Federal,122351,Empresa 1
+2019,12,1,Guerrero,176872,Empresa 1
+2019,12,2,Nuevo Leon,126962,Empresa 1
+2019,12,2,Jalisco,154347,Empresa 1
+2019,12,2,Baja California Norte,192152,Empresa 1
+2019,12,2,Distrito Federal,119405,Empresa 1
+2019,12,2,Guerrero,134197,Empresa 1
+2020,1,1,Nuevo Leon,124842,Empresa 1
+2020,1,1,Jalisco,184324,Empresa 1
+2020,1,1,Baja California Norte,109798,Empresa 1
+2020,1,1,Distrito Federal,133013,Empresa 1
+2020,1,1,Guerrero,182493,Empresa 1
+2020,1,2,Nuevo Leon,191378,Empresa 1
+2020,1,2,Jalisco,112775,Empresa 1
+2020,1,2,Baja California Norte,133659,Empresa 1
+2020,1,2,Distrito Federal,182994,Empresa 1
+2020,1,2,Guerrero,130357,Empresa 1
+2020,2,1,Nuevo Leon,104578,Empresa 1
+2020,2,1,Jalisco,111213,Empresa 1
+2020,2,1,Baja California Norte,141559,Empresa 1
+2020,2,1,Distrito Federal,132820,Empresa 1
+2020,2,1,Guerrero,139545,Empresa 1
+2020,2,2,Nuevo Leon,120361,Empresa 1
+2020,2,2,Jalisco,142518,Empresa 1
+2020,2,2,Baja California Norte,144536,Empresa 1
+2020,2,2,Distrito Federal,162211,Empresa 1
+2020,2,2,Guerrero,167154,Empresa 1
+2020,3,1,Nuevo Leon,171976,Empresa 1
+2020,3,1,Jalisco,166436,Empresa 1
+2020,3,1,Baja California Norte,128584,Empresa 1
+2020,3,1,Distrito Federal,195807,Empresa 1
+2020,3,1,Guerrero,189951,Empresa 1
+2020,3,2,Nuevo Leon,107880,Empresa 1
+2020,3,2,Jalisco,191407,Empresa 1
+2020,3,2,Baja California Norte,156294,Empresa 1
+2020,3,2,Distrito Federal,131710,Empresa 1
+2020,3,2,Guerrero,181187,Empresa 1
+2020,4,1,Nuevo Leon,166983,Empresa 1
+2020,4,1,Jalisco,163860,Empresa 1
+2020,4,1,Baja California Norte,157975,Empresa 1
+2020,4,1,Distrito Federal,101624,Empresa 1
+2020,4,1,Guerrero,119265,Empresa 1
+2020,4,2,Nuevo Leon,155908,Empresa 1
+2020,4,2,Jalisco,183854,Empresa 1
+2020,4,2,Baja California Norte,197997,Empresa 1
+2020,4,2,Distrito Federal,135257,Empresa 1
+2020,4,2,Guerrero,166627,Empresa 1
+2020,5,1,Nuevo Leon,115716,Empresa 1
+2020,5,1,Jalisco,138378,Empresa 1
+2020,5,1,Baja California Norte,140871,Empresa 1
+2020,5,1,Distrito Federal,181120,Empresa 1
+2020,5,1,Guerrero,134735,Empresa 1
+2020,5,2,Nuevo Leon,103233,Empresa 1
+2020,5,2,Jalisco,190696,Empresa 1
+2020,5,2,Baja California Norte,105964,Empresa 1
+2020,5,2,Distrito Federal,181757,Empresa 1
+2020,5,2,Guerrero,193665,Empresa 1
+2020,6,1,Nuevo Leon,131945,Empresa 1
+2020,6,1,Jalisco,196220,Empresa 1
+2020,6,1,Baja California Norte,174109,Empresa 1
+2020,6,1,Distrito Federal,111762,Empresa 1
+2020,6,1,Guerrero,108974,Empresa 1
+2020,6,2,Nuevo Leon,132264,Empresa 1
+2020,6,2,Jalisco,159473,Empresa 1
+2020,6,2,Baja California Norte,125467,Empresa 1
+2020,6,2,Distrito Federal,112612,Empresa 1
+2020,6,2,Guerrero,185164,Empresa 1
+2020,7,1,Nuevo Leon,184531,Empresa 1
+2020,7,1,Jalisco,184438,Empresa 1
+2020,7,1,Baja California Norte,184579,Empresa 1
+2020,7,1,Distrito Federal,186633,Empresa 1
+2020,7,1,Guerrero,158600,Empresa 1
+2020,7,2,Nuevo Leon,161885,Empresa 1
+2020,7,2,Jalisco,192178,Empresa 1
+2020,7,2,Baja California Norte,132904,Empresa 1
+2020,7,2,Distrito Federal,187022,Empresa 1
+2020,7,2,Guerrero,191403,Empresa 1
+2020,8,1,Nuevo Leon,156044,Empresa 1
+2020,8,1,Jalisco,132327,Empresa 1
+2020,8,1,Baja California Norte,186258,Empresa 1
+2020,8,1,Distrito Federal,192213,Empresa 1
+2020,8,1,Guerrero,191550,Empresa 1
+2020,8,2,Nuevo Leon,154608,Empresa 1
+2020,8,2,Jalisco,161179,Empresa 1
+2020,8,2,Baja California Norte,189563,Empresa 1
+2020,8,2,Distrito Federal,190895,Empresa 1
+2020,8,2,Guerrero,159204,Empresa 1
+2020,9,1,Nuevo Leon,151989,Empresa 1
+2020,9,1,Jalisco,139812,Empresa 1
+2020,9,1,Baja California Norte,197210,Empresa 1
+2020,9,1,Distrito Federal,112956,Empresa 1
+2020,9,1,Guerrero,160451,Empresa 1
+2020,9,2,Nuevo Leon,155888,Empresa 1
+2020,9,2,Jalisco,151381,Empresa 1
+2020,9,2,Baja California Norte,167999,Empresa 1
+2020,9,2,Distrito Federal,154804,Empresa 1
+2020,9,2,Guerrero,174723,Empresa 1
+2020,10,1,Nuevo Leon,133148,Empresa 1
+2020,10,1,Jalisco,153661,Empresa 1
+2020,10,1,Baja California Norte,152386,Empresa 1
+2020,10,1,Distrito Federal,153961,Empresa 1
+2020,10,1,Guerrero,141847,Empresa 1
+2020,10,2,Nuevo Leon,174232,Empresa 1
+2020,10,2,Jalisco,122903,Empresa 1
+2020,10,2,Baja California Norte,119715,Empresa 1
+2020,10,2,Distrito Federal,139967,Empresa 1
+2020,10,2,Guerrero,120945,Empresa 1
+2020,11,1,Nuevo Leon,107005,Empresa 1
+2020,11,1,Jalisco,156419,Empresa 1
+2020,11,1,Baja California Norte,172067,Empresa 1
+2020,11,1,Distrito Federal,153989,Empresa 1
+2020,11,1,Guerrero,191558,Empresa 1
+2020,11,2,Nuevo Leon,146504,Empresa 1
+2020,11,2,Jalisco,189877,Empresa 1
+2020,11,2,Baja California Norte,156408,Empresa 1
+2020,11,2,Distrito Federal,143361,Empresa 1
+2020,11,2,Guerrero,187427,Empresa 1
+2020,12,1,Nuevo Leon,165778,Empresa 1
+2020,12,1,Jalisco,143144,Empresa 1
+2020,12,1,Baja California Norte,189259,Empresa 1
+2020,12,1,Distrito Federal,136740,Empresa 1
+2020,12,1,Guerrero,146487,Empresa 1
+2020,12,2,Nuevo Leon,188983,Empresa 1
+2020,12,2,Jalisco,193958,Empresa 1
+2020,12,2,Baja California Norte,113945,Empresa 1
+2020,12,2,Distrito Federal,138972,Empresa 1
+2020,12,2,Guerrero,149860,Empresa 1
+2016,1,1,Nuevo Leon,126386,Empresa 2
+2016,1,1,Jalisco,153514,Empresa 2
+2016,1,1,Baja California Norte,150153,Empresa 2
+2016,1,1,Distrito Federal,103265,Empresa 2
+2016,1,1,Guerrero,181869,Empresa 2
+2016,1,2,Nuevo Leon,153379,Empresa 2
+2016,1,2,Jalisco,128239,Empresa 2
+2016,1,2,Baja California Norte,122666,Empresa 2
+2016,1,2,Distrito Federal,135932,Empresa 2
+2016,1,2,Guerrero,157740,Empresa 2
+2016,2,1,Nuevo Leon,197330,Empresa 2
+2016,2,1,Jalisco,168769,Empresa 2
+2016,2,1,Baja California Norte,159959,Empresa 2
+2016,2,1,Distrito Federal,185620,Empresa 2
+2016,2,1,Guerrero,132465,Empresa 2
+2016,2,2,Nuevo Leon,181359,Empresa 2
+2016,2,2,Jalisco,196482,Empresa 2
+2016,2,2,Baja California Norte,149699,Empresa 2
+2016,2,2,Distrito Federal,143569,Empresa 2
+2016,2,2,Guerrero,141481,Empresa 2
+2016,3,1,Nuevo Leon,121462,Empresa 2
+2016,3,1,Jalisco,175500,Empresa 2
+2016,3,1,Baja California Norte,167997,Empresa 2
+2016,3,1,Distrito Federal,132977,Empresa 2
+2016,3,1,Guerrero,150565,Empresa 2
+2016,3,2,Nuevo Leon,186940,Empresa 2
+2016,3,2,Jalisco,134533,Empresa 2
+2016,3,2,Baja California Norte,168065,Empresa 2
+2016,3,2,Distrito Federal,140021,Empresa 2
+2016,3,2,Guerrero,134259,Empresa 2
+2016,4,1,Nuevo Leon,116871,Empresa 2
+2016,4,1,Jalisco,146948,Empresa 2
+2016,4,1,Baja California Norte,120184,Empresa 2
+2016,4,1,Distrito Federal,140603,Empresa 2
+2016,4,1,Guerrero,135941,Empresa 2
+2016,4,2,Nuevo Leon,119021,Empresa 2
+2016,4,2,Jalisco,143817,Empresa 2
+2016,4,2,Baja California Norte,124123,Empresa 2
+2016,4,2,Distrito Federal,166466,Empresa 2
+2016,4,2,Guerrero,171982,Empresa 2
+2016,5,1,Nuevo Leon,185770,Empresa 2
+2016,5,1,Jalisco,135665,Empresa 2
+2016,5,1,Baja California Norte,188971,Empresa 2
+2016,5,1,Distrito Federal,114001,Empresa 2
+2016,5,1,Guerrero,116510,Empresa 2
+2016,5,2,Nuevo Leon,162081,Empresa 2
+2016,5,2,Jalisco,185312,Empresa 2
+2016,5,2,Baja California Norte,111760,Empresa 2
+2016,5,2,Distrito Federal,122136,Empresa 2
+2016,5,2,Guerrero,116955,Empresa 2
+2016,6,1,Nuevo Leon,137728,Empresa 2
+2016,6,1,Jalisco,140113,Empresa 2
+2016,6,1,Baja California Norte,169911,Empresa 2
+2016,6,1,Distrito Federal,109799,Empresa 2
+2016,6,1,Guerrero,196643,Empresa 2
+2016,6,2,Nuevo Leon,118671,Empresa 2
+2016,6,2,Jalisco,165909,Empresa 2
+2016,6,2,Baja California Norte,146417,Empresa 2
+2016,6,2,Distrito Federal,150294,Empresa 2
+2016,6,2,Guerrero,199583,Empresa 2
+2016,7,1,Nuevo Leon,147036,Empresa 2
+2016,7,1,Jalisco,103314,Empresa 2
+2016,7,1,Baja California Norte,147548,Empresa 2
+2016,7,1,Distrito Federal,156654,Empresa 2
+2016,7,1,Guerrero,169026,Empresa 2
+2016,7,2,Nuevo Leon,112336,Empresa 2
+2016,7,2,Jalisco,120393,Empresa 2
+2016,7,2,Baja California Norte,183225,Empresa 2
+2016,7,2,Distrito Federal,122705,Empresa 2
+2016,7,2,Guerrero,144461,Empresa 2
+2016,8,1,Nuevo Leon,155696,Empresa 2
+2016,8,1,Jalisco,139293,Empresa 2
+2016,8,1,Baja California Norte,116040,Empresa 2
+2016,8,1,Distrito Federal,118768,Empresa 2
+2016,8,1,Guerrero,189471,Empresa 2
+2016,8,2,Nuevo Leon,174791,Empresa 2
+2016,8,2,Jalisco,114349,Empresa 2
+2016,8,2,Baja California Norte,117494,Empresa 2
+2016,8,2,Distrito Federal,134787,Empresa 2
+2016,8,2,Guerrero,173866,Empresa 2
+2016,9,1,Nuevo Leon,152932,Empresa 2
+2016,9,1,Jalisco,107169,Empresa 2
+2016,9,1,Baja California Norte,138466,Empresa 2
+2016,9,1,Distrito Federal,175613,Empresa 2
+2016,9,1,Guerrero,121777,Empresa 2
+2016,9,2,Nuevo Leon,183497,Empresa 2
+2016,9,2,Jalisco,199807,Empresa 2
+2016,9,2,Baja California Norte,197439,Empresa 2
+2016,9,2,Distrito Federal,131912,Empresa 2
+2016,9,2,Guerrero,187662,Empresa 2
+2016,10,1,Nuevo Leon,118141,Empresa 2
+2016,10,1,Jalisco,133021,Empresa 2
+2016,10,1,Baja California Norte,168035,Empresa 2
+2016,10,1,Distrito Federal,184991,Empresa 2
+2016,10,1,Guerrero,193498,Empresa 2
+2016,10,2,Nuevo Leon,171174,Empresa 2
+2016,10,2,Jalisco,107556,Empresa 2
+2016,10,2,Baja California Norte,197708,Empresa 2
+2016,10,2,Distrito Federal,120093,Empresa 2
+2016,10,2,Guerrero,145979,Empresa 2
+2016,11,1,Nuevo Leon,145519,Empresa 2
+2016,11,1,Jalisco,135281,Empresa 2
+2016,11,1,Baja California Norte,107550,Empresa 2
+2016,11,1,Distrito Federal,179865,Empresa 2
+2016,11,1,Guerrero,156535,Empresa 2
+2016,11,2,Nuevo Leon,184851,Empresa 2
+2016,11,2,Jalisco,114100,Empresa 2
+2016,11,2,Baja California Norte,190000,Empresa 2
+2016,11,2,Distrito Federal,138101,Empresa 2
+2016,11,2,Guerrero,181219,Empresa 2
+2016,12,1,Nuevo Leon,172282,Empresa 2
+2016,12,1,Jalisco,106888,Empresa 2
+2016,12,1,Baja California Norte,197890,Empresa 2
+2016,12,1,Distrito Federal,122503,Empresa 2
+2016,12,1,Guerrero,175611,Empresa 2
+2016,12,2,Nuevo Leon,157254,Empresa 2
+2016,12,2,Jalisco,174328,Empresa 2
+2016,12,2,Baja California Norte,182458,Empresa 2
+2016,12,2,Distrito Federal,118876,Empresa 2
+2016,12,2,Guerrero,148306,Empresa 2
+2017,1,1,Nuevo Leon,161478,Empresa 2
+2017,1,1,Jalisco,124893,Empresa 2
+2017,1,1,Baja California Norte,151915,Empresa 2
+2017,1,1,Distrito Federal,162056,Empresa 2
+2017,1,1,Guerrero,156847,Empresa 2
+2017,1,2,Nuevo Leon,127608,Empresa 2
+2017,1,2,Jalisco,153372,Empresa 2
+2017,1,2,Baja California Norte,163640,Empresa 2
+2017,1,2,Distrito Federal,117909,Empresa 2
+2017,1,2,Guerrero,101607,Empresa 2
+2017,2,1,Nuevo Leon,142545,Empresa 2
+2017,2,1,Jalisco,176144,Empresa 2
+2017,2,1,Baja California Norte,179219,Empresa 2
+2017,2,1,Distrito Federal,177087,Empresa 2
+2017,2,1,Guerrero,101463,Empresa 2
+2017,2,2,Nuevo Leon,137306,Empresa 2
+2017,2,2,Jalisco,163164,Empresa 2
+2017,2,2,Baja California Norte,107952,Empresa 2
+2017,2,2,Distrito Federal,178357,Empresa 2
+2017,2,2,Guerrero,157198,Empresa 2
+2017,3,1,Nuevo Leon,184614,Empresa 2
+2017,3,1,Jalisco,186132,Empresa 2
+2017,3,1,Baja California Norte,199397,Empresa 2
+2017,3,1,Distrito Federal,194455,Empresa 2
+2017,3,1,Guerrero,140057,Empresa 2
+2017,3,2,Nuevo Leon,125247,Empresa 2
+2017,3,2,Jalisco,143133,Empresa 2
+2017,3,2,Baja California Norte,174006,Empresa 2
+2017,3,2,Distrito Federal,163159,Empresa 2
+2017,3,2,Guerrero,151872,Empresa 2
+2017,4,1,Nuevo Leon,153486,Empresa 2
+2017,4,1,Jalisco,122062,Empresa 2
+2017,4,1,Baja California Norte,158714,Empresa 2
+2017,4,1,Distrito Federal,100813,Empresa 2
+2017,4,1,Guerrero,199879,Empresa 2
+2017,4,2,Nuevo Leon,110316,Empresa 2
+2017,4,2,Jalisco,197977,Empresa 2
+2017,4,2,Baja California Norte,145067,Empresa 2
+2017,4,2,Distrito Federal,192399,Empresa 2
+2017,4,2,Guerrero,144368,Empresa 2
+2017,5,1,Nuevo Leon,161662,Empresa 2
+2017,5,1,Jalisco,131667,Empresa 2
+2017,5,1,Baja California Norte,158686,Empresa 2
+2017,5,1,Distrito Federal,141794,Empresa 2
+2017,5,1,Guerrero,108487,Empresa 2
+2017,5,2,Nuevo Leon,183263,Empresa 2
+2017,5,2,Jalisco,137699,Empresa 2
+2017,5,2,Baja California Norte,144749,Empresa 2
+2017,5,2,Distrito Federal,184299,Empresa 2
+2017,5,2,Guerrero,164197,Empresa 2
+2017,6,1,Nuevo Leon,128224,Empresa 2
+2017,6,1,Jalisco,169849,Empresa 2
+2017,6,1,Baja California Norte,120810,Empresa 2
+2017,6,1,Distrito Federal,195545,Empresa 2
+2017,6,1,Guerrero,130910,Empresa 2
+2017,6,2,Nuevo Leon,183300,Empresa 2
+2017,6,2,Jalisco,114081,Empresa 2
+2017,6,2,Baja California Norte,124178,Empresa 2
+2017,6,2,Distrito Federal,122026,Empresa 2
+2017,6,2,Guerrero,130851,Empresa 2
+2017,7,1,Nuevo Leon,147196,Empresa 2
+2017,7,1,Jalisco,172011,Empresa 2
+2017,7,1,Baja California Norte,111934,Empresa 2
+2017,7,1,Distrito Federal,139804,Empresa 2
+2017,7,1,Guerrero,136721,Empresa 2
+2017,7,2,Nuevo Leon,174828,Empresa 2
+2017,7,2,Jalisco,147164,Empresa 2
+2017,7,2,Baja California Norte,182897,Empresa 2
+2017,7,2,Distrito Federal,166870,Empresa 2
+2017,7,2,Guerrero,182421,Empresa 2
+2017,8,1,Nuevo Leon,101995,Empresa 2
+2017,8,1,Jalisco,196366,Empresa 2
+2017,8,1,Baja California Norte,187913,Empresa 2
+2017,8,1,Distrito Federal,156538,Empresa 2
+2017,8,1,Guerrero,104140,Empresa 2
+2017,8,2,Nuevo Leon,143928,Empresa 2
+2017,8,2,Jalisco,181963,Empresa 2
+2017,8,2,Baja California Norte,195870,Empresa 2
+2017,8,2,Distrito Federal,151617,Empresa 2
+2017,8,2,Guerrero,180730,Empresa 2
+2017,9,1,Nuevo Leon,180713,Empresa 2
+2017,9,1,Jalisco,149877,Empresa 2
+2017,9,1,Baja California Norte,168478,Empresa 2
+2017,9,1,Distrito Federal,118105,Empresa 2
+2017,9,1,Guerrero,101605,Empresa 2
+2017,9,2,Nuevo Leon,191458,Empresa 2
+2017,9,2,Jalisco,112569,Empresa 2
+2017,9,2,Baja California Norte,158557,Empresa 2
+2017,9,2,Distrito Federal,162556,Empresa 2
+2017,9,2,Guerrero,177834,Empresa 2
+2017,10,1,Nuevo Leon,179621,Empresa 2
+2017,10,1,Jalisco,175042,Empresa 2
+2017,10,1,Baja California Norte,131055,Empresa 2
+2017,10,1,Distrito Federal,159123,Empresa 2
+2017,10,1,Guerrero,106643,Empresa 2
+2017,10,2,Nuevo Leon,123367,Empresa 2
+2017,10,2,Jalisco,182316,Empresa 2
+2017,10,2,Baja California Norte,173453,Empresa 2
+2017,10,2,Distrito Federal,126691,Empresa 2
+2017,10,2,Guerrero,156562,Empresa 2
+2017,11,1,Nuevo Leon,163746,Empresa 2
+2017,11,1,Jalisco,156293,Empresa 2
+2017,11,1,Baja California Norte,188337,Empresa 2
+2017,11,1,Distrito Federal,107918,Empresa 2
+2017,11,1,Guerrero,195899,Empresa 2
+2017,11,2,Nuevo Leon,103403,Empresa 2
+2017,11,2,Jalisco,187840,Empresa 2
+2017,11,2,Baja California Norte,101988,Empresa 2
+2017,11,2,Distrito Federal,146515,Empresa 2
+2017,11,2,Guerrero,159203,Empresa 2
+2017,12,1,Nuevo Leon,141122,Empresa 2
+2017,12,1,Jalisco,195989,Empresa 2
+2017,12,1,Baja California Norte,102978,Empresa 2
+2017,12,1,Distrito Federal,135390,Empresa 2
+2017,12,1,Guerrero,140580,Empresa 2
+2017,12,2,Nuevo Leon,153987,Empresa 2
+2017,12,2,Jalisco,146484,Empresa 2
+2017,12,2,Baja California Norte,123421,Empresa 2
+2017,12,2,Distrito Federal,119821,Empresa 2
+2017,12,2,Guerrero,184608,Empresa 2
+2018,1,1,Nuevo Leon,129094,Empresa 2
+2018,1,1,Jalisco,189355,Empresa 2
+2018,1,1,Baja California Norte,133416,Empresa 2
+2018,1,1,Distrito Federal,192556,Empresa 2
+2018,1,1,Guerrero,177845,Empresa 2
+2018,1,2,Nuevo Leon,137903,Empresa 2
+2018,1,2,Jalisco,171279,Empresa 2
+2018,1,2,Baja California Norte,156283,Empresa 2
+2018,1,2,Distrito Federal,197433,Empresa 2
+2018,1,2,Guerrero,172531,Empresa 2
+2018,2,1,Nuevo Leon,160616,Empresa 2
+2018,2,1,Jalisco,147154,Empresa 2
+2018,2,1,Baja California Norte,115438,Empresa 2
+2018,2,1,Distrito Federal,118139,Empresa 2
+2018,2,1,Guerrero,191590,Empresa 2
+2018,2,2,Nuevo Leon,113948,Empresa 2
+2018,2,2,Jalisco,180210,Empresa 2
+2018,2,2,Baja California Norte,142593,Empresa 2
+2018,2,2,Distrito Federal,199090,Empresa 2
+2018,2,2,Guerrero,156821,Empresa 2
+2018,3,1,Nuevo Leon,105890,Empresa 2
+2018,3,1,Jalisco,140656,Empresa 2
+2018,3,1,Baja California Norte,177570,Empresa 2
+2018,3,1,Distrito Federal,122079,Empresa 2
+2018,3,1,Guerrero,191749,Empresa 2
+2018,3,2,Nuevo Leon,174075,Empresa 2
+2018,3,2,Jalisco,135573,Empresa 2
+2018,3,2,Baja California Norte,187945,Empresa 2
+2018,3,2,Distrito Federal,184940,Empresa 2
+2018,3,2,Guerrero,185158,Empresa 2
+2018,4,1,Nuevo Leon,148816,Empresa 2
+2018,4,1,Jalisco,115321,Empresa 2
+2018,4,1,Baja California Norte,194057,Empresa 2
+2018,4,1,Distrito Federal,162014,Empresa 2
+2018,4,1,Guerrero,110790,Empresa 2
+2018,4,2,Nuevo Leon,182143,Empresa 2
+2018,4,2,Jalisco,168625,Empresa 2
+2018,4,2,Baja California Norte,182391,Empresa 2
+2018,4,2,Distrito Federal,166925,Empresa 2
+2018,4,2,Guerrero,115046,Empresa 2
+2018,5,1,Nuevo Leon,108237,Empresa 2
+2018,5,1,Jalisco,136900,Empresa 2
+2018,5,1,Baja California Norte,179628,Empresa 2
+2018,5,1,Distrito Federal,199541,Empresa 2
+2018,5,1,Guerrero,141970,Empresa 2
+2018,5,2,Nuevo Leon,136282,Empresa 2
+2018,5,2,Jalisco,166275,Empresa 2
+2018,5,2,Baja California Norte,114567,Empresa 2
+2018,5,2,Distrito Federal,181089,Empresa 2
+2018,5,2,Guerrero,101236,Empresa 2
+2018,6,1,Nuevo Leon,130568,Empresa 2
+2018,6,1,Jalisco,195687,Empresa 2
+2018,6,1,Baja California Norte,153275,Empresa 2
+2018,6,1,Distrito Federal,186003,Empresa 2
+2018,6,1,Guerrero,197483,Empresa 2
+2018,6,2,Nuevo Leon,166499,Empresa 2
+2018,6,2,Jalisco,169050,Empresa 2
+2018,6,2,Baja California Norte,159027,Empresa 2
+2018,6,2,Distrito Federal,108013,Empresa 2
+2018,6,2,Guerrero,195317,Empresa 2
+2018,7,1,Nuevo Leon,166922,Empresa 2
+2018,7,1,Jalisco,154007,Empresa 2
+2018,7,1,Baja California Norte,156356,Empresa 2
+2018,7,1,Distrito Federal,106500,Empresa 2
+2018,7,1,Guerrero,165808,Empresa 2
+2018,7,2,Nuevo Leon,125768,Empresa 2
+2018,7,2,Jalisco,159180,Empresa 2
+2018,7,2,Baja California Norte,172757,Empresa 2
+2018,7,2,Distrito Federal,148881,Empresa 2
+2018,7,2,Guerrero,136323,Empresa 2
+2018,8,1,Nuevo Leon,127321,Empresa 2
+2018,8,1,Jalisco,107701,Empresa 2
+2018,8,1,Baja California Norte,135359,Empresa 2
+2018,8,1,Distrito Federal,105360,Empresa 2
+2018,8,1,Guerrero,199421,Empresa 2
+2018,8,2,Nuevo Leon,134832,Empresa 2
+2018,8,2,Jalisco,168185,Empresa 2
+2018,8,2,Baja California Norte,187419,Empresa 2
+2018,8,2,Distrito Federal,142875,Empresa 2
+2018,8,2,Guerrero,162889,Empresa 2
+2018,9,1,Nuevo Leon,188225,Empresa 2
+2018,9,1,Jalisco,101450,Empresa 2
+2018,9,1,Baja California Norte,176056,Empresa 2
+2018,9,1,Distrito Federal,181883,Empresa 2
+2018,9,1,Guerrero,101338,Empresa 2
+2018,9,2,Nuevo Leon,199749,Empresa 2
+2018,9,2,Jalisco,115174,Empresa 2
+2018,9,2,Baja California Norte,183739,Empresa 2
+2018,9,2,Distrito Federal,148159,Empresa 2
+2018,9,2,Guerrero,114221,Empresa 2
+2018,10,1,Nuevo Leon,148598,Empresa 2
+2018,10,1,Jalisco,127998,Empresa 2
+2018,10,1,Baja California Norte,137345,Empresa 2
+2018,10,1,Distrito Federal,170353,Empresa 2
+2018,10,1,Guerrero,191949,Empresa 2
+2018,10,2,Nuevo Leon,126536,Empresa 2
+2018,10,2,Jalisco,124369,Empresa 2
+2018,10,2,Baja California Norte,110801,Empresa 2
+2018,10,2,Distrito Federal,105363,Empresa 2
+2018,10,2,Guerrero,114328,Empresa 2
+2018,11,1,Nuevo Leon,170018,Empresa 2
+2018,11,1,Jalisco,102831,Empresa 2
+2018,11,1,Baja California Norte,184549,Empresa 2
+2018,11,1,Distrito Federal,112311,Empresa 2
+2018,11,1,Guerrero,109461,Empresa 2
+2018,11,2,Nuevo Leon,155724,Empresa 2
+2018,11,2,Jalisco,190684,Empresa 2
+2018,11,2,Baja California Norte,107319,Empresa 2
+2018,11,2,Distrito Federal,173282,Empresa 2
+2018,11,2,Guerrero,108120,Empresa 2
+2018,12,1,Nuevo Leon,165795,Empresa 2
+2018,12,1,Jalisco,149546,Empresa 2
+2018,12,1,Baja California Norte,194029,Empresa 2
+2018,12,1,Distrito Federal,177019,Empresa 2
+2018,12,1,Guerrero,141070,Empresa 2
+2018,12,2,Nuevo Leon,147842,Empresa 2
+2018,12,2,Jalisco,188969,Empresa 2
+2018,12,2,Baja California Norte,144987,Empresa 2
+2018,12,2,Distrito Federal,113369,Empresa 2
+2018,12,2,Guerrero,193414,Empresa 2
+2019,1,1,Nuevo Leon,111735,Empresa 2
+2019,1,1,Jalisco,155123,Empresa 2
+2019,1,1,Baja California Norte,102718,Empresa 2
+2019,1,1,Distrito Federal,181891,Empresa 2
+2019,1,1,Guerrero,176985,Empresa 2
+2019,1,2,Nuevo Leon,101579,Empresa 2
+2019,1,2,Jalisco,101671,Empresa 2
+2019,1,2,Baja California Norte,196881,Empresa 2
+2019,1,2,Distrito Federal,154077,Empresa 2
+2019,1,2,Guerrero,155848,Empresa 2
+2019,2,1,Nuevo Leon,108476,Empresa 2
+2019,2,1,Jalisco,179231,Empresa 2
+2019,2,1,Baja California Norte,178089,Empresa 2
+2019,2,1,Distrito Federal,105628,Empresa 2
+2019,2,1,Guerrero,162767,Empresa 2
+2019,2,2,Nuevo Leon,136940,Empresa 2
+2019,2,2,Jalisco,188657,Empresa 2
+2019,2,2,Baja California Norte,171069,Empresa 2
+2019,2,2,Distrito Federal,115161,Empresa 2
+2019,2,2,Guerrero,137002,Empresa 2
+2019,3,1,Nuevo Leon,128439,Empresa 2
+2019,3,1,Jalisco,120187,Empresa 2
+2019,3,1,Baja California Norte,180332,Empresa 2
+2019,3,1,Distrito Federal,111053,Empresa 2
+2019,3,1,Guerrero,104795,Empresa 2
+2019,3,2,Nuevo Leon,144326,Empresa 2
+2019,3,2,Jalisco,165405,Empresa 2
+2019,3,2,Baja California Norte,103749,Empresa 2
+2019,3,2,Distrito Federal,157929,Empresa 2
+2019,3,2,Guerrero,182098,Empresa 2
+2019,4,1,Nuevo Leon,136668,Empresa 2
+2019,4,1,Jalisco,147445,Empresa 2
+2019,4,1,Baja California Norte,163390,Empresa 2
+2019,4,1,Distrito Federal,167637,Empresa 2
+2019,4,1,Guerrero,182598,Empresa 2
+2019,4,2,Nuevo Leon,180774,Empresa 2
+2019,4,2,Jalisco,152764,Empresa 2
+2019,4,2,Baja California Norte,150653,Empresa 2
+2019,4,2,Distrito Federal,146232,Empresa 2
+2019,4,2,Guerrero,157686,Empresa 2
+2019,5,1,Nuevo Leon,141773,Empresa 2
+2019,5,1,Jalisco,115372,Empresa 2
+2019,5,1,Baja California Norte,173996,Empresa 2
+2019,5,1,Distrito Federal,172198,Empresa 2
+2019,5,1,Guerrero,137058,Empresa 2
+2019,5,2,Nuevo Leon,186284,Empresa 2
+2019,5,2,Jalisco,110883,Empresa 2
+2019,5,2,Baja California Norte,133953,Empresa 2
+2019,5,2,Distrito Federal,124785,Empresa 2
+2019,5,2,Guerrero,133654,Empresa 2
+2019,6,1,Nuevo Leon,129189,Empresa 2
+2019,6,1,Jalisco,113516,Empresa 2
+2019,6,1,Baja California Norte,164934,Empresa 2
+2019,6,1,Distrito Federal,187384,Empresa 2
+2019,6,1,Guerrero,175753,Empresa 2
+2019,6,2,Nuevo Leon,135159,Empresa 2
+2019,6,2,Jalisco,186302,Empresa 2
+2019,6,2,Baja California Norte,198793,Empresa 2
+2019,6,2,Distrito Federal,111276,Empresa 2
+2019,6,2,Guerrero,133618,Empresa 2
+2019,7,1,Nuevo Leon,109749,Empresa 2
+2019,7,1,Jalisco,190067,Empresa 2
+2019,7,1,Baja California Norte,199309,Empresa 2
+2019,7,1,Distrito Federal,170222,Empresa 2
+2019,7,1,Guerrero,101836,Empresa 2
+2019,7,2,Nuevo Leon,157455,Empresa 2
+2019,7,2,Jalisco,199088,Empresa 2
+2019,7,2,Baja California Norte,140896,Empresa 2
+2019,7,2,Distrito Federal,151937,Empresa 2
+2019,7,2,Guerrero,161238,Empresa 2
+2019,8,1,Nuevo Leon,145319,Empresa 2
+2019,8,1,Jalisco,135038,Empresa 2
+2019,8,1,Baja California Norte,196833,Empresa 2
+2019,8,1,Distrito Federal,107512,Empresa 2
+2019,8,1,Guerrero,199713,Empresa 2
+2019,8,2,Nuevo Leon,173756,Empresa 2
+2019,8,2,Jalisco,154716,Empresa 2
+2019,8,2,Baja California Norte,174673,Empresa 2
+2019,8,2,Distrito Federal,111029,Empresa 2
+2019,8,2,Guerrero,191993,Empresa 2
+2019,9,1,Nuevo Leon,105177,Empresa 2
+2019,9,1,Jalisco,148956,Empresa 2
+2019,9,1,Baja California Norte,105788,Empresa 2
+2019,9,1,Distrito Federal,193366,Empresa 2
+2019,9,1,Guerrero,149724,Empresa 2
+2019,9,2,Nuevo Leon,147734,Empresa 2
+2019,9,2,Jalisco,199767,Empresa 2
+2019,9,2,Baja California Norte,123025,Empresa 2
+2019,9,2,Distrito Federal,118205,Empresa 2
+2019,9,2,Guerrero,123690,Empresa 2
+2019,10,1,Nuevo Leon,161814,Empresa 2
+2019,10,1,Jalisco,109506,Empresa 2
+2019,10,1,Baja California Norte,142407,Empresa 2
+2019,10,1,Distrito Federal,105968,Empresa 2
+2019,10,1,Guerrero,181853,Empresa 2
+2019,10,2,Nuevo Leon,110444,Empresa 2
+2019,10,2,Jalisco,117714,Empresa 2
+2019,10,2,Baja California Norte,106571,Empresa 2
+2019,10,2,Distrito Federal,110341,Empresa 2
+2019,10,2,Guerrero,114324,Empresa 2
+2019,11,1,Nuevo Leon,116210,Empresa 2
+2019,11,1,Jalisco,168522,Empresa 2
+2019,11,1,Baja California Norte,115125,Empresa 2
+2019,11,1,Distrito Federal,119484,Empresa 2
+2019,11,1,Guerrero,113126,Empresa 2
+2019,11,2,Nuevo Leon,138333,Empresa 2
+2019,11,2,Jalisco,134833,Empresa 2
+2019,11,2,Baja California Norte,127193,Empresa 2
+2019,11,2,Distrito Federal,168774,Empresa 2
+2019,11,2,Guerrero,118091,Empresa 2
+2019,12,1,Nuevo Leon,137471,Empresa 2
+2019,12,1,Jalisco,112002,Empresa 2
+2019,12,1,Baja California Norte,195981,Empresa 2
+2019,12,1,Distrito Federal,158586,Empresa 2
+2019,12,1,Guerrero,149792,Empresa 2
+2019,12,2,Nuevo Leon,128594,Empresa 2
+2019,12,2,Jalisco,167655,Empresa 2
+2019,12,2,Baja California Norte,199340,Empresa 2
+2019,12,2,Distrito Federal,145634,Empresa 2
+2019,12,2,Guerrero,139531,Empresa 2
+2020,1,1,Nuevo Leon,137182,Empresa 2
+2020,1,1,Jalisco,120906,Empresa 2
+2020,1,1,Baja California Norte,157941,Empresa 2
+2020,1,1,Distrito Federal,139525,Empresa 2
+2020,1,1,Guerrero,171224,Empresa 2
+2020,1,2,Nuevo Leon,196585,Empresa 2
+2020,1,2,Jalisco,180523,Empresa 2
+2020,1,2,Baja California Norte,158942,Empresa 2
+2020,1,2,Distrito Federal,148272,Empresa 2
+2020,1,2,Guerrero,115121,Empresa 2
+2020,2,1,Nuevo Leon,113361,Empresa 2
+2020,2,1,Jalisco,195611,Empresa 2
+2020,2,1,Baja California Norte,102051,Empresa 2
+2020,2,1,Distrito Federal,113758,Empresa 2
+2020,2,1,Guerrero,146024,Empresa 2
+2020,2,2,Nuevo Leon,139864,Empresa 2
+2020,2,2,Jalisco,120456,Empresa 2
+2020,2,2,Baja California Norte,130603,Empresa 2
+2020,2,2,Distrito Federal,165803,Empresa 2
+2020,2,2,Guerrero,165572,Empresa 2
+2020,3,1,Nuevo Leon,152525,Empresa 2
+2020,3,1,Jalisco,111147,Empresa 2
+2020,3,1,Baja California Norte,101165,Empresa 2
+2020,3,1,Distrito Federal,156735,Empresa 2
+2020,3,1,Guerrero,127072,Empresa 2
+2020,3,2,Nuevo Leon,122566,Empresa 2
+2020,3,2,Jalisco,189834,Empresa 2
+2020,3,2,Baja California Norte,165889,Empresa 2
+2020,3,2,Distrito Federal,191203,Empresa 2
+2020,3,2,Guerrero,127700,Empresa 2
+2020,4,1,Nuevo Leon,180936,Empresa 2
+2020,4,1,Jalisco,129042,Empresa 2
+2020,4,1,Baja California Norte,125782,Empresa 2
+2020,4,1,Distrito Federal,159118,Empresa 2
+2020,4,1,Guerrero,124451,Empresa 2
+2020,4,2,Nuevo Leon,100028,Empresa 2
+2020,4,2,Jalisco,165427,Empresa 2
+2020,4,2,Baja California Norte,166394,Empresa 2
+2020,4,2,Distrito Federal,128966,Empresa 2
+2020,4,2,Guerrero,178653,Empresa 2
+2020,5,1,Nuevo Leon,172798,Empresa 2
+2020,5,1,Jalisco,128486,Empresa 2
+2020,5,1,Baja California Norte,198444,Empresa 2
+2020,5,1,Distrito Federal,148790,Empresa 2
+2020,5,1,Guerrero,190654,Empresa 2
+2020,5,2,Nuevo Leon,185684,Empresa 2
+2020,5,2,Jalisco,194080,Empresa 2
+2020,5,2,Baja California Norte,176267,Empresa 2
+2020,5,2,Distrito Federal,113969,Empresa 2
+2020,5,2,Guerrero,168988,Empresa 2
+2020,6,1,Nuevo Leon,133530,Empresa 2
+2020,6,1,Jalisco,115587,Empresa 2
+2020,6,1,Baja California Norte,151632,Empresa 2
+2020,6,1,Distrito Federal,111482,Empresa 2
+2020,6,1,Guerrero,139547,Empresa 2
+2020,6,2,Nuevo Leon,122469,Empresa 2
+2020,6,2,Jalisco,183333,Empresa 2
+2020,6,2,Baja California Norte,128262,Empresa 2
+2020,6,2,Distrito Federal,184688,Empresa 2
+2020,6,2,Guerrero,197305,Empresa 2
+2020,7,1,Nuevo Leon,140300,Empresa 2
+2020,7,1,Jalisco,120941,Empresa 2
+2020,7,1,Baja California Norte,144341,Empresa 2
+2020,7,1,Distrito Federal,139770,Empresa 2
+2020,7,1,Guerrero,140934,Empresa 2
+2020,7,2,Nuevo Leon,183076,Empresa 2
+2020,7,2,Jalisco,119982,Empresa 2
+2020,7,2,Baja California Norte,115093,Empresa 2
+2020,7,2,Distrito Federal,144135,Empresa 2
+2020,7,2,Guerrero,148083,Empresa 2
+2020,8,1,Nuevo Leon,190343,Empresa 2
+2020,8,1,Jalisco,132135,Empresa 2
+2020,8,1,Baja California Norte,191844,Empresa 2
+2020,8,1,Distrito Federal,148572,Empresa 2
+2020,8,1,Guerrero,120955,Empresa 2
+2020,8,2,Nuevo Leon,114663,Empresa 2
+2020,8,2,Jalisco,184001,Empresa 2
+2020,8,2,Baja California Norte,167945,Empresa 2
+2020,8,2,Distrito Federal,137270,Empresa 2
+2020,8,2,Guerrero,194873,Empresa 2
+2020,9,1,Nuevo Leon,108124,Empresa 2
+2020,9,1,Jalisco,152029,Empresa 2
+2020,9,1,Baja California Norte,197265,Empresa 2
+2020,9,1,Distrito Federal,158779,Empresa 2
+2020,9,1,Guerrero,136759,Empresa 2
+2020,9,2,Nuevo Leon,160484,Empresa 2
+2020,9,2,Jalisco,160098,Empresa 2
+2020,9,2,Baja California Norte,175945,Empresa 2
+2020,9,2,Distrito Federal,130653,Empresa 2
+2020,9,2,Guerrero,125208,Empresa 2
+2020,10,1,Nuevo Leon,194539,Empresa 2
+2020,10,1,Jalisco,121848,Empresa 2
+2020,10,1,Baja California Norte,174496,Empresa 2
+2020,10,1,Distrito Federal,158350,Empresa 2
+2020,10,1,Guerrero,196143,Empresa 2
+2020,10,2,Nuevo Leon,181980,Empresa 2
+2020,10,2,Jalisco,132390,Empresa 2
+2020,10,2,Baja California Norte,112118,Empresa 2
+2020,10,2,Distrito Federal,182237,Empresa 2
+2020,10,2,Guerrero,178045,Empresa 2
+2020,11,1,Nuevo Leon,159077,Empresa 2
+2020,11,1,Jalisco,177524,Empresa 2
+2020,11,1,Baja California Norte,186437,Empresa 2
+2020,11,1,Distrito Federal,141069,Empresa 2
+2020,11,1,Guerrero,158645,Empresa 2
+2020,11,2,Nuevo Leon,145347,Empresa 2
+2020,11,2,Jalisco,105416,Empresa 2
+2020,11,2,Baja California Norte,157341,Empresa 2
+2020,11,2,Distrito Federal,113705,Empresa 2
+2020,11,2,Guerrero,154953,Empresa 2
+2020,12,1,Nuevo Leon,119910,Empresa 2
+2020,12,1,Jalisco,195766,Empresa 2
+2020,12,1,Baja California Norte,184190,Empresa 2
+2020,12,1,Distrito Federal,110611,Empresa 2
+2020,12,1,Guerrero,152283,Empresa 2
+2020,12,2,Nuevo Leon,100838,Empresa 2
+2020,12,2,Jalisco,152052,Empresa 2
+2020,12,2,Baja California Norte,144036,Empresa 2
+2020,12,2,Distrito Federal,195322,Empresa 2
+2020,12,2,Guerrero,115138,Empresa 2
+2016,1,1,Nuevo Leon,186153,Empresa 3
+2016,1,1,Jalisco,117890,Empresa 3
+2016,1,1,Baja California Norte,196401,Empresa 3
+2016,1,1,Distrito Federal,175190,Empresa 3
+2016,1,1,Guerrero,183016,Empresa 3
+2016,1,2,Nuevo Leon,186476,Empresa 3
+2016,1,2,Jalisco,145839,Empresa 3
+2016,1,2,Baja California Norte,188315,Empresa 3
+2016,1,2,Distrito Federal,108361,Empresa 3
+2016,1,2,Guerrero,183386,Empresa 3
+2016,2,1,Nuevo Leon,155864,Empresa 3
+2016,2,1,Jalisco,133705,Empresa 3
+2016,2,1,Baja California Norte,160796,Empresa 3
+2016,2,1,Distrito Federal,141121,Empresa 3
+2016,2,1,Guerrero,111906,Empresa 3
+2016,2,2,Nuevo Leon,137078,Empresa 3
+2016,2,2,Jalisco,177414,Empresa 3
+2016,2,2,Baja California Norte,149825,Empresa 3
+2016,2,2,Distrito Federal,163796,Empresa 3
+2016,2,2,Guerrero,126682,Empresa 3
+2016,3,1,Nuevo Leon,123794,Empresa 3
+2016,3,1,Jalisco,134784,Empresa 3
+2016,3,1,Baja California Norte,138166,Empresa 3
+2016,3,1,Distrito Federal,157443,Empresa 3
+2016,3,1,Guerrero,114625,Empresa 3
+2016,3,2,Nuevo Leon,157104,Empresa 3
+2016,3,2,Jalisco,189040,Empresa 3
+2016,3,2,Baja California Norte,132464,Empresa 3
+2016,3,2,Distrito Federal,119935,Empresa 3
+2016,3,2,Guerrero,147651,Empresa 3
+2016,4,1,Nuevo Leon,124223,Empresa 3
+2016,4,1,Jalisco,155103,Empresa 3
+2016,4,1,Baja California Norte,124422,Empresa 3
+2016,4,1,Distrito Federal,105795,Empresa 3
+2016,4,1,Guerrero,166609,Empresa 3
+2016,4,2,Nuevo Leon,123992,Empresa 3
+2016,4,2,Jalisco,146389,Empresa 3
+2016,4,2,Baja California Norte,116452,Empresa 3
+2016,4,2,Distrito Federal,158218,Empresa 3
+2016,4,2,Guerrero,184336,Empresa 3
+2016,5,1,Nuevo Leon,176370,Empresa 3
+2016,5,1,Jalisco,148484,Empresa 3
+2016,5,1,Baja California Norte,157632,Empresa 3
+2016,5,1,Distrito Federal,185133,Empresa 3
+2016,5,1,Guerrero,116121,Empresa 3
+2016,5,2,Nuevo Leon,183262,Empresa 3
+2016,5,2,Jalisco,169577,Empresa 3
+2016,5,2,Baja California Norte,181512,Empresa 3
+2016,5,2,Distrito Federal,156457,Empresa 3
+2016,5,2,Guerrero,192567,Empresa 3
+2016,6,1,Nuevo Leon,150750,Empresa 3
+2016,6,1,Jalisco,170957,Empresa 3
+2016,6,1,Baja California Norte,121219,Empresa 3
+2016,6,1,Distrito Federal,196593,Empresa 3
+2016,6,1,Guerrero,116949,Empresa 3
+2016,6,2,Nuevo Leon,108993,Empresa 3
+2016,6,2,Jalisco,167437,Empresa 3
+2016,6,2,Baja California Norte,197515,Empresa 3
+2016,6,2,Distrito Federal,116724,Empresa 3
+2016,6,2,Guerrero,158974,Empresa 3
+2016,7,1,Nuevo Leon,109001,Empresa 3
+2016,7,1,Jalisco,127151,Empresa 3
+2016,7,1,Baja California Norte,152780,Empresa 3
+2016,7,1,Distrito Federal,161891,Empresa 3
+2016,7,1,Guerrero,123939,Empresa 3
+2016,7,2,Nuevo Leon,163482,Empresa 3
+2016,7,2,Jalisco,126738,Empresa 3
+2016,7,2,Baja California Norte,147790,Empresa 3
+2016,7,2,Distrito Federal,140834,Empresa 3
+2016,7,2,Guerrero,136052,Empresa 3
+2016,8,1,Nuevo Leon,130098,Empresa 3
+2016,8,1,Jalisco,193699,Empresa 3
+2016,8,1,Baja California Norte,112776,Empresa 3
+2016,8,1,Distrito Federal,184593,Empresa 3
+2016,8,1,Guerrero,183023,Empresa 3
+2016,8,2,Nuevo Leon,126772,Empresa 3
+2016,8,2,Jalisco,193757,Empresa 3
+2016,8,2,Baja California Norte,123157,Empresa 3
+2016,8,2,Distrito Federal,150457,Empresa 3
+2016,8,2,Guerrero,187974,Empresa 3
+2016,9,1,Nuevo Leon,121648,Empresa 3
+2016,9,1,Jalisco,142752,Empresa 3
+2016,9,1,Baja California Norte,173099,Empresa 3
+2016,9,1,Distrito Federal,159318,Empresa 3
+2016,9,1,Guerrero,165302,Empresa 3
+2016,9,2,Nuevo Leon,153668,Empresa 3
+2016,9,2,Jalisco,152301,Empresa 3
+2016,9,2,Baja California Norte,178387,Empresa 3
+2016,9,2,Distrito Federal,124772,Empresa 3
+2016,9,2,Guerrero,162287,Empresa 3
+2016,10,1,Nuevo Leon,134702,Empresa 3
+2016,10,1,Jalisco,161020,Empresa 3
+2016,10,1,Baja California Norte,161626,Empresa 3
+2016,10,1,Distrito Federal,173312,Empresa 3
+2016,10,1,Guerrero,119900,Empresa 3
+2016,10,2,Nuevo Leon,182011,Empresa 3
+2016,10,2,Jalisco,115005,Empresa 3
+2016,10,2,Baja California Norte,132692,Empresa 3
+2016,10,2,Distrito Federal,108047,Empresa 3
+2016,10,2,Guerrero,195906,Empresa 3
+2016,11,1,Nuevo Leon,192226,Empresa 3
+2016,11,1,Jalisco,120316,Empresa 3
+2016,11,1,Baja California Norte,199475,Empresa 3
+2016,11,1,Distrito Federal,127249,Empresa 3
+2016,11,1,Guerrero,146740,Empresa 3
+2016,11,2,Nuevo Leon,124296,Empresa 3
+2016,11,2,Jalisco,160053,Empresa 3
+2016,11,2,Baja California Norte,128387,Empresa 3
+2016,11,2,Distrito Federal,164635,Empresa 3
+2016,11,2,Guerrero,144057,Empresa 3
+2016,12,1,Nuevo Leon,174204,Empresa 3
+2016,12,1,Jalisco,183335,Empresa 3
+2016,12,1,Baja California Norte,127152,Empresa 3
+2016,12,1,Distrito Federal,129119,Empresa 3
+2016,12,1,Guerrero,187947,Empresa 3
+2016,12,2,Nuevo Leon,167074,Empresa 3
+2016,12,2,Jalisco,194784,Empresa 3
+2016,12,2,Baja California Norte,158581,Empresa 3
+2016,12,2,Distrito Federal,120221,Empresa 3
+2016,12,2,Guerrero,156976,Empresa 3
+2017,1,1,Nuevo Leon,186708,Empresa 3
+2017,1,1,Jalisco,178632,Empresa 3
+2017,1,1,Baja California Norte,148074,Empresa 3
+2017,1,1,Distrito Federal,198256,Empresa 3
+2017,1,1,Guerrero,187764,Empresa 3
+2017,1,2,Nuevo Leon,149032,Empresa 3
+2017,1,2,Jalisco,113645,Empresa 3
+2017,1,2,Baja California Norte,152768,Empresa 3
+2017,1,2,Distrito Federal,154599,Empresa 3
+2017,1,2,Guerrero,160309,Empresa 3
+2017,2,1,Nuevo Leon,130353,Empresa 3
+2017,2,1,Jalisco,179982,Empresa 3
+2017,2,1,Baja California Norte,198099,Empresa 3
+2017,2,1,Distrito Federal,127230,Empresa 3
+2017,2,1,Guerrero,193888,Empresa 3
+2017,2,2,Nuevo Leon,118539,Empresa 3
+2017,2,2,Jalisco,127678,Empresa 3
+2017,2,2,Baja California Norte,179258,Empresa 3
+2017,2,2,Distrito Federal,162919,Empresa 3
+2017,2,2,Guerrero,172264,Empresa 3
+2017,3,1,Nuevo Leon,140772,Empresa 3
+2017,3,1,Jalisco,166869,Empresa 3
+2017,3,1,Baja California Norte,118717,Empresa 3
+2017,3,1,Distrito Federal,130101,Empresa 3
+2017,3,1,Guerrero,146592,Empresa 3
+2017,3,2,Nuevo Leon,134744,Empresa 3
+2017,3,2,Jalisco,168543,Empresa 3
+2017,3,2,Baja California Norte,131887,Empresa 3
+2017,3,2,Distrito Federal,142633,Empresa 3
+2017,3,2,Guerrero,107475,Empresa 3
+2017,4,1,Nuevo Leon,184836,Empresa 3
+2017,4,1,Jalisco,121992,Empresa 3
+2017,4,1,Baja California Norte,104109,Empresa 3
+2017,4,1,Distrito Federal,187236,Empresa 3
+2017,4,1,Guerrero,170803,Empresa 3
+2017,4,2,Nuevo Leon,122591,Empresa 3
+2017,4,2,Jalisco,199735,Empresa 3
+2017,4,2,Baja California Norte,103901,Empresa 3
+2017,4,2,Distrito Federal,187099,Empresa 3
+2017,4,2,Guerrero,122770,Empresa 3
+2017,5,1,Nuevo Leon,115973,Empresa 3
+2017,5,1,Jalisco,140514,Empresa 3
+2017,5,1,Baja California Norte,150473,Empresa 3
+2017,5,1,Distrito Federal,196686,Empresa 3
+2017,5,1,Guerrero,106793,Empresa 3
+2017,5,2,Nuevo Leon,100114,Empresa 3
+2017,5,2,Jalisco,140040,Empresa 3
+2017,5,2,Baja California Norte,146053,Empresa 3
+2017,5,2,Distrito Federal,155128,Empresa 3
+2017,5,2,Guerrero,146178,Empresa 3
+2017,6,1,Nuevo Leon,128349,Empresa 3
+2017,6,1,Jalisco,185682,Empresa 3
+2017,6,1,Baja California Norte,177449,Empresa 3
+2017,6,1,Distrito Federal,183721,Empresa 3
+2017,6,1,Guerrero,129278,Empresa 3
+2017,6,2,Nuevo Leon,105987,Empresa 3
+2017,6,2,Jalisco,124686,Empresa 3
+2017,6,2,Baja California Norte,182656,Empresa 3
+2017,6,2,Distrito Federal,137728,Empresa 3
+2017,6,2,Guerrero,165647,Empresa 3
+2017,7,1,Nuevo Leon,166625,Empresa 3
+2017,7,1,Jalisco,125610,Empresa 3
+2017,7,1,Baja California Norte,147733,Empresa 3
+2017,7,1,Distrito Federal,160803,Empresa 3
+2017,7,1,Guerrero,175830,Empresa 3
+2017,7,2,Nuevo Leon,160161,Empresa 3
+2017,7,2,Jalisco,198932,Empresa 3
+2017,7,2,Baja California Norte,138834,Empresa 3
+2017,7,2,Distrito Federal,187025,Empresa 3
+2017,7,2,Guerrero,184740,Empresa 3
+2017,8,1,Nuevo Leon,112675,Empresa 3
+2017,8,1,Jalisco,146563,Empresa 3
+2017,8,1,Baja California Norte,120313,Empresa 3
+2017,8,1,Distrito Federal,132834,Empresa 3
+2017,8,1,Guerrero,163617,Empresa 3
+2017,8,2,Nuevo Leon,170326,Empresa 3
+2017,8,2,Jalisco,179780,Empresa 3
+2017,8,2,Baja California Norte,120977,Empresa 3
+2017,8,2,Distrito Federal,171678,Empresa 3
+2017,8,2,Guerrero,106734,Empresa 3
+2017,9,1,Nuevo Leon,194632,Empresa 3
+2017,9,1,Jalisco,144740,Empresa 3
+2017,9,1,Baja California Norte,109553,Empresa 3
+2017,9,1,Distrito Federal,122343,Empresa 3
+2017,9,1,Guerrero,157282,Empresa 3
+2017,9,2,Nuevo Leon,155595,Empresa 3
+2017,9,2,Jalisco,183773,Empresa 3
+2017,9,2,Baja California Norte,160430,Empresa 3
+2017,9,2,Distrito Federal,113945,Empresa 3
+2017,9,2,Guerrero,137375,Empresa 3
+2017,10,1,Nuevo Leon,162546,Empresa 3
+2017,10,1,Jalisco,189649,Empresa 3
+2017,10,1,Baja California Norte,106181,Empresa 3
+2017,10,1,Distrito Federal,128809,Empresa 3
+2017,10,1,Guerrero,125700,Empresa 3
+2017,10,2,Nuevo Leon,187211,Empresa 3
+2017,10,2,Jalisco,186620,Empresa 3
+2017,10,2,Baja California Norte,127943,Empresa 3
+2017,10,2,Distrito Federal,146290,Empresa 3
+2017,10,2,Guerrero,124078,Empresa 3
+2017,11,1,Nuevo Leon,164131,Empresa 3
+2017,11,1,Jalisco,116862,Empresa 3
+2017,11,1,Baja California Norte,108927,Empresa 3
+2017,11,1,Distrito Federal,185965,Empresa 3
+2017,11,1,Guerrero,142799,Empresa 3
+2017,11,2,Nuevo Leon,199545,Empresa 3
+2017,11,2,Jalisco,158503,Empresa 3
+2017,11,2,Baja California Norte,122554,Empresa 3
+2017,11,2,Distrito Federal,182449,Empresa 3
+2017,11,2,Guerrero,125923,Empresa 3
+2017,12,1,Nuevo Leon,116561,Empresa 3
+2017,12,1,Jalisco,177565,Empresa 3
+2017,12,1,Baja California Norte,185836,Empresa 3
+2017,12,1,Distrito Federal,178028,Empresa 3
+2017,12,1,Guerrero,176029,Empresa 3
+2017,12,2,Nuevo Leon,120558,Empresa 3
+2017,12,2,Jalisco,171857,Empresa 3
+2017,12,2,Baja California Norte,188521,Empresa 3
+2017,12,2,Distrito Federal,191486,Empresa 3
+2017,12,2,Guerrero,198387,Empresa 3
+2018,1,1,Nuevo Leon,142738,Empresa 3
+2018,1,1,Jalisco,134033,Empresa 3
+2018,1,1,Baja California Norte,157067,Empresa 3
+2018,1,1,Distrito Federal,103461,Empresa 3
+2018,1,1,Guerrero,197815,Empresa 3
+2018,1,2,Nuevo Leon,135606,Empresa 3
+2018,1,2,Jalisco,157862,Empresa 3
+2018,1,2,Baja California Norte,139710,Empresa 3
+2018,1,2,Distrito Federal,113268,Empresa 3
+2018,1,2,Guerrero,187158,Empresa 3
+2018,2,1,Nuevo Leon,194255,Empresa 3
+2018,2,1,Jalisco,182504,Empresa 3
+2018,2,1,Baja California Norte,173845,Empresa 3
+2018,2,1,Distrito Federal,126642,Empresa 3
+2018,2,1,Guerrero,174985,Empresa 3
+2018,2,2,Nuevo Leon,144071,Empresa 3
+2018,2,2,Jalisco,159275,Empresa 3
+2018,2,2,Baja California Norte,141362,Empresa 3
+2018,2,2,Distrito Federal,127816,Empresa 3
+2018,2,2,Guerrero,158143,Empresa 3
+2018,3,1,Nuevo Leon,122472,Empresa 3
+2018,3,1,Jalisco,174020,Empresa 3
+2018,3,1,Baja California Norte,148141,Empresa 3
+2018,3,1,Distrito Federal,165661,Empresa 3
+2018,3,1,Guerrero,163285,Empresa 3
+2018,3,2,Nuevo Leon,170037,Empresa 3
+2018,3,2,Jalisco,139489,Empresa 3
+2018,3,2,Baja California Norte,176766,Empresa 3
+2018,3,2,Distrito Federal,179839,Empresa 3
+2018,3,2,Guerrero,138902,Empresa 3
+2018,4,1,Nuevo Leon,181648,Empresa 3
+2018,4,1,Jalisco,123250,Empresa 3
+2018,4,1,Baja California Norte,123864,Empresa 3
+2018,4,1,Distrito Federal,103315,Empresa 3
+2018,4,1,Guerrero,162134,Empresa 3
+2018,4,2,Nuevo Leon,144197,Empresa 3
+2018,4,2,Jalisco,124605,Empresa 3
+2018,4,2,Baja California Norte,161414,Empresa 3
+2018,4,2,Distrito Federal,101326,Empresa 3
+2018,4,2,Guerrero,153186,Empresa 3
+2018,5,1,Nuevo Leon,100043,Empresa 3
+2018,5,1,Jalisco,196485,Empresa 3
+2018,5,1,Baja California Norte,122870,Empresa 3
+2018,5,1,Distrito Federal,189896,Empresa 3
+2018,5,1,Guerrero,187311,Empresa 3
+2018,5,2,Nuevo Leon,177219,Empresa 3
+2018,5,2,Jalisco,139696,Empresa 3
+2018,5,2,Baja California Norte,130027,Empresa 3
+2018,5,2,Distrito Federal,187661,Empresa 3
+2018,5,2,Guerrero,110953,Empresa 3
+2018,6,1,Nuevo Leon,178399,Empresa 3
+2018,6,1,Jalisco,166208,Empresa 3
+2018,6,1,Baja California Norte,148929,Empresa 3
+2018,6,1,Distrito Federal,177073,Empresa 3
+2018,6,1,Guerrero,176900,Empresa 3
+2018,6,2,Nuevo Leon,195827,Empresa 3
+2018,6,2,Jalisco,113890,Empresa 3
+2018,6,2,Baja California Norte,168640,Empresa 3
+2018,6,2,Distrito Federal,110545,Empresa 3
+2018,6,2,Guerrero,185436,Empresa 3
+2018,7,1,Nuevo Leon,139029,Empresa 3
+2018,7,1,Jalisco,150143,Empresa 3
+2018,7,1,Baja California Norte,155782,Empresa 3
+2018,7,1,Distrito Federal,198571,Empresa 3
+2018,7,1,Guerrero,195870,Empresa 3
+2018,7,2,Nuevo Leon,130665,Empresa 3
+2018,7,2,Jalisco,110422,Empresa 3
+2018,7,2,Baja California Norte,163233,Empresa 3
+2018,7,2,Distrito Federal,149779,Empresa 3
+2018,7,2,Guerrero,190718,Empresa 3
+2018,8,1,Nuevo Leon,164404,Empresa 3
+2018,8,1,Jalisco,143978,Empresa 3
+2018,8,1,Baja California Norte,192605,Empresa 3
+2018,8,1,Distrito Federal,107619,Empresa 3
+2018,8,1,Guerrero,105343,Empresa 3
+2018,8,2,Nuevo Leon,196478,Empresa 3
+2018,8,2,Jalisco,197066,Empresa 3
+2018,8,2,Baja California Norte,101432,Empresa 3
+2018,8,2,Distrito Federal,155456,Empresa 3
+2018,8,2,Guerrero,168261,Empresa 3
+2018,9,1,Nuevo Leon,179915,Empresa 3
+2018,9,1,Jalisco,151608,Empresa 3
+2018,9,1,Baja California Norte,142753,Empresa 3
+2018,9,1,Distrito Federal,181330,Empresa 3
+2018,9,1,Guerrero,168872,Empresa 3
+2018,9,2,Nuevo Leon,195671,Empresa 3
+2018,9,2,Jalisco,150594,Empresa 3
+2018,9,2,Baja California Norte,110192,Empresa 3
+2018,9,2,Distrito Federal,128755,Empresa 3
+2018,9,2,Guerrero,131271,Empresa 3
+2018,10,1,Nuevo Leon,177296,Empresa 3
+2018,10,1,Jalisco,178531,Empresa 3
+2018,10,1,Baja California Norte,137799,Empresa 3
+2018,10,1,Distrito Federal,162262,Empresa 3
+2018,10,1,Guerrero,136103,Empresa 3
+2018,10,2,Nuevo Leon,102215,Empresa 3
+2018,10,2,Jalisco,118401,Empresa 3
+2018,10,2,Baja California Norte,124640,Empresa 3
+2018,10,2,Distrito Federal,160470,Empresa 3
+2018,10,2,Guerrero,195626,Empresa 3
+2018,11,1,Nuevo Leon,100649,Empresa 3
+2018,11,1,Jalisco,107408,Empresa 3
+2018,11,1,Baja California Norte,169384,Empresa 3
+2018,11,1,Distrito Federal,145033,Empresa 3
+2018,11,1,Guerrero,167715,Empresa 3
+2018,11,2,Nuevo Leon,162519,Empresa 3
+2018,11,2,Jalisco,188167,Empresa 3
+2018,11,2,Baja California Norte,154133,Empresa 3
+2018,11,2,Distrito Federal,135745,Empresa 3
+2018,11,2,Guerrero,111755,Empresa 3
+2018,12,1,Nuevo Leon,195208,Empresa 3
+2018,12,1,Jalisco,173033,Empresa 3
+2018,12,1,Baja California Norte,124116,Empresa 3
+2018,12,1,Distrito Federal,153155,Empresa 3
+2018,12,1,Guerrero,151764,Empresa 3
+2018,12,2,Nuevo Leon,143630,Empresa 3
+2018,12,2,Jalisco,166753,Empresa 3
+2018,12,2,Baja California Norte,124896,Empresa 3
+2018,12,2,Distrito Federal,134157,Empresa 3
+2018,12,2,Guerrero,166943,Empresa 3
+2019,1,1,Nuevo Leon,178734,Empresa 3
+2019,1,1,Jalisco,186790,Empresa 3
+2019,1,1,Baja California Norte,176982,Empresa 3
+2019,1,1,Distrito Federal,195861,Empresa 3
+2019,1,1,Guerrero,168800,Empresa 3
+2019,1,2,Nuevo Leon,145890,Empresa 3
+2019,1,2,Jalisco,146927,Empresa 3
+2019,1,2,Baja California Norte,107528,Empresa 3
+2019,1,2,Distrito Federal,188554,Empresa 3
+2019,1,2,Guerrero,118872,Empresa 3
+2019,2,1,Nuevo Leon,174120,Empresa 3
+2019,2,1,Jalisco,109774,Empresa 3
+2019,2,1,Baja California Norte,145736,Empresa 3
+2019,2,1,Distrito Federal,183435,Empresa 3
+2019,2,1,Guerrero,196869,Empresa 3
+2019,2,2,Nuevo Leon,123581,Empresa 3
+2019,2,2,Jalisco,147222,Empresa 3
+2019,2,2,Baja California Norte,150326,Empresa 3
+2019,2,2,Distrito Federal,134253,Empresa 3
+2019,2,2,Guerrero,102787,Empresa 3
+2019,3,1,Nuevo Leon,172415,Empresa 3
+2019,3,1,Jalisco,150006,Empresa 3
+2019,3,1,Baja California Norte,110052,Empresa 3
+2019,3,1,Distrito Federal,103900,Empresa 3
+2019,3,1,Guerrero,111275,Empresa 3
+2019,3,2,Nuevo Leon,188391,Empresa 3
+2019,3,2,Jalisco,133339,Empresa 3
+2019,3,2,Baja California Norte,107925,Empresa 3
+2019,3,2,Distrito Federal,151916,Empresa 3
+2019,3,2,Guerrero,116400,Empresa 3
+2019,4,1,Nuevo Leon,141601,Empresa 3
+2019,4,1,Jalisco,181465,Empresa 3
+2019,4,1,Baja California Norte,167583,Empresa 3
+2019,4,1,Distrito Federal,148082,Empresa 3
+2019,4,1,Guerrero,150875,Empresa 3
+2019,4,2,Nuevo Leon,132317,Empresa 3
+2019,4,2,Jalisco,154951,Empresa 3
+2019,4,2,Baja California Norte,125594,Empresa 3
+2019,4,2,Distrito Federal,146246,Empresa 3
+2019,4,2,Guerrero,176745,Empresa 3
+2019,5,1,Nuevo Leon,159092,Empresa 3
+2019,5,1,Jalisco,123741,Empresa 3
+2019,5,1,Baja California Norte,100800,Empresa 3
+2019,5,1,Distrito Federal,128710,Empresa 3
+2019,5,1,Guerrero,175307,Empresa 3
+2019,5,2,Nuevo Leon,176819,Empresa 3
+2019,5,2,Jalisco,111116,Empresa 3
+2019,5,2,Baja California Norte,161571,Empresa 3
+2019,5,2,Distrito Federal,168233,Empresa 3
+2019,5,2,Guerrero,106316,Empresa 3
+2019,6,1,Nuevo Leon,173077,Empresa 3
+2019,6,1,Jalisco,114326,Empresa 3
+2019,6,1,Baja California Norte,119156,Empresa 3
+2019,6,1,Distrito Federal,158438,Empresa 3
+2019,6,1,Guerrero,178427,Empresa 3
+2019,6,2,Nuevo Leon,179399,Empresa 3
+2019,6,2,Jalisco,157608,Empresa 3
+2019,6,2,Baja California Norte,172775,Empresa 3
+2019,6,2,Distrito Federal,144634,Empresa 3
+2019,6,2,Guerrero,170833,Empresa 3
+2019,7,1,Nuevo Leon,113094,Empresa 3
+2019,7,1,Jalisco,121137,Empresa 3
+2019,7,1,Baja California Norte,180438,Empresa 3
+2019,7,1,Distrito Federal,183908,Empresa 3
+2019,7,1,Guerrero,135399,Empresa 3
+2019,7,2,Nuevo Leon,115156,Empresa 3
+2019,7,2,Jalisco,134988,Empresa 3
+2019,7,2,Baja California Norte,182616,Empresa 3
+2019,7,2,Distrito Federal,191622,Empresa 3
+2019,7,2,Guerrero,107885,Empresa 3
+2019,8,1,Nuevo Leon,168353,Empresa 3
+2019,8,1,Jalisco,141156,Empresa 3
+2019,8,1,Baja California Norte,130389,Empresa 3
+2019,8,1,Distrito Federal,129681,Empresa 3
+2019,8,1,Guerrero,163359,Empresa 3
+2019,8,2,Nuevo Leon,145723,Empresa 3
+2019,8,2,Jalisco,188342,Empresa 3
+2019,8,2,Baja California Norte,100849,Empresa 3
+2019,8,2,Distrito Federal,121966,Empresa 3
+2019,8,2,Guerrero,155163,Empresa 3
+2019,9,1,Nuevo Leon,134501,Empresa 3
+2019,9,1,Jalisco,126501,Empresa 3
+2019,9,1,Baja California Norte,194684,Empresa 3
+2019,9,1,Distrito Federal,110026,Empresa 3
+2019,9,1,Guerrero,153058,Empresa 3
+2019,9,2,Nuevo Leon,120840,Empresa 3
+2019,9,2,Jalisco,137146,Empresa 3
+2019,9,2,Baja California Norte,124612,Empresa 3
+2019,9,2,Distrito Federal,186815,Empresa 3
+2019,9,2,Guerrero,154410,Empresa 3
+2019,10,1,Nuevo Leon,115191,Empresa 3
+2019,10,1,Jalisco,140288,Empresa 3
+2019,10,1,Baja California Norte,185645,Empresa 3
+2019,10,1,Distrito Federal,181239,Empresa 3
+2019,10,1,Guerrero,186578,Empresa 3
+2019,10,2,Nuevo Leon,131171,Empresa 3
+2019,10,2,Jalisco,152863,Empresa 3
+2019,10,2,Baja California Norte,168825,Empresa 3
+2019,10,2,Distrito Federal,111724,Empresa 3
+2019,10,2,Guerrero,188617,Empresa 3
+2019,11,1,Nuevo Leon,194984,Empresa 3
+2019,11,1,Jalisco,118440,Empresa 3
+2019,11,1,Baja California Norte,131124,Empresa 3
+2019,11,1,Distrito Federal,159475,Empresa 3
+2019,11,1,Guerrero,134564,Empresa 3
+2019,11,2,Nuevo Leon,121236,Empresa 3
+2019,11,2,Jalisco,107467,Empresa 3
+2019,11,2,Baja California Norte,174651,Empresa 3
+2019,11,2,Distrito Federal,175270,Empresa 3
+2019,11,2,Guerrero,187629,Empresa 3
+2019,12,1,Nuevo Leon,129987,Empresa 3
+2019,12,1,Jalisco,115946,Empresa 3
+2019,12,1,Baja California Norte,182014,Empresa 3
+2019,12,1,Distrito Federal,106838,Empresa 3
+2019,12,1,Guerrero,109829,Empresa 3
+2019,12,2,Nuevo Leon,154230,Empresa 3
+2019,12,2,Jalisco,109630,Empresa 3
+2019,12,2,Baja California Norte,137974,Empresa 3
+2019,12,2,Distrito Federal,186089,Empresa 3
+2019,12,2,Guerrero,125983,Empresa 3
+2020,1,1,Nuevo Leon,177548,Empresa 3
+2020,1,1,Jalisco,136434,Empresa 3
+2020,1,1,Baja California Norte,135531,Empresa 3
+2020,1,1,Distrito Federal,171510,Empresa 3
+2020,1,1,Guerrero,109088,Empresa 3
+2020,1,2,Nuevo Leon,155555,Empresa 3
+2020,1,2,Jalisco,108348,Empresa 3
+2020,1,2,Baja California Norte,139965,Empresa 3
+2020,1,2,Distrito Federal,189873,Empresa 3
+2020,1,2,Guerrero,136063,Empresa 3
+2020,2,1,Nuevo Leon,132515,Empresa 3
+2020,2,1,Jalisco,163224,Empresa 3
+2020,2,1,Baja California Norte,118597,Empresa 3
+2020,2,1,Distrito Federal,182480,Empresa 3
+2020,2,1,Guerrero,100106,Empresa 3
+2020,2,2,Nuevo Leon,145709,Empresa 3
+2020,2,2,Jalisco,195155,Empresa 3
+2020,2,2,Baja California Norte,145259,Empresa 3
+2020,2,2,Distrito Federal,125667,Empresa 3
+2020,2,2,Guerrero,169517,Empresa 3
+2020,3,1,Nuevo Leon,191530,Empresa 3
+2020,3,1,Jalisco,175931,Empresa 3
+2020,3,1,Baja California Norte,187521,Empresa 3
+2020,3,1,Distrito Federal,103564,Empresa 3
+2020,3,1,Guerrero,174282,Empresa 3
+2020,3,2,Nuevo Leon,143977,Empresa 3
+2020,3,2,Jalisco,140426,Empresa 3
+2020,3,2,Baja California Norte,105975,Empresa 3
+2020,3,2,Distrito Federal,127471,Empresa 3
+2020,3,2,Guerrero,105961,Empresa 3
+2020,4,1,Nuevo Leon,181965,Empresa 3
+2020,4,1,Jalisco,156319,Empresa 3
+2020,4,1,Baja California Norte,170684,Empresa 3
+2020,4,1,Distrito Federal,132875,Empresa 3
+2020,4,1,Guerrero,158084,Empresa 3
+2020,4,2,Nuevo Leon,114874,Empresa 3
+2020,4,2,Jalisco,169050,Empresa 3
+2020,4,2,Baja California Norte,165277,Empresa 3
+2020,4,2,Distrito Federal,198186,Empresa 3
+2020,4,2,Guerrero,114686,Empresa 3
+2020,5,1,Nuevo Leon,192701,Empresa 3
+2020,5,1,Jalisco,174429,Empresa 3
+2020,5,1,Baja California Norte,110656,Empresa 3
+2020,5,1,Distrito Federal,159677,Empresa 3
+2020,5,1,Guerrero,174415,Empresa 3
+2020,5,2,Nuevo Leon,189938,Empresa 3
+2020,5,2,Jalisco,142459,Empresa 3
+2020,5,2,Baja California Norte,125365,Empresa 3
+2020,5,2,Distrito Federal,178421,Empresa 3
+2020,5,2,Guerrero,155671,Empresa 3
+2020,6,1,Nuevo Leon,127619,Empresa 3
+2020,6,1,Jalisco,137973,Empresa 3
+2020,6,1,Baja California Norte,146777,Empresa 3
+2020,6,1,Distrito Federal,141904,Empresa 3
+2020,6,1,Guerrero,181062,Empresa 3
+2020,6,2,Nuevo Leon,147617,Empresa 3
+2020,6,2,Jalisco,182162,Empresa 3
+2020,6,2,Baja California Norte,161620,Empresa 3
+2020,6,2,Distrito Federal,171030,Empresa 3
+2020,6,2,Guerrero,186812,Empresa 3
+2020,7,1,Nuevo Leon,140474,Empresa 3
+2020,7,1,Jalisco,150261,Empresa 3
+2020,7,1,Baja California Norte,194025,Empresa 3
+2020,7,1,Distrito Federal,146575,Empresa 3
+2020,7,1,Guerrero,112260,Empresa 3
+2020,7,2,Nuevo Leon,171643,Empresa 3
+2020,7,2,Jalisco,189332,Empresa 3
+2020,7,2,Baja California Norte,183204,Empresa 3
+2020,7,2,Distrito Federal,147649,Empresa 3
+2020,7,2,Guerrero,172220,Empresa 3
+2020,8,1,Nuevo Leon,175727,Empresa 3
+2020,8,1,Jalisco,149416,Empresa 3
+2020,8,1,Baja California Norte,158535,Empresa 3
+2020,8,1,Distrito Federal,139869,Empresa 3
+2020,8,1,Guerrero,196462,Empresa 3
+2020,8,2,Nuevo Leon,123435,Empresa 3
+2020,8,2,Jalisco,171393,Empresa 3
+2020,8,2,Baja California Norte,196078,Empresa 3
+2020,8,2,Distrito Federal,152527,Empresa 3
+2020,8,2,Guerrero,170160,Empresa 3
+2020,9,1,Nuevo Leon,103338,Empresa 3
+2020,9,1,Jalisco,198784,Empresa 3
+2020,9,1,Baja California Norte,129203,Empresa 3
+2020,9,1,Distrito Federal,111702,Empresa 3
+2020,9,1,Guerrero,177586,Empresa 3
+2020,9,2,Nuevo Leon,152176,Empresa 3
+2020,9,2,Jalisco,159906,Empresa 3
+2020,9,2,Baja California Norte,134709,Empresa 3
+2020,9,2,Distrito Federal,127553,Empresa 3
+2020,9,2,Guerrero,159087,Empresa 3
+2020,10,1,Nuevo Leon,188946,Empresa 3
+2020,10,1,Jalisco,108858,Empresa 3
+2020,10,1,Baja California Norte,192297,Empresa 3
+2020,10,1,Distrito Federal,121939,Empresa 3
+2020,10,1,Guerrero,188685,Empresa 3
+2020,10,2,Nuevo Leon,129872,Empresa 3
+2020,10,2,Jalisco,120512,Empresa 3
+2020,10,2,Baja California Norte,147682,Empresa 3
+2020,10,2,Distrito Federal,177847,Empresa 3
+2020,10,2,Guerrero,118043,Empresa 3
+2020,11,1,Nuevo Leon,112765,Empresa 3
+2020,11,1,Jalisco,190976,Empresa 3
+2020,11,1,Baja California Norte,172514,Empresa 3
+2020,11,1,Distrito Federal,117626,Empresa 3
+2020,11,1,Guerrero,125770,Empresa 3
+2020,11,2,Nuevo Leon,165161,Empresa 3
+2020,11,2,Jalisco,152324,Empresa 3
+2020,11,2,Baja California Norte,192115,Empresa 3
+2020,11,2,Distrito Federal,178619,Empresa 3
+2020,11,2,Guerrero,156069,Empresa 3
+2020,12,1,Nuevo Leon,181620,Empresa 3
+2020,12,1,Jalisco,167430,Empresa 3
+2020,12,1,Baja California Norte,138475,Empresa 3
+2020,12,1,Distrito Federal,131912,Empresa 3
+2020,12,1,Guerrero,164199,Empresa 3
+2020,12,2,Nuevo Leon,163158,Empresa 3
+2020,12,2,Jalisco,102515,Empresa 3
+2020,12,2,Baja California Norte,104745,Empresa 3
+2020,12,2,Distrito Federal,138365,Empresa 3
+2020,12,2,Guerrero,171729,Empresa 3
