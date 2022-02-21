@@ -1,0 +1,970 @@
+﻿Year,Category,Type,Name,Birth_City,Birth_Country,Sex,Organization_Name,Organization_City,Organization_Country
+1901,Chemistry,Individual,Jacobus Henricus van 't Hoff,Rotterdam,Netherlands,Male,Berlin University,Berlin,Germany
+1901,Literature,Individual,Sully Prudhomme,Paris,France,Male,,,
+1901,Medicine,Individual,Emil Adolf von Behring,Hansdorf (Lawice),Prussia (Poland),Male,Marburg University,Marburg,Germany
+1901,Peace,Individual,Jean Henry Dunant,Geneva,Switzerland,Male,,,
+1901,Peace,Individual,Frédéric Passy,Paris,France,Male,,,
+1901,Physics,Individual,Wilhelm Conrad Röntgen,Lennep (Remscheid),Prussia (Germany),Male,Munich University,Munich,Germany
+1902,Chemistry,Individual,Hermann Emil Fischer,Euskirchen,Prussia (Germany),Male,Berlin University,Berlin,Germany
+1902,Literature,Individual,Christian Matthias Theodor Mommsen,Garding,Schleswig (Germany),Male,,,
+1902,Medicine,Individual,Ronald Ross,Almora,India,Male,University College,Liverpool,United Kingdom
+1902,Peace,Individual,Élie Ducommun,Geneva,Switzerland,Male,,,
+1902,Peace,Individual,Charles Albert Gobat,Tramelan,Switzerland,Male,,,
+1902,Physics,Individual,Hendrik Antoon Lorentz,Arnhem,Netherlands,Male,Leiden University,Leiden,Netherlands
+1902,Physics,Individual,Pieter Zeeman,Zonnemaire,Netherlands,Male,Amsterdam University,Amsterdam,Netherlands
+1903,Chemistry,Individual,Svante August Arrhenius,Vik,Sweden,Male,Stockholm University,Stockholm,Sweden
+1903,Literature,Individual,Bjørnstjerne Martinus Bjørnson,Kvikne,Norway,Male,,,
+1903,Medicine,Individual,Niels Ryberg Finsen,Thorshavn,Faroe Islands (Denmark),Male,Finsen Medical Light Institute,Copenhagen,Denmark
+1903,Peace,Individual,William Randal Cremer,Fareham,United Kingdom,Male,,,
+1903,Physics,Individual,Antoine Henri Becquerel,Paris,France,Male,École Polytechnique,Paris,France
+1903,Physics,Individual,Pierre Curie,Paris,France,Male,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),Paris,France
+1903,Physics,Individual,"Marie Curie, née Sklodowska",Warsaw,Russian Empire (Poland),Female,,,
+1904,Chemistry,Individual,Sir William Ramsay,Glasgow,Scotland,Male,University College,London,United Kingdom
+1904,Literature,Individual,Frédéric Mistral,Maillane,France,Male,,,
+1904,Literature,Individual,José Echegaray y Eizaguirre,Madrid,Spain,Male,,,
+1904,Medicine,Individual,Ivan Petrovich Pavlov,Ryazan,Russia,Male,Military Medical Academy,St. Petersburg,Russia
+1904,Peace,Organization,Institut de droit international (Institute of International Law),,,,,,
+1904,Physics,Individual,Lord Rayleigh (John William Strutt),"Langford Grove, Maldon, Essex",United Kingdom,Male,Royal Institution of Great Britain,London,United Kingdom
+1905,Chemistry,Individual,Johann Friedrich Wilhelm Adolf von Baeyer,Berlin,Prussia (Germany),Male,Munich University,Munich,Germany
+1905,Literature,Individual,Henryk Sienkiewicz,Wola Okrzejska,Poland,Male,,,
+1905,Medicine,Individual,Robert Koch,Clausthal (Clausthal-Zellerfeld),Germany,Male,Institute for Infectious Diseases,Berlin,Germany
+1905,Peace,Individual,"Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau",Prague,Austrian Empire (Czech Republic),Female,,,
+1905,Physics,Individual,Philipp Eduard Anton von Lenard,Pressburg (Bratislava),Hungary (Slovakia),Male,Kiel University,Kiel,Germany
+1906,Chemistry,Individual,Henri Moissan,Paris,France,Male,Sorbonne University,Paris,France
+1906,Literature,Individual,Giosuè Carducci,Val di Castello,Tuscany (Italy),Male,,,
+1906,Medicine,Individual,Camillo Golgi,Corteno,Italy,Male,Pavia University,Pavia,Italy
+1906,Medicine,Individual,Santiago Ramón y Cajal,Petilla de Aragó,Spain,Male,Madrid University,Madrid,Spain
+1906,Peace,Individual,Theodore Roosevelt,"New York, NY",United States of America,Male,,,
+1906,Physics,Individual,Joseph John Thomson,"Cheetham Hill, near Manchester",United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1907,Chemistry,Individual,Eduard Buchner,Munich,Bavaria (Germany),Male,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany
+1907,Literature,Individual,Rudyard Kipling,Bombay,British India (India),Male,,,
+1907,Medicine,Individual,Charles Louis Alphonse Laveran,Paris,France,Male,Institut Pasteur,Paris,France
+1907,Peace,Individual,Ernesto Teodoro Moneta,Milan,Austrian Empire (Italy),Male,,,
+1907,Peace,Individual,Louis Renault,Autun,France,Male,Sorbonne University,Paris,France
+1907,Physics,Individual,Albert Abraham Michelson,Strelno (Strzelno),Prussia (Poland),Male,University of Chicago,"Chicago, IL",United States of America
+1908,Chemistry,Individual,Ernest Rutherford,Nelson,New Zealand,Male,Victoria University,Manchester,United Kingdom
+1908,Literature,Individual,Rudolf Christoph Eucken,Aurich,East Friesland (Germany),Male,,,
+1908,Medicine,Individual,Ilya Ilyich Mechnikov,Kharkov (Kharkiv),Russian Empire (Ukraine),Male,Institut Pasteur,Paris,France
+1908,Medicine,Individual,Paul Ehrlich,Strehlen (Strzelin),Prussia (Poland),Male,Goettingen University,Göttingen,Germany
+1908,Medicine,Individual,Paul Ehrlich,Strehlen (Strzelin),Prussia (Poland),Male,Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy),Frankfurt-on-the-Main,Germany
+1908,Peace,Individual,Klas Pontus Arnoldson,Gothenburg,Sweden,Male,,,
+1908,Peace,Individual,Fredrik Bajer,Næstved,Denmark,Male,,,
+1908,Physics,Individual,Gabriel Lippmann,Hollerich,Luxembourg,Male,Sorbonne University,Paris,France
+1909,Chemistry,Individual,Wilhelm Ostwald,Riga,Russian Empire (Latvia),Male,Leipzig University,Leipzig,Germany
+1909,Literature,Individual,Selma Ottilia Lovisa Lagerlöf,Mårbacka,Sweden,Female,,,
+1909,Medicine,Individual,Emil Theodor Kocher,Berne,Switzerland,Male,Berne University,Berne,Switzerland
+1909,Peace,Individual,Auguste Marie François Beernaert,Ostend,Belgium,Male,,,
+1909,Peace,Individual,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",La Flèche,France,Male,,,
+1909,Physics,Individual,Guglielmo Marconi,Bologna,Italy,Male,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom
+1909,Physics,Individual,Karl Ferdinand Braun,Fulda,Hesse-Kassel (Germany),Male,Strasbourg University,Strasbourg,"Alsace (then Germany, now France)"
+1910,Chemistry,Individual,Otto Wallach,Koenigsberg (Kaliningrad),Germany (Russia),Male,Goettingen University,Göttingen,Germany
+1910,Literature,Individual,Paul Johann Ludwig Heyse,Berlin,Prussia (Germany),Male,,,
+1910,Medicine,Individual,Albrecht Kossel,Rostock,Mecklenburg (Germany),Male,University of Heidelberg,Heidelberg,Germany
+1910,Peace,Organization,Bureau international permanent de la Paix (Permanent International Peace Bureau),,,,,,
+1910,Physics,Individual,Johannes Diderik van der Waals,Leiden,Netherlands,Male,Amsterdam University,Amsterdam,Netherlands
+1911,Chemistry,Individual,"Marie Curie, née Sklodowska",Warsaw,Russian Empire (Poland),Female,Sorbonne University,Paris,France
+1911,Literature,Individual,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,Ghent,Belgium,Male,,,
+1911,Medicine,Individual,Allvar Gullstrand,Landskrona,Sweden,Male,Uppsala University,Uppsala,Sweden
+1911,Peace,Individual,Tobias Michael Carel Asser,Amsterdam,Netherlands,Male,,,
+1911,Peace,Individual,Alfred Hermann Fried,Vienna,Austria,Male,,,
+1911,Physics,Individual,Wilhelm Wien,Gaffken (Parusnoye),Prussia (Russia),Male,Würzburg University,Würzburg,Germany
+1912,Chemistry,Individual,Victor Grignard,Cherbourg,France,Male,Nancy University,Nancy,France
+1912,Chemistry,Individual,Paul Sabatier,Carcassonne,France,Male,Toulouse University,Toulouse,France
+1912,Literature,Individual,Gerhart Johann Robert Hauptmann,Bad Salzbrunn,Prussia (Germany),Male,,,
+1912,Medicine,Individual,Alexis Carrel,Sainte-Foy-lès-Lyon,France,Male,Rockefeller Institute for Medical Research,"New York, NY",United States of America
+1912,Peace,Individual,Elihu Root,"Clinton, NY",United States of America,Male,,,
+1912,Physics,Individual,Nils Gustaf Dalén,Stenstorp,Sweden,Male,Swedish Gas-Accumulator Co.,Lidingö-Stockholm,Sweden
+1913,Chemistry,Individual,Alfred Werner,Mulhouse,France,Male,University of Zurich,Zurich,Switzerland
+1913,Literature,Individual,Rabindranath Tagore,Calcutta,India,Male,,,
+1913,Medicine,Individual,Charles Robert Richet,Paris,France,Male,Sorbonne University,Paris,France
+1913,Peace,Individual,Henri La Fontaine,Brussels,Belgium,Male,,,
+1913,Physics,Individual,Heike Kamerlingh Onnes,Groningen,Netherlands,Male,Leiden University,Leiden,Netherlands
+1914,Chemistry,Individual,Theodore William Richards,"Germantown, PA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1914,Medicine,Individual,Robert Bárány,Vienna,Austria,Male,Vienna University,Vienna,Austria
+1914,Physics,Individual,Max von Laue,Pfaffendorf,Germany,Male,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany
+1915,Chemistry,Individual,Richard Martin Willstätter,Karlsruhe,Germany,Male,Munich University,Munich,Germany
+1915,Literature,Individual,Romain Rolland,Clamecy,France,Male,,,
+1915,Physics,Individual,Sir William Henry Bragg,Wigton,United Kingdom,Male,University College,London,United Kingdom
+1915,Physics,Individual,William Lawrence Bragg,Adelaide,Australia,Male,Victoria University,Manchester,United Kingdom
+1916,Literature,Individual,Carl Gustaf Verner von Heidenstam,Olshammar,Sweden,Male,,,
+1917,Literature,Individual,Karl Adolph Gjellerup,Roholte,Denmark,Male,,,
+1917,Literature,Individual,Henrik Pontoppidan,Fredericia,Denmark,Male,,,
+1917,Peace,Organization,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,
+1917,Physics,Individual,Charles Glover Barkla,Widnes,United Kingdom,Male,Edinburgh University,Edinburgh,United Kingdom
+1918,Chemistry,Individual,Fritz Haber,Breslau (Wroclaw),Prussia (Poland),Male,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany
+1918,Physics,Individual,Max Karl Ernst Ludwig Planck,Kiel,Schleswig (Germany),Male,Berlin University,Berlin,Germany
+1919,Literature,Individual,Carl Friedrich Georg Spitteler,Liestal,Switzerland,Male,,,
+1919,Medicine,Individual,Jules Bordet,Soignies,Belgium,Male,Brussels University,Brussels,Belgium
+1919,Peace,Individual,Thomas Woodrow Wilson,"Staunton, VA",United States of America,Male,,,
+1919,Physics,Individual,Johannes Stark,Schickenhof,Germany,Male,Greifswald University,Greifswald,Germany
+1920,Chemistry,Individual,Walther Hermann Nernst,Briesen,Prussia (Germany),Male,Berlin University,Berlin,Germany
+1920,Literature,Individual,Knut Pedersen Hamsun,Lom,Norway,Male,,,
+1920,Medicine,Individual,Schack August Steenberg Krogh,Grenå,Denmark,Male,Copenhagen University,Copenhagen,Denmark
+1920,Peace,Individual,Léon Victor Auguste Bourgeois,Paris,France,Male,,,
+1920,Physics,Individual,Charles Edouard Guillaume,Fleurier,Switzerland,Male,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sèvres,France
+1921,Chemistry,Individual,Frederick Soddy,Eastbourne,United Kingdom,Male,University of Oxford,Oxford,United Kingdom
+1921,Literature,Individual,Anatole France,Paris,France,Male,,,
+1921,Peace,Individual,Karl Hjalmar Branting,Stockholm,Sweden,Male,,,
+1921,Peace,Individual,Christian Lous Lange,Stavanger,Norway,Male,,,
+1921,Physics,Individual,Albert Einstein,Ulm,Germany,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany
+1922,Chemistry,Individual,Francis William Aston,Harborne,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1922,Literature,Individual,Jacinto Benavente,Madrid,Spain,Male,,,
+1922,Medicine,Individual,Archibald Vivian Hill,Bristol,United Kingdom,Male,London University,London,United Kingdom
+1922,Medicine,Individual,Otto Fritz Meyerhof,Hanover,Germany,Male,Kiel University,Kiel,Germany
+1922,Peace,Individual,Fridtjof Nansen,Kristiania (Oslo),Norway,Male,,,
+1922,Physics,Individual,Niels Henrik David Bohr,Copenhagen,Denmark,Male,Copenhagen University,Copenhagen,Denmark
+1923,Chemistry,Individual,Fritz Pregl,Laibach (Ljubljana),Austria-Hungary (Slovenia),Male,Graz University,Graz,Austria
+1923,Literature,Individual,William Butler Yeats,Dublin,Ireland,Male,,,
+1923,Medicine,Individual,Frederick Grant Banting,Alliston,Canada,Male,University of Toronto,Toronto,Canada
+1923,Medicine,Individual,John James Rickard Macleod,Cluny,Scotland,Male,University of Toronto,Toronto,Canada
+1923,Physics,Individual,Robert Andrews Millikan,"Morrison, IL",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1924,Literature,Individual,Wladyslaw Stanislaw Reymont,Kobiele Wielkie,Russian Empire (Poland),Male,,,
+1924,Medicine,Individual,Willem Einthoven,Semarang,"Java, Dutch East Indies (Indonesia)",Male,Leiden University,Leiden,Netherlands
+1924,Physics,Individual,Karl Manne Georg Siegbahn,Lund,Sweden,Male,Uppsala University,Uppsala,Sweden
+1925,Chemistry,Individual,Richard Adolf Zsigmondy,Vienna,Austrian Empire (Austria),Male,Goettingen University,Göttingen,Germany
+1925,Literature,Individual,George Bernard Shaw,Dublin,Ireland,Male,,,
+1925,Peace,Individual,Sir Austen Chamberlain,Birmingham,United Kingdom,Male,,,
+1925,Peace,Individual,Charles Gates Dawes,"Marietta, OH",United States of America,Male,,,
+1925,Physics,Individual,James Franck,Hamburg,Germany,Male,Goettingen University,Göttingen,Germany
+1925,Physics,Individual,Gustav Ludwig Hertz,Hamburg,Germany,Male,Halle University,Halle,Germany
+1926,Chemistry,Individual,The (Theodor) Svedberg,Fleräng,Sweden,Male,Uppsala University,Uppsala,Sweden
+1926,Literature,Individual,Grazia Deledda,"Nuoro, Sardinia",Italy,Female,,,
+1926,Medicine,Individual,Johannes Andreas Grib Fibiger,Silkeborg,Denmark,Male,Copenhagen University,Copenhagen,Denmark
+1926,Peace,Individual,Aristide Briand,Nantes,France,Male,,,
+1926,Peace,Individual,Gustav Stresemann,Berlin,Germany,Male,,,
+1926,Physics,Individual,Jean Baptiste Perrin,Lille,France,Male,Sorbonne University,Paris,France
+1927,Chemistry,Individual,Heinrich Otto Wieland,Pforzheim,Germany,Male,Munich University,Munich,Germany
+1927,Literature,Individual,Henri Bergson,Paris,France,Male,,,
+1927,Medicine,Individual,Julius Wagner-Jauregg,Wels,Austria,Male,Vienna University,Vienna,Austria
+1927,Peace,Individual,Ferdinand Buisson,Paris,France,Male,,,
+1927,Peace,Individual,Ludwig Quidde,Bremen,Germany,Male,,,
+1927,Physics,Individual,Arthur Holly Compton,"Wooster, OH",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1927,Physics,Individual,Charles Thomson Rees Wilson,Glencorse,Scotland,Male,University of Cambridge,Cambridge,United Kingdom
+1928,Chemistry,Individual,Adolf Otto Reinhold Windaus,Berlin,Germany,Male,Goettingen University,Göttingen,Germany
+1928,Literature,Individual,Sigrid Undset,Kalundborg,Denmark,Female,,,
+1928,Medicine,Individual,Charles Jules Henri Nicolle,Rouen,France,Male,Institut Pasteur,Tunis,
+1928,Physics,Individual,Owen Willans Richardson,Dewsbury,United Kingdom,Male,London University,London,United Kingdom
+1929,Chemistry,Individual,Arthur Harden,Manchester,United Kingdom,Male,London University,London,United Kingdom
+1929,Chemistry,Individual,Hans Karl August Simon von Euler-Chelpin,Augsburg,Germany,Male,Stockholm University,Stockholm,Sweden
+1929,Literature,Individual,Thomas Mann,Lübeck,Germany,Male,,,
+1929,Medicine,Individual,Christiaan Eijkman,Nijkerk,Netherlands,Male,Utrecht University,Utrecht,Netherlands
+1929,Medicine,Individual,Sir Frederick Gowland Hopkins,Eastbourne,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1929,Peace,Individual,Frank Billings Kellogg,"Potsdam, NY",United States of America,Male,,,
+1929,Physics,Individual,Prince Louis-Victor Pierre Raymond de Broglie,Dieppe,France,Male,"Sorbonne University, Institut Henri Poincaré",Paris,France
+1930,Chemistry,Individual,Hans Fischer,Hoechst,Germany,Male,Technische Hochschule (Institute of Technology),Munich,Germany
+1930,Literature,Individual,Sinclair Lewis,"Sauk Centre, MN",United States of America,Male,,,
+1930,Medicine,Individual,Karl Landsteiner,Vienna,Austrian Empire (Austria),Male,Rockefeller Institute for Medical Research,"New York, NY",United States of America
+1930,Peace,Individual,Lars Olof Jonathan (Nathan) Söderblom,Trönö,Sweden,Male,,,
+1930,Physics,Individual,Sir Chandrasekhara Venkata Raman,Tiruchirappalli,India,Male,Calcutta University,Calcutta,India
+1931,Chemistry,Individual,Carl Bosch,Cologne,Germany,Male,University of Heidelberg,Heidelberg,Germany
+1931,Chemistry,Individual,Carl Bosch,Cologne,Germany,Male,I.G. Farbenindustrie A.G.,Heidelberg,Germany
+1931,Chemistry,Individual,Friedrich Bergius,"Goldschmieden, near Breslau",Germany (Poland),Male,University of Heidelberg,Heidelberg,Germany
+1931,Chemistry,Individual,Friedrich Bergius,"Goldschmieden, near Breslau",Germany (Poland),Male,I.G. Farbenindustrie A.G.,Mannheim-Rheinau,Germany
+1931,Literature,Individual,Erik Axel Karlfeldt,Karlbo,Sweden,Male,,,
+1931,Medicine,Individual,Otto Heinrich Warburg,Freiburg im Breisgau,Germany,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Berlin-Dahlem,Germany
+1931,Peace,Individual,Jane Addams,"Cedarville, IL",United States of America,Female,,,
+1931,Peace,Individual,Nicholas Murray Butler,"Elizabeth, NJ",United States of America,Male,Columbia University,"New York, NY",United States of America
+1932,Chemistry,Individual,Irving Langmuir,"Brooklyn, NY",United States of America,Male,General Electric Company,"Schenectady, NY",United States of America
+1932,Literature,Individual,John Galsworthy,Kingston Hill,United Kingdom,Male,,,
+1932,Medicine,Individual,Sir Charles Scott Sherrington,London,United Kingdom,Male,University of Oxford,Oxford,United Kingdom
+1932,Medicine,Individual,Edgar Douglas Adrian,London,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1932,Physics,Individual,Werner Karl Heisenberg,Würzburg,Germany,Male,Leipzig University,Leipzig,Germany
+1933,Literature,Individual,Ivan Alekseyevich Bunin,Voronezh,Russia,Male,,,
+1933,Medicine,Individual,Thomas Hunt Morgan,"Lexington, KY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1933,Peace,Individual,Sir Norman Angell (Ralph Lane),Holbeach,United Kingdom,Male,,,
+1933,Physics,Individual,Erwin Schrödinger,Vienna,Austria,Male,Berlin University,Berlin,Germany
+1933,Physics,Individual,Paul Adrien Maurice Dirac,Bristol,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1934,Chemistry,Individual,Harold Clayton Urey,"Walkerton, IN",United States of America,Male,Columbia University,"New York, NY",United States of America
+1934,Literature,Individual,Luigi Pirandello,"Agrigento, Sicily",Italy,Male,,,
+1934,Medicine,Individual,George Hoyt Whipple,"Ashland, NH",United States of America,Male,University of Rochester,"Rochester, NY",United States of America
+1934,Medicine,Individual,George Richards Minot,"Boston, MA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1934,Medicine,Individual,William Parry Murphy,"Stoughton, WI",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1934,Medicine,Individual,William Parry Murphy,"Stoughton, WI",United States of America,Male,Peter Brent Brigham Hospital,"Boston, MA",United States of America
+1934,Peace,Individual,Arthur Henderson,Glasgow,Scotland,Male,,,
+1935,Chemistry,Individual,Frédéric Joliot,Paris,France,Male,Institut du Radium,Paris,France
+1935,Chemistry,Individual,Irène Joliot-Curie,Paris,France,Female,Institut du Radium,Paris,France
+1935,Medicine,Individual,Hans Spemann,Stuttgart,W&uuml;rttemberg (Germany),Male,University of Freiburg im Breisgau,Breisgau,Germany
+1935,Peace,Individual,Carl von Ossietzky,Hamburg,Germany,Male,,,
+1935,Physics,Individual,James Chadwick,Manchester,United Kingdom,Male,Liverpool University,Liverpool,United Kingdom
+1936,Chemistry,Individual,Petrus (Peter) Josephus Wilhelmus Debye,Maastricht,Netherlands,Male,Berlin University,Berlin,Germany
+1936,Chemistry,Individual,Petrus (Peter) Josephus Wilhelmus Debye,Maastricht,Netherlands,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany
+1936,Literature,Individual,Eugene Gladstone O'Neill,"New York, NY",United States of America,Male,,,
+1936,Medicine,Individual,Sir Henry Hallett Dale,London,United Kingdom,Male,National Institute for Medical Research,London,United Kingdom
+1936,Medicine,Individual,Otto Loewi,Frankfurt-on-the-Main,Germany,Male,Graz University,Graz,Austria
+1936,Peace,Individual,Carlos Saavedra Lamas,Buenos Aires,Argentina,Male,,,
+1936,Physics,Individual,Victor Franz Hess,Peggau,Austria,Male,Innsbruck University,Innsbruck,Austria
+1936,Physics,Individual,Carl David Anderson,"New York, NY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1937,Chemistry,Individual,Walter Norman Haworth,Chorley,United Kingdom,Male,Birmingham University,Birmingham,United Kingdom
+1937,Chemistry,Individual,Paul Karrer,Moscow,Russia,Male,University of Zurich,Zurich,Switzerland
+1937,Literature,Individual,Roger Martin du Gard,Neuilly-sur-Seine,France,Male,,,
+1937,Medicine,Individual,Albert von Szent-Györgyi Nagyrápolt,Budapest,Austria-Hungary (Hungary),Male,Szeged University,Szeged,Hungary
+1937,Peace,Individual,"Cecil of Chelwood, Viscount (Lord Edgar Algernon Robert Gascoyne Cecil)",London,United Kingdom,Male,,,
+1937,Physics,Individual,Clinton Joseph Davisson,"Bloomington, IL",United States of America,Male,Bell Telephone Laboratories,"New York, NY",United States of America
+1937,Physics,Individual,George Paget Thomson,Cambridge,United Kingdom,Male,London University,London,United Kingdom
+1938,Chemistry,Individual,Richard Kuhn,Vienna,Austria-Hungary (Austria),Male,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Heidelberg,Germany
+1938,Chemistry,Individual,Richard Kuhn,Vienna,Austria-Hungary (Austria),Male,University of Heidelberg,Heidelberg,Germany
+1938,Literature,Individual,Pearl Buck,"Hillsboro, WV",United States of America,Female,,,
+1938,Medicine,Individual,Corneille Jean François Heymans,Ghent,Belgium,Male,Ghent University,Ghent,Belgium
+1938,Peace,Organization,Office international Nansen pour les Réfugiés (Nansen International Office for Refugees),,,,,,
+1938,Physics,Individual,Enrico Fermi,Rome,Italy,Male,Rome University,Rome,Italy
+1939,Chemistry,Individual,Adolf Friedrich Johann Butenandt,Bremerhaven-Lehe,Germany,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Berlin-Dahlem,Germany
+1939,Chemistry,Individual,Adolf Friedrich Johann Butenandt,Bremerhaven-Lehe,Germany,Male,Berlin University,Berlin,Germany
+1939,Chemistry,Individual,Leopold Ruzicka,Vukovar,Austria-Hungary (Croatia),Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+1939,Literature,Individual,Frans Eemil Sillanpää,Hämeenkyrö,Russian Empire (Finland),Male,,,
+1939,Medicine,Individual,Gerhard Domagk,Lagow,Germany (Poland),Male,Munster University,Munster,Germany
+1939,Physics,Individual,Ernest Orlando Lawrence,"Canton, SD",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1943,Chemistry,Individual,George de Hevesy,Budapest,Austria-Hungary (Hungary),Male,Stockholm University,Stockholm,Sweden
+1943,Medicine,Individual,Henrik Carl Peter Dam,Copenhagen,Denmark,Male,Polytechnic Institute,Copenhagen,Denmark
+1943,Medicine,Individual,Edward Adelbert Doisy,"Hume, IL",United States of America,Male,Saint Louis University,"St. Louis, MO",United States of America
+1943,Physics,Individual,Otto Stern,Sorau (Zory),Germany (Poland),Male,Carnegie Institute of Technology,"Pittsburgh, PA",United States of America
+1944,Chemistry,Individual,Otto Hahn,Frankfurt-on-the-Main,Germany,Male,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany
+1944,Literature,Individual,Johannes Vilhelm Jensen,Farsø,Denmark,Male,,,
+1944,Medicine,Individual,Joseph Erlanger,"San Francisco, CA",United States of America,Male,Washington University,"St. Louis, MO",United States of America
+1944,Medicine,Individual,Herbert Spencer Gasser,"Platteville, WI",United States of America,Male,Rockefeller Institute for Medical Research,"New York, NY",United States of America
+1944,Peace,Organization,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,
+1944,Physics,Individual,Isidor Isaac Rabi,Rymanow,Austria-Hungary (Poland),Male,Columbia University,"New York, NY",United States of America
+1945,Chemistry,Individual,Artturi Ilmari Virtanen,Helsinki,Russian Empire (Finland),Male,University of Helsinki,Helsinki,Finland
+1945,Literature,Individual,Gabriela Mistral,Vicuña,Chile,Female,,,
+1945,Medicine,Individual,Sir Alexander Fleming,Lochfield,Scotland,Male,London University,London,United Kingdom
+1945,Medicine,Individual,Ernst Boris Chain,Berlin,Germany,Male,University of Oxford,Oxford,United Kingdom
+1945,Medicine,Individual,Sir Howard Walter Florey,Adelaide,Australia,Male,University of Oxford,Oxford,United Kingdom
+1945,Peace,Individual,Cordell Hull,"Olympus, TN",United States of America,Male,,,
+1945,Physics,Individual,Wolfgang Pauli,Vienna,Austria,Male,Princeton University,"Princeton, NJ",United States of America
+1946,Chemistry,Individual,James Batcheller Sumner,"Canton, MA",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1946,Chemistry,Individual,John Howard Northrop,"Yonkers, NY",United States of America,Male,Rockefeller Institute for Medical Research,"Princeton, NJ",United States of America
+1946,Chemistry,Individual,Wendell Meredith Stanley,"Ridgeville, IN",United States of America,Male,Rockefeller Institute for Medical Research,"Princeton, NJ",United States of America
+1946,Literature,Individual,Hermann Hesse,Calw,Germany,Male,,,
+1946,Medicine,Individual,Hermann Joseph Muller,"New York, NY",United States of America,Male,Indiana University,"Bloomington, IN",United States of America
+1946,Peace,Individual,Emily Greene Balch,"Jamaica Plain, MA (Boston)",United States of America,Female,,,
+1946,Peace,Individual,John Raleigh Mott,"Livingston Manor, NY",United States of America,Male,,,
+1946,Physics,Individual,Percy Williams Bridgman,"Cambridge, MA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1947,Chemistry,Individual,Sir Robert Robinson,"Rufford, near Chesterfield",United Kingdom,Male,University of Oxford,Oxford,United Kingdom
+1947,Literature,Individual,André Paul Guillaume Gide,Paris,France,Male,,,
+1947,Medicine,Individual,Carl Ferdinand Cori,Prague,Austria-Hungary (Czech Republic),Male,Washington University,"St. Louis, MO",United States of America
+1947,Medicine,Individual,"Gerty Theresa Cori, née Radnitz",Prague,Austria-Hungary (Czech Republic),Female,Washington University,"St. Louis, MO",United States of America
+1947,Medicine,Individual,Bernardo Alberto Houssay,Buenos Aires,Argentina,Male,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina
+1947,Peace,Organization,Friends Service Council (The Quakers),,,,,,
+1947,Peace,Organization,American Friends Service Committee (The Quakers),,,,,,
+1947,Physics,Individual,Sir Edward Victor Appleton,Bradford,United Kingdom,Male,Department of Scientific and Industrial Research,London,United Kingdom
+1948,Chemistry,Individual,Arne Wilhelm Kaurin Tiselius,Stockholm,Sweden,Male,Uppsala University,Uppsala,Sweden
+1948,Literature,Individual,Thomas Stearns Eliot,"St. Louis, MO",United States of America,Male,,,
+1948,Medicine,Individual,Paul Hermann Müller,Olten,Switzerland,Male,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland
+1948,Physics,Individual,Patrick Maynard Stuart Blackett,London,United Kingdom,Male,Victoria University,Manchester,United Kingdom
+1949,Chemistry,Individual,William Francis Giauque,Niagara Falls,Canada,Male,University of California,"Berkeley, CA",United States of America
+1949,Literature,Individual,William Faulkner,"New Albany, MS",United States of America,Male,,,
+1949,Medicine,Individual,Walter Rudolf Hess,Frauenfeld,Switzerland,Male,University of Zurich,Zurich,Switzerland
+1949,Medicine,Individual,Antonio Caetano de Abreu Freire Egas Moniz,Avanca,Portugal,Male,University of Lisbon,Lisbon,Portugal
+1949,Medicine,Individual,Antonio Caetano de Abreu Freire Egas Moniz,Avanca,Portugal,Male,Neurological Institute,Lisbon,Portugal
+1949,Peace,Individual,Lord (John) Boyd Orr of Brechin,Kilmaurs,Scotland,Male,,,
+1949,Physics,Individual,Hideki Yukawa,Tokyo,Japan,Male,Kyoto Imperial University,Kyoto,Japan
+1949,Physics,Individual,Hideki Yukawa,Tokyo,Japan,Male,Columbia University,"New York, NY",United States of America
+1950,Chemistry,Individual,Otto Paul Hermann Diels,Hamburg,Germany,Male,Kiel University,Kiel,Federal Republic of Germany
+1950,Chemistry,Individual,Kurt Alder,Königshütte (Chorzów),Prussia (Poland),Male,Cologne University,Cologne,Federal Republic of Germany
+1950,Literature,Individual,Earl (Bertrand Arthur William) Russell,Trelleck,United Kingdom,Male,,,
+1950,Medicine,Individual,Edward Calvin Kendall,"South Norwalk, CT",United States of America,Male,Mayo Clinic,"Rochester, MN",United States of America
+1950,Medicine,Individual,Tadeus Reichstein,Wloclawek,Poland,Male,Basel University,Basel,Switzerland
+1950,Medicine,Individual,Philip Showalter Hench,"Pittsburgh, PA",United States of America,Male,Mayo Clinic,"Rochester, MN",United States of America
+1950,Peace,Individual,Ralph Bunche,"Detroit, MI",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1950,Physics,Individual,Cecil Frank Powell,Tonbridge,United Kingdom,Male,Bristol University,Bristol,United Kingdom
+1951,Chemistry,Individual,Edwin Mattison McMillan,"Redondo Beach, CA",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1951,Chemistry,Individual,Glenn Theodore Seaborg,"Ishpeming, MI",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1951,Literature,Individual,Pär Fabian Lagerkvist,Växjö,Sweden,Male,,,
+1951,Medicine,Individual,Max Theiler,Pretoria,South Africa,Male,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation","New York, NY",United States of America
+1951,Peace,Individual,Léon Jouhaux,Paris,France,Male,,,
+1951,Physics,Individual,Sir John Douglas Cockcroft,Todmorden,United Kingdom,Male,Atomic Energy Research Establishment,"Harwell, Berkshire",United Kingdom
+1951,Physics,Individual,Ernest Thomas Sinton Walton,Dungarvan,Ireland,Male,Trinity College,Dublin,Ireland
+1952,Chemistry,Individual,Archer John Porter Martin,London,United Kingdom,Male,National Institute for Medical Research,London,United Kingdom
+1952,Chemistry,Individual,Richard Laurence Millington Synge,Liverpool,United Kingdom,Male,Rowett Research Institute,Bucksburn (Scotland),United Kingdom
+1952,Literature,Individual,François Mauriac,Bordeaux,France,Male,,,
+1952,Medicine,Individual,Selman Abraham Waksman,Priluka (Nova Pryluka),Russian Empire (Ukraine),Male,Rutgers University,"New Brunswick, NJ",United States of America
+1952,Peace,Individual,Albert Schweitzer,Kaysersberg,Germany (France),Male,,,
+1952,Physics,Individual,Felix Bloch,Zurich,Switzerland,Male,Stanford University,"Stanford, CA",United States of America
+1952,Physics,Individual,Edward Mills Purcell,"Taylorville, IL",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1953,Chemistry,Individual,Hermann Staudinger,Worms,Germany,Male,University of Freiburg,Breisgau,Federal Republic of Germany
+1953,Chemistry,Individual,Hermann Staudinger,Worms,Germany,Male,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg",Breisgau,Federal Republic of Germany
+1953,Literature,Individual,Sir Winston Leonard Spencer Churchill,Woodstock,United Kingdom,Male,,,
+1953,Medicine,Individual,Hans Adolf Krebs,Hildesheim,Germany,Male,Sheffield University,Sheffield,United Kingdom
+1953,Medicine,Individual,Fritz Albert Lipmann,Koenigsberg (Kaliningrad),Germany (Russia),Male,Harvard Medical School,"Boston, MA",United States of America
+1953,Medicine,Individual,Fritz Albert Lipmann,Koenigsberg (Kaliningrad),Germany (Russia),Male,Massachusetts General Hospital,"Boston, MA",United States of America
+1953,Peace,Individual,George Catlett Marshall,"Uniontown, PA",United States of America,Male,,,
+1953,Physics,Individual,Frits Zernike,Amsterdam,Netherlands,Male,Groningen University,Groningen,Netherlands
+1954,Chemistry,Individual,Linus Carl Pauling,"Portland, OR",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1954,Literature,Individual,Ernest Miller Hemingway,"Oak Park, IL",United States of America,Male,,,
+1954,Medicine,Individual,John Franklin Enders,"West Hartford, CT",United States of America,Male,Harvard Medical School,"Boston, MA",United States of America
+1954,Medicine,Individual,John Franklin Enders,"West Hartford, CT",United States of America,Male,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA",United States of America
+1954,Medicine,Individual,Thomas Huckle Weller,"Ann Arbor, MI",United States of America,Male,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA",United States of America
+1954,Medicine,Individual,Frederick Chapman Robbins,"Auburn, AL",United States of America,Male,Western Reserve University,"Cleveland, OH",United States of America
+1954,Peace,Organization,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,
+1954,Physics,Individual,Max Born,Breslau (Wroclaw),Germany (Poland),Male,Edinburgh University,Edinburgh,United Kingdom
+1954,Physics,Individual,Walther Bothe,Oranienburg,Germany,Male,University of Heidelberg,Heidelberg,Federal Republic of Germany
+1954,Physics,Individual,Walther Bothe,Oranienburg,Germany,Male,Max-Planck-Institut für medizinische Forschung,Heidelberg,Federal Republic of Germany
+1955,Chemistry,Individual,Vincent du Vigneaud,"Chicago, IL",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1955,Literature,Individual,Halldór Kiljan Laxness,Reykjavik,Iceland,Male,,,
+1955,Medicine,Individual,Axel Hugo Theodor Theorell,Linköping,Sweden,Male,"Karolinska Institutet, Nobel Medical Institute",Stockholm,Sweden
+1955,Physics,Individual,Willis Eugene Lamb,"Los Angeles, CA",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1955,Physics,Individual,Polykarp Kusch,Blankenburg,Germany,Male,Columbia University,"New York, NY",United States of America
+1956,Chemistry,Individual,Sir Cyril Norman Hinshelwood,London,United Kingdom,Male,University of Oxford,Oxford,United Kingdom
+1956,Chemistry,Individual,Nikolay Nikolaevich Semenov,Saratov,Russia,Male,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,Union of Soviet Socialist Republics
+1956,Literature,Individual,Juan Ramón Jiménez,Moguer,Spain,Male,,,
+1956,Medicine,Individual,André Frédéric Cournand,Paris,France,Male,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital","New York, NY",United States of America
+1956,Medicine,Individual,Werner Forssmann,Berlin,Germany,Male,Mainz University,Mainz,Federal Republic of Germany
+1956,Medicine,Individual,Werner Forssmann,Berlin,Germany,Male,,Bad Kreuznach,Federal Republic of Germany
+1956,Medicine,Individual,Dickinson W. Richards,"Orange, NJ",United States of America,Male,Columbia University,"New York, NY",United States of America
+1956,Physics,Individual,William Bradford Shockley,London,United Kingdom,Male,"Semiconductor Laboratory of Beckman Instruments, Inc.","Mountain View, CA",United States of America
+1956,Physics,Individual,John Bardeen,"Madison, WI",United States of America,Male,University of Illinois,"Urbana, IL",United States of America
+1956,Physics,Individual,Walter Houser Brattain,Amoy,China,Male,Bell Telephone Laboratories,"Murray Hill, NJ",United States of America
+1957,Chemistry,Individual,Lord (Alexander R.) Todd,Glasgow,Scotland,Male,University of Cambridge,Cambridge,United Kingdom
+1957,Literature,Individual,Albert Camus,Mondovi,French Algeria (Algeria),Male,,,
+1957,Medicine,Individual,Daniel Bovet,Neuchâtel,Switzerland,Male,Istituto Superiore di Sanità (Chief Institute of Public Health),Rome,Italy
+1957,Peace,Individual,Lester Bowles Pearson,Toronto,Canada,Male,,,
+1957,Physics,Individual,Chen Ning Yang,"Hofei, Anhwei",China,Male,Institute for Advanced Study,"Princeton, NJ",United States of America
+1957,Physics,Individual,Tsung-Dao (T.D.) Lee,Shanghai,China,Male,Columbia University,"New York, NY",United States of America
+1958,Chemistry,Individual,Frederick Sanger,Rendcombe,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1958,Literature,Individual,Boris Leonidovich Pasternak,Moscow,Russia,Male,,,
+1958,Medicine,Individual,George Wells Beadle,"Wahoo, NE",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1958,Medicine,Individual,Edward Lawrie Tatum,"Boulder, CO",United States of America,Male,Rockefeller Institute for Medical Research,"New York, NY",United States of America
+1958,Medicine,Individual,Joshua Lederberg,"Montclair, NJ",United States of America,Male,University of Wisconsin,"Madison, WI",United States of America
+1958,Peace,Individual,Georges Pire,Dinant,Belgium,Male,,,
+1958,Physics,Individual,Pavel Alekseyevich Cherenkov,Novaya Chigla,Russia,Male,P.N. Lebedev Physical Institute,Moscow,Union of Soviet Socialist Republics
+1958,Physics,Individual,Igor Yevgenyevich Tamm,Vladivostok,Russia,Male,University of Moscow,Moscow,Union of Soviet Socialist Republics
+1958,Physics,Individual,Igor Yevgenyevich Tamm,Vladivostok,Russia,Male,P.N. Lebedev Physical Institute,Moscow,Union of Soviet Socialist Republics
+1958,Physics,Individual,Il´ja Mikhailovich Frank,Leningrad (Saint Petersburg),Russia,Male,University of Moscow,Moscow,Union of Soviet Socialist Republics
+1958,Physics,Individual,Il´ja Mikhailovich Frank,Leningrad (Saint Petersburg),Russia,Male,P.N. Lebedev Physical Institute,Moscow,Union of Soviet Socialist Republics
+1959,Chemistry,Individual,Jaroslav Heyrovsky,Prague,Austria-Hungary (Czech Republic),Male,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czechoslovakia
+1959,Literature,Individual,Salvatore Quasimodo,Modica,Italy,Male,,,
+1959,Medicine,Individual,Severo Ochoa,Luarca,Spain,Male,"New York University, College of Medicine","New York, NY",United States of America
+1959,Medicine,Individual,Arthur Kornberg,"Brooklyn, NY",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1959,Peace,Individual,Philip J. Noel-Baker,London,United Kingdom,Male,,,
+1959,Physics,Individual,Emilio Gino Segrè,Tivoli,Italy,Male,University of California,"Berkeley, CA",United States of America
+1959,Physics,Individual,Owen Chamberlain,"San Francisco, CA",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1960,Chemistry,Individual,Willard Frank Libby,"Grand Valley, CO",United States of America,Male,University of California,"Los Angeles, CA",United States of America
+1960,Literature,Individual,Saint-John Perse,Pointe-à-Pitre,Guadeloupe Island,Male,,,
+1960,Medicine,Individual,Sir Frank Macfarlane Burnet,Traralgon,Australia,Male,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia
+1960,Medicine,Individual,Peter Brian Medawar,Rio de Janeiro,Brazil,Male,University College,London,United Kingdom
+1960,Peace,Individual,Albert John Lutuli,Bulawayo,Southern Rhodesia (Zimbabwe),Male,,,
+1960,Physics,Individual,Donald Arthur Glaser,"Cleveland, OH",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1961,Chemistry,Individual,Melvin Calvin,"St. Paul, MN",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1961,Literature,Individual,Ivo Andric,Dolac,Bosnia (Bosnia and Herzegovina),Male,,,
+1961,Medicine,Individual,Georg von Békésy,Budapest,Hungary,Male,Harvard University,"Cambridge, MA",United States of America
+1961,Peace,Individual,Dag Hjalmar Agne Carl Hammarskjöld,Jönköping,Sweden,Male,,,
+1961,Physics,Individual,Robert Hofstadter,"New York, NY",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1961,Physics,Individual,Rudolf Ludwig Mössbauer,Munich,Germany,Male,Technical University,Munich,Federal Republic of Germany
+1961,Physics,Individual,Rudolf Ludwig Mössbauer,Munich,Germany,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1962,Chemistry,Individual,Max Ferdinand Perutz,Vienna,Austria,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1962,Chemistry,Individual,John Cowdery Kendrew,Oxford,United Kingdom,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1962,Literature,Individual,John Steinbeck,"Salinas, CA",United States of America,Male,,,
+1962,Medicine,Individual,Francis Harry Compton Crick,Northampton,United Kingdom,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1962,Medicine,Individual,James Dewey Watson,"Chicago, IL",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1962,Medicine,Individual,Maurice Hugh Frederick Wilkins,Pongaroa,New Zealand,Male,London University,London,United Kingdom
+1962,Peace,Individual,Linus Carl Pauling,"Portland, OR",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1962,Physics,Individual,Lev Davidovich Landau,Baku,Russian Empire (Azerbaijan),Male,Academy of Sciences,Moscow,Union of Soviet Socialist Republics
+1963,Chemistry,Individual,Karl Ziegler,Helsa,Germany,Male,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Mülheim/Ruhr,Federal Republic of Germany
+1963,Chemistry,Individual,Giulio Natta,Imperia,Italy,Male,Institute of Technology,Milan,Italy
+1963,Literature,Individual,Giorgos Seferis,Smyrna (Izmir),Ottoman Empire (Turkey),Male,,,
+1963,Medicine,Individual,Sir John Carew Eccles,Melbourne,Australia,Male,Australian National University,Canberra,Australia
+1963,Medicine,Individual,Alan Lloyd Hodgkin,Banbury,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1963,Medicine,Individual,Andrew Fielding Huxley,Hampstead,United Kingdom,Male,University College,London,United Kingdom
+1963,Peace,Organization,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,
+1963,Peace,Organization,Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies),,,,,,
+1963,Physics,Individual,Eugene Paul Wigner,Budapest,Austria-Hungary (Hungary),Male,Princeton University,"Princeton, NJ",United States of America
+1963,Physics,Individual,Maria Goeppert Mayer,Kattowitz (Katowice),Germany (Poland),Female,University of California,"San Diego, CA",United States of America
+1963,Physics,Individual,J. Hans D. Jensen,Hamburg,Germany,Male,University of Heidelberg,Heidelberg,Federal Republic of Germany
+1964,Chemistry,Individual,Dorothy Crowfoot Hodgkin,Cairo,Egypt,Female,"University of Oxford, Royal Society",Oxford,United Kingdom
+1964,Literature,Individual,Jean-Paul Sartre,Paris,France,Male,,,
+1964,Medicine,Individual,Konrad Bloch,Neisse (Nysa),Germany (Poland),Male,Harvard University,"Cambridge, MA",United States of America
+1964,Medicine,Individual,Feodor Lynen,Munich,Germany,Male,Max-Planck-Institut für Zellchemie,Munich,Federal Republic of Germany
+1964,Peace,Individual,Martin Luther King Jr.,"Atlanta, GA",United States of America,Male,,,
+1964,Physics,Individual,Charles Hard Townes,"Greenville, SC",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1964,Physics,Individual,Nicolay Gennadiyevich Basov,Usman,Union of Soviet Socialist Republics (Russia),Male,P.N. Lebedev Physical Institute,Moscow,Union of Soviet Socialist Republics
+1964,Physics,Individual,Aleksandr Mikhailovich Prokhorov,Atherton,Australia,Male,P.N. Lebedev Physical Institute,Moscow,Union of Soviet Socialist Republics
+1965,Chemistry,Individual,Robert Burns Woodward,"Boston, MA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1965,Literature,Individual,Mikhail Aleksandrovich Sholokhov,Veshenskaya,Russia,Male,,,
+1965,Medicine,Individual,François Jacob,Nancy,France,Male,Institut Pasteur,Paris,France
+1965,Medicine,Individual,André Lwoff,Ainay-le-Château,France,Male,Institut Pasteur,Paris,France
+1965,Medicine,Individual,Jacques Monod,Paris,France,Male,Institut Pasteur,Paris,France
+1965,Peace,Organization,United Nations Children's Fund (UNICEF),,,,,,
+1965,Physics,Individual,Sin-Itiro Tomonaga,Kyoto,Japan,Male,Tokyo University of Education,Tokyo,Japan
+1965,Physics,Individual,Julian Schwinger,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1965,Physics,Individual,Richard P. Feynman,"New York, NY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1966,Chemistry,Individual,Robert S. Mulliken,"Newburyport, MA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1966,Literature,Individual,Shmuel Yosef Agnon,Buczacz (Buchach),Austria-Hungary (Ukraine),Male,,,
+1966,Literature,Individual,Nelly Sachs,Berlin,Germany,Female,,,
+1966,Medicine,Individual,Peyton Rous,"Baltimore, MD",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1966,Medicine,Individual,Charles Brenton Huggins,Halifax,Canada,Male,"University of Chicago, Ben May Laboratory for Cancer Research","Chicago, IL",United States of America
+1966,Physics,Individual,Alfred Kastler,Guebwiller,Germany (France),Male,École Normale Supérieure,Paris,France
+1967,Chemistry,Individual,Manfred Eigen,Bochum,Germany,Male,Max-Planck-Institut für Physikalische Chemie,Göttingen,Federal Republic of Germany
+1967,Chemistry,Individual,Ronald George Wreyford Norrish,Cambridge,United Kingdom,Male,Institute of Physical Chemistry,Cambridge,United Kingdom
+1967,Chemistry,Individual,George Porter,Stainforth,United Kingdom,Male,Royal Institution of Great Britain,London,United Kingdom
+1967,Literature,Individual,Miguel Angel Asturias,Guatemala City,Guatemala,Male,,,
+1967,Medicine,Individual,Ragnar Granit,Helsinki,Russian Empire (Finland),Male,Karolinska Institutet,Stockholm,Sweden
+1967,Medicine,Individual,Haldan Keffer Hartline,"Bloomsburg, PA",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1967,Medicine,Individual,George Wald,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1967,Physics,Individual,Hans Albrecht Bethe,Strassburg (Strasbourg),Germany (France),Male,Cornell University,"Ithaca, NY",United States of America
+1968,Chemistry,Individual,Lars Onsager,Kristiania (Oslo),Norway,Male,Yale University,"New Haven, CT",United States of America
+1968,Literature,Individual,Yasunari Kawabata,Osaka,Japan,Male,,,
+1968,Medicine,Individual,Robert W. Holley,"Urbana, IL",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1968,Medicine,Individual,Har Gobind Khorana,Raipur,India,Male,University of Wisconsin,"Madison, WI",United States of America
+1968,Medicine,Individual,Marshall W. Nirenberg,"New York, NY",United States of America,Male,National Institutes of Health,"Bethesda, MD",United States of America
+1968,Peace,Individual,René Cassin,Bayonne,France,Male,,,
+1968,Physics,Individual,Luis Walter Alvarez,"San Francisco, CA",United States of America,Male,University of California,"Berkeley, CA",United States of America
+1969,Chemistry,Individual,Derek H. R. Barton,Gravesend,United Kingdom,Male,Imperial College,London,United Kingdom
+1969,Chemistry,Individual,Odd Hassel,Kristiania (Oslo),Norway,Male,University of Oslo,Oslo,Norway
+1969,Economics,Individual,Ragnar Frisch,Oslo,Norway,Male,University of Oslo,Oslo,Norway
+1969,Economics,Individual,Jan Tinbergen,the Hague,Netherlands,Male,The Netherlands School of Economics,Rotterdam,Netherlands
+1969,Literature,Individual,Samuel Beckett,Dublin,Ireland,Male,,,
+1969,Medicine,Individual,Max Delbrück,Berlin,Germany,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1969,Medicine,Individual,Alfred D. Hershey,"Owosso, MI",United States of America,Male,Carnegie Institution of Washington,"Long Island, New York, NY",United States of America
+1969,Medicine,Individual,Salvador E. Luria,Torino,Italy,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1969,Peace,Organization,International Labour Organization (I.L.O.),,,,,,
+1969,Physics,Individual,Murray Gell-Mann,"New York, NY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1970,Chemistry,Individual,Luis F. Leloir,Paris,France,Male,Institute for Biochemical Research,Buenos Aires,Argentina
+1970,Economics,Individual,Paul A. Samuelson,"Gary, IN",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1970,Literature,Individual,Aleksandr Isayevich Solzhenitsyn,Kislovodsk,Russia,Male,,,
+1970,Medicine,Individual,Sir Bernard Katz,Leipzig,Germany,Male,University College,London,United Kingdom
+1970,Medicine,Individual,Ulf von Euler,Stockholm,Sweden,Male,Karolinska Institutet,Stockholm,Sweden
+1970,Medicine,Individual,Julius Axelrod,"New York, NY",United States of America,Male,National Institutes of Health,"Bethesda, MD",United States of America
+1970,Peace,Individual,Norman E. Borlaug,"Cresco, IA",United States of America,Male,,,
+1970,Physics,Individual,Hannes Olof Gösta Alfvén,Norrköping,Sweden,Male,Royal Institute of Technology,Stockholm,Sweden
+1970,Physics,Individual,Louis Eugène Félix Néel,Lyon,France,Male,University of Grenoble,Grenoble,France
+1971,Chemistry,Individual,Gerhard Herzberg,Hamburg,Germany,Male,National Research Council of Canada,Ottawa,Canada
+1971,Economics,Individual,Simon Kuznets,Pinsk,Russian Empire (Belarus),Male,Harvard University,"Cambridge, MA",United States of America
+1971,Literature,Individual,Pablo Neruda,Parral,Chile,Male,,,
+1971,Medicine,Individual,"Earl W. Sutherland, Jr.","Burlingame, KS",United States of America,Male,Vanderbilt University,"Nashville, TN",United States of America
+1971,Peace,Individual,Willy Brandt,Lübeck,Germany,Male,,,
+1971,Physics,Individual,Dennis Gabor,Budapest,Hungary,Male,Imperial College,London,United Kingdom
+1972,Chemistry,Individual,Christian B. Anfinsen,"Monessen, PA",United States of America,Male,National Institutes of Health,"Bethesda, MD",United States of America
+1972,Chemistry,Individual,Stanford Moore,"Chicago, IL",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1972,Chemistry,Individual,William H. Stein,"New York, NY",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1972,Economics,Individual,John R. Hicks,Warwick,United Kingdom,Male,All Souls College,Oxford,United Kingdom
+1972,Economics,Individual,Kenneth J. Arrow,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1972,Literature,Individual,Heinrich Böll,Cologne,Germany,Male,,,
+1972,Medicine,Individual,Gerald M. Edelman,"New York, NY",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1972,Medicine,Individual,Rodney R. Porter,Newton-le-Willows,United Kingdom,Male,University of Oxford,Oxford,United Kingdom
+1972,Physics,Individual,John Bardeen,"Madison, WI",United States of America,Male,University of Illinois,"Urbana, IL",United States of America
+1972,Physics,Individual,Leon Neil Cooper,"New York, NY",United States of America,Male,Brown University,"Providence, RI",United States of America
+1972,Physics,Individual,John Robert Schrieffer,"Oak Park, IL",United States of America,Male,University of Pennsylvania,"Philadelphia, PA",United States of America
+1973,Chemistry,Individual,Ernst Otto Fischer,Munich,Germany,Male,Technical University,Munich,Federal Republic of Germany
+1973,Chemistry,Individual,Geoffrey Wilkinson,Todmorden,United Kingdom,Male,Imperial College,London,United Kingdom
+1973,Economics,Individual,Wassily Leontief,St. Petersburg,Russia,Male,Harvard University,"Cambridge, MA",United States of America
+1973,Literature,Individual,Patrick White,London,United Kingdom,Male,,,
+1973,Medicine,Individual,Karl von Frisch,Vienna,Austria,Male,Zoologisches Institut der Universität München,Munich,Federal Republic of Germany
+1973,Medicine,Individual,Konrad Lorenz,Vienna,Austria,Male,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie",Altenberg; Grünau im Almtal,Austria
+1973,Medicine,Individual,Nikolaas Tinbergen,the Hague,Netherlands,Male,University of Oxford,Oxford,United Kingdom
+1973,Peace,Individual,Henry A. Kissinger,Fürth,Germany,Male,,,
+1973,Peace,Organization,Le Duc Tho,Nam Ha province,Vietnam,Male,,,
+1973,Physics,Individual,Leo Esaki,Osaka,Japan,Male,IBM Thomas J. Watson Research Center,"Yorktown Heights, NY",United States of America
+1973,Physics,Individual,Ivar Giaever,Bergen,Norway,Male,General Electric Company,"Schenectady, NY",United States of America
+1973,Physics,Individual,Brian David Josephson,Cardiff,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1974,Chemistry,Individual,Paul J. Flory,"Sterling, IL",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1974,Economics,Individual,Gunnar Myrdal,Skattungbyn,Sweden,Male,,,
+1974,Economics,Individual,Friedrich August von Hayek,Vienna,Austria,Male,,,
+1974,Literature,Individual,Eyvind Johnson,Svartbjörnsbyn,Sweden,Male,,,
+1974,Literature,Individual,Harry Martinson,Jämshög,Sweden,Male,,,
+1974,Medicine,Individual,Albert Claude,Longlier,Belgium,Male,Université Catholique de Louvain,Louvain,Belgium
+1974,Medicine,Individual,Christian de Duve,Thames Ditton,United Kingdom,Male,Rockefeller University,"New York, NY",United States of America
+1974,Medicine,Individual,Christian de Duve,Thames Ditton,United Kingdom,Male,Université Catholique de Louvain,Louvain,Belgium
+1974,Medicine,Individual,George E. Palade,Iasi,Romania,Male,"Yale University, School of Medicine","New Haven, CT",United States of America
+1974,Peace,Individual,Seán MacBride,Paris,France,Male,,,
+1974,Peace,Individual,Eisaku Sato,Tabuse,Japan,Male,,,
+1974,Physics,Individual,Sir Martin Ryle,Brighton,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1974,Physics,Individual,Antony Hewish,Fowey,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1975,Chemistry,Individual,John Warcup Cornforth,Sydney,Australia,Male,University of Sussex,Brighton,United Kingdom
+1975,Chemistry,Individual,Vladimir Prelog,Sarajevo,Austria-Hungary (Bosnia and Herzegovina),Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+1975,Economics,Individual,Leonid Vitaliyevich Kantorovich,St. Petersburg,Russian Empire (Russia),Male,Academy of Sciences,Moscow,Union of Soviet Socialist Republics
+1975,Economics,Individual,Tjalling C. Koopmans,'s Graveland,Netherlands,Male,Yale University,"New Haven, CT",United States of America
+1975,Literature,Individual,Eugenio Montale,Genoa,Italy,Male,,,
+1975,Medicine,Individual,David Baltimore,"New York, NY",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1975,Medicine,Individual,Renato Dulbecco,Catanzaro,Italy,Male,Imperial Cancer Research Fund Laboratory,London,United Kingdom
+1975,Medicine,Individual,Howard Martin Temin,"Philadelphia, PA",United States of America,Male,University of Wisconsin,"Madison, WI",United States of America
+1975,Peace,Individual,Andrei Dmitrievich Sakharov,Moscow,Russia,Male,,,
+1975,Physics,Individual,Aage Niels Bohr,Copenhagen,Denmark,Male,Niels Bohr Institute,Copenhagen,Denmark
+1975,Physics,Individual,Ben Roy Mottelson,"Chicago, IL",United States of America,Male,Nordita,Copenhagen,Denmark
+1975,Physics,Individual,Leo James Rainwater,"Council, ID",United States of America,Male,Columbia University,"New York, NY",United States of America
+1976,Chemistry,Individual,William N. Lipscomb,"Cleveland, OH",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1976,Economics,Individual,Milton Friedman,"Brooklyn, NY",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1976,Literature,Individual,Saul Bellow,Montreal,Canada,Male,,,
+1976,Medicine,Individual,Baruch S. Blumberg,"New York, NY",United States of America,Male,The Institute for Cancer Research,"Philadelphia, PA",United States of America
+1976,Medicine,Individual,D. Carleton Gajdusek,"Yonkers, NY",United States of America,Male,National Institutes of Health,"Bethesda, MD",United States of America
+1976,Peace,Individual,Betty Williams,Belfast,Northern Ireland,Female,,,
+1976,Peace,Individual,Mairead Corrigan,Belfast,Northern Ireland,Female,,,
+1976,Physics,Individual,Burton Richter,"Brooklyn, NY",United States of America,Male,Stanford Linear Accelerator Center,"Stanford, CA",United States of America
+1976,Physics,Individual,Samuel Chao Chung Ting,"Ann Arbor, MI",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1977,Chemistry,Individual,Ilya Prigogine,Moscow,Russia,Male,Université Libre de Bruxelles,Brussels,Belgium
+1977,Chemistry,Individual,Ilya Prigogine,Moscow,Russia,Male,University of Texas,"Austin, TX",United States of America
+1977,Economics,Individual,Bertil Ohlin,Klippan,Sweden,Male,Stockholm School of Economics,Stockholm,Sweden
+1977,Economics,Individual,James E. Meade,Swanage,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1977,Literature,Individual,Vicente Aleixandre,Sevilla,Spain,Male,,,
+1977,Medicine,Individual,Roger Guillemin,Dijon,France,Male,The Salk Institute,"San Diego, CA",United States of America
+1977,Medicine,Individual,Andrew V. Schally,Wilno (Vilnius),Poland (Lithuania),Male,Veterans Administration Hospital,"New Orleans, LA",United States of America
+1977,Medicine,Individual,Rosalyn Yalow,"New York, NY",United States of America,Female,Veterans Administration Hospital,"Bronx, NY",United States of America
+1977,Peace,Organization,Amnesty International,,,,,,
+1977,Physics,Individual,Philip Warren Anderson,"Indianapolis, IN",United States of America,Male,Bell Telephone Laboratories,"Murray Hill, NJ",United States of America
+1977,Physics,Individual,Sir Nevill Francis Mott,Leeds,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1977,Physics,Individual,John Hasbrouck van Vleck,"Middletown, CT",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1978,Chemistry,Individual,Peter D. Mitchell,Mitcham,United Kingdom,Male,Glynn Research Laboratories,Bodmin,United Kingdom
+1978,Economics,Individual,Herbert A. Simon,"Milwaukee, WI",United States of America,Male,Carnegie Mellon University,"Pittsburgh, PA",United States of America
+1978,Literature,Individual,Isaac Bashevis Singer,Leoncin,Russian Empire (Poland),Male,,,
+1978,Medicine,Individual,Werner Arber,Gränichen,Switzerland,Male,Biozentrum der Universität,Basel,Switzerland
+1978,Medicine,Individual,Daniel Nathans,"Wilmington, DE",United States of America,Male,Johns Hopkins University School of Medicine,"Baltimore, MD",United States of America
+1978,Medicine,Individual,Hamilton O. Smith,"New York, NY",United States of America,Male,Johns Hopkins University School of Medicine,"Baltimore, MD",United States of America
+1978,Peace,Individual,Mohamed Anwar al-Sadat,Mit Abu al-Kawm,Egypt,Male,,,
+1978,Peace,Individual,Menachem Begin,Brest Litovsk,Russian Empire (Belarus),Male,,,
+1978,Physics,Individual,Pyotr Leonidovich Kapitsa,Kronshtadt,Russian Empire (Russia),Male,Academy of Sciences,Moscow,Union of Soviet Socialist Republics
+1978,Physics,Individual,Arno Allan Penzias,Munich,Germany,Male,Bell Laboratories,"Holmdel, NJ",United States of America
+1978,Physics,Individual,Robert Woodrow Wilson,"Houston, TX",United States of America,Male,Bell Laboratories,"Holmdel, NJ",United States of America
+1979,Chemistry,Individual,Herbert C. Brown,London,United Kingdom,Male,Purdue University,"West Lafayette, IN",United States of America
+1979,Chemistry,Individual,Georg Wittig,Berlin,Germany,Male,University of Heidelberg,Heidelberg,Federal Republic of Germany
+1979,Economics,Individual,Theodore W. Schultz,"Arlington, SD",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1979,Economics,Individual,Sir Arthur Lewis,Castries,British West Indies (Saint Lucia),Male,Princeton University,"Princeton, NJ",United States of America
+1979,Literature,Individual,Odysseus Elytis,Iráklion,Crete (Greece),Male,,,
+1979,Medicine,Individual,Allan M. Cormack,Johannesburg,South Africa,Male,Tufts University,"Medford, MA",United States of America
+1979,Medicine,Individual,Godfrey N. Hounsfield,Newark,United Kingdom,Male,"Central Research Laboratories, EMI",London,United Kingdom
+1979,Peace,Organization,Mother Teresa,Uskup (Skopje),Ottoman Empire (Republic of Macedonia),Female,,,
+1979,Physics,Individual,Sheldon Lee Glashow,"New York, NY",United States of America,Male,"Harvard University, Lyman Laboratory","Cambridge, MA",United States of America
+1979,Physics,Individual,Abdus Salam,Jhang Maghi&#257;na,India (Pakistan),Male,International Centre for Theoretical Physics,Trieste,Italy
+1979,Physics,Individual,Abdus Salam,Jhang Maghi&#257;na,India (Pakistan),Male,Imperial College,London,United Kingdom
+1979,Physics,Individual,Steven Weinberg,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1980,Chemistry,Individual,Frederick Sanger,Rendcombe,United Kingdom,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1980,Chemistry,Individual,Paul Berg,"New York, NY",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1980,Chemistry,Individual,Walter Gilbert,"Boston, MA",United States of America,Male,"Harvard University, Biological Laboratories","Cambridge, MA",United States of America
+1980,Economics,Individual,Lawrence R. Klein,"Omaha, NE",United States of America,Male,University of Pennsylvania,"Philadelphia, PA",United States of America
+1980,Literature,Individual,Czeslaw Milosz,&#346;eteniai,Russian Empire (Lithuania),Male,,,
+1980,Medicine,Individual,Baruj Benacerraf,Caracas,Venezuela,Male,Harvard Medical School,"Boston, MA",United States of America
+1980,Medicine,Individual,Jean Dausset,Toulouse,France,Male,"Université de Paris, Laboratoire Immuno-Hématologie",Paris,France
+1980,Medicine,Individual,George D. Snell,"Bradford, MA",United States of America,Male,Jackson Laboratory,"Bar Harbor, ME",United States of America
+1980,Peace,Individual,Adolfo Pérez Esquivel,Buenos Aires,Argentina,Male,,,
+1980,Physics,Individual,James Watson Cronin,"Chicago, IL",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1980,Physics,Individual,Val Logsdon Fitch,"Merriman, NE",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+1981,Chemistry,Individual,Kenichi Fukui,Nara,Japan,Male,Kyoto University,Kyoto,Japan
+1981,Chemistry,Individual,Roald Hoffmann,Zloczov,Poland (Ukraine),Male,Cornell University,"Ithaca, NY",United States of America
+1981,Economics,Individual,James Tobin,"Champaign, IL",United States of America,Male,Yale University,"New Haven, CT",United States of America
+1981,Literature,Individual,Elias Canetti,Ruse,Bulgaria,Male,,,
+1981,Medicine,Individual,Roger W. Sperry,"Hartford, CT",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1981,Medicine,Individual,David H. Hubel,"Windsor, ON",Canada,Male,Harvard Medical School,"Boston, MA",United States of America
+1981,Medicine,Individual,Torsten N. Wiesel,Uppsala,Sweden,Male,Harvard Medical School,"Boston, MA",United States of America
+1981,Peace,Organization,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,
+1981,Physics,Individual,Nicolaas Bloembergen,Dordrecht,Netherlands,Male,Harvard University,"Cambridge, MA",United States of America
+1981,Physics,Individual,Arthur Leonard Schawlow,"Mount Verno, NY",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1981,Physics,Individual,Kai M. Siegbahn,Lund,Sweden,Male,Uppsala University,Uppsala,Sweden
+1982,Chemistry,Individual,Aaron Klug,Zelvas,Lithuania,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1982,Economics,Individual,George J. Stigler,"Renton, WA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1982,Literature,Individual,Gabriel García Márquez,Aracataca,Colombia,Male,,,
+1982,Medicine,Individual,Sune K. Bergström,Stockholm,Sweden,Male,Karolinska Institutet,Stockholm,Sweden
+1982,Medicine,Individual,Bengt I. Samuelsson,Halmstad,Sweden,Male,Karolinska Institutet,Stockholm,Sweden
+1982,Medicine,Individual,John R. Vane,Tardebigg,United Kingdom,Male,The Wellcome Research Laboratories,Beckenham,United Kingdom
+1982,Peace,Individual,Alva Myrdal,Uppsala,Sweden,Female,,,
+1982,Peace,Individual,Alfonso García Robles,Zamora,Mexico,Male,,,
+1982,Physics,Individual,Kenneth G. Wilson,"Waltham, MA",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1983,Chemistry,Individual,Henry Taube,Neudorf,Canada,Male,Stanford University,"Stanford, CA",United States of America
+1983,Economics,Individual,Gerard Debreu,Calais,France,Male,University of California,"Berkeley, CA",United States of America
+1983,Literature,Individual,William Golding,St. Columb Minor,United Kingdom,Male,,,
+1983,Medicine,Individual,Barbara McClintock,"Hartford, CT",United States of America,Female,Cold Spring Harbor Laboratory,"Cold Spring Harbor, NY",United States of America
+1983,Peace,Individual,Lech Walesa,Popowo,Poland,Male,,,
+1983,Physics,Individual,Subramanyan Chandrasekhar,Lahore,India (Pakistan),Male,University of Chicago,"Chicago, IL",United States of America
+1983,Physics,Individual,William Alfred Fowler,"Pittsburgh, PA",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1984,Chemistry,Individual,Robert Bruce Merrifield,"Fort Worth, TX",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+1984,Economics,Individual,Richard Stone,London,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+1984,Literature,Individual,Jaroslav Seifert,Prague,Austria-Hungary (Czech Republic),Male,,,
+1984,Medicine,Individual,Niels K. Jerne,London,United Kingdom,Male,Basel Institute for Immunology,Basel,Switzerland
+1984,Medicine,Individual,Georges J.F. Köhler,Munich,Germany,Male,Basel Institute for Immunology,Basel,Switzerland
+1984,Medicine,Individual,César Milstein,Bahia Blanca,Argentina,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1984,Peace,Individual,Desmond Mpilo Tutu,Klerksdorp,South Africa,Male,,,
+1984,Physics,Individual,Carlo Rubbia,Gorizia,Italy,Male,CERN,Geneva,Switzerland
+1984,Physics,Individual,Simon van der Meer,the Hague,Netherlands,Male,CERN,Geneva,Switzerland
+1985,Chemistry,Individual,Herbert A. Hauptman,"New York, NY",United States of America,Male,The Medical Foundation of Buffalo,"Buffalo, NY",United States of America
+1985,Chemistry,Individual,Jerome Karle,"New York, NY",United States of America,Male,US Naval Research Laboratory,"Washington, DC",United States of America
+1985,Economics,Individual,Franco Modigliani,Rome,Italy,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1985,Literature,Individual,Claude Simon,Tananarive (Antananarivo),Madagascar,Male,,,
+1985,Medicine,Individual,Michael S. Brown,"New York, NY",United States of America,Male,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",United States of America
+1985,Medicine,Individual,Joseph L. Goldstein,"Sumter, SC",United States of America,Male,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",United States of America
+1985,Peace,Organization,International Physicians for the Prevention of Nuclear War,,,,,,
+1985,Physics,Individual,Klaus von Klitzing,Schroda,German-occupied Poland (Poland),Male,Max-Planck-Institut für Festkörperforschung,Stuttgart,Federal Republic of Germany
+1986,Chemistry,Individual,Dudley R. Herschbach,"San José, CA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1986,Chemistry,Individual,Yuan T. Lee,Hsinchu,Taiwan,Male,University of California,"Berkeley, CA",United States of America
+1986,Chemistry,Individual,John C. Polanyi,Berlin,Germany,Male,University of Toronto,Toronto,Canada
+1986,Economics,Individual,James M. Buchanan Jr.,"Murfreesboro, TN",United States of America,Male,Center for Study of Public Choice,"Fairfax, VA",United States of America
+1986,Literature,Individual,Wole Soyinka,Abeokuta,Nigeria,Male,,,
+1986,Medicine,Individual,Stanley Cohen,"Brooklyn, NY",United States of America,Male,Vanderbilt University School of Medicine,"Nashville, TN",United States of America
+1986,Medicine,Individual,Rita Levi-Montalcini,Turin,Italy,Female,Institute of Cell Biology of the C.N.R.,Rome,Italy
+1986,Peace,Individual,Elie Wiesel,Sighet,Romania,Male,,,
+1986,Physics,Individual,Ernst Ruska,Heidelberg,Germany,Male,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Federal Republic of Germany
+1986,Physics,Individual,Gerd Binnig,Frankfurt-on-the-Main,West Germany (Germany),Male,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+1986,Physics,Individual,Heinrich Rohrer,Buchs,Switzerland,Male,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+1987,Chemistry,Individual,Donald J. Cram,"Chester, VT",United States of America,Male,University of California,"Los Angeles, CA",United States of America
+1987,Chemistry,Individual,Jean-Marie Lehn,Rosheim,France,Male,Université Louis Pasteur,Strasbourg,France
+1987,Chemistry,Individual,Jean-Marie Lehn,Rosheim,France,Male,Collège de France,Paris,France
+1987,Chemistry,Individual,Charles J. Pedersen,Pusan,Korea (South Korea),Male,Du Pont,"Wilmington, DE",United States of America
+1987,Economics,Individual,Robert M. Solow,"Brooklyn, NY",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1987,Literature,Individual,Joseph Brodsky,Leningrad (Saint Petersburg),Union of Soviet Socialist Republics (Russia),Male,,,
+1987,Medicine,Individual,Susumu Tonegawa,Nagoya,Japan,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1987,Peace,Individual,Oscar Arias Sánchez,Heredia,Costa Rica,Male,,,
+1987,Physics,Individual,J. Georg Bednorz,Neuenkirchen,West Germany (Germany),Male,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+1987,Physics,Individual,K. Alexander Müller,Basel,Switzerland,Male,IBM Zurich Research Laboratory,Rüschlikon,Switzerland
+1988,Chemistry,Individual,Johann Deisenhofer,Zusamaltheim,Germany,Male,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",United States of America
+1988,Chemistry,Individual,Johann Deisenhofer,Zusamaltheim,Germany,Male,Howard Hughes Medical Institute,,
+1988,Chemistry,Individual,Robert Huber,Munich,Germany,Male,Max-Planck-Institut für Biochemie,Martinsried,Federal Republic of Germany
+1988,Chemistry,Individual,Hartmut Michel,Ludwigsburg,West Germany (Germany),Male,Max-Planck-Institut für Biophysik,Frankfurt-on-the-Main,Federal Republic of Germany
+1988,Economics,Individual,Maurice Allais,Paris,France,Male,École Nationale Supérieur des Mines de Paris,Paris,France
+1988,Literature,Individual,Naguib Mahfouz,Cairo,Egypt,Male,,,
+1988,Medicine,Individual,Sir James W. Black,Uddingston,Scotland,Male,"London University, King's College Hospital Medical School",London,United Kingdom
+1988,Medicine,Individual,Gertrude B. Elion,"New York, NY",United States of America,Female,Wellcome Research Laboratories,"Research Triangle Park, NC",United States of America
+1988,Medicine,Individual,George H. Hitchings,"Hoquiam, WA",United States of America,Male,Wellcome Research Laboratories,"Research Triangle Park, NC",United States of America
+1988,Peace,Organization,United Nations Peacekeeping Forces,,,,,,
+1988,Physics,Individual,Leon M. Lederman,"New York, NY",United States of America,Male,Fermi National Accelerator Laboratory,"Batavia, IL",United States of America
+1988,Physics,Individual,Melvin Schwartz,"New York, NY",United States of America,Male,"Digital Pathways, Inc.","Mountain View, CA",United States of America
+1988,Physics,Individual,Jack Steinberger,Bad Kissingen,Germany,Male,CERN,Geneva,Switzerland
+1989,Chemistry,Individual,Sidney Altman,Montreal,Canada,Male,Yale University,"New Haven, CT",United States of America
+1989,Chemistry,Individual,Thomas R. Cech,"Chicago, IL",United States of America,Male,University of Colorado,"Boulder, CO",United States of America
+1989,Economics,Individual,Trygve Haavelmo,Skedsmo,Norway,Male,University of Oslo,Oslo,Norway
+1989,Literature,Individual,Camilo José Cela,Iria Flavia,Spain,Male,,,
+1989,Medicine,Individual,J. Michael Bishop,"York, PA",United States of America,Male,University of California School of Medicine,"San Francisco, CA",United States of America
+1989,Medicine,Individual,Harold E. Varmus,"Oceanside, NY",United States of America,Male,University of California School of Medicine,"San Francisco, CA",United States of America
+1989,Peace,Organization,The 14th Dalai Lama (Tenzin Gyatso),Taktser,Tibet (People's Republic of China),Male,,,
+1989,Physics,Individual,Norman F. Ramsey,"Washington, DC",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1989,Physics,Individual,Hans G. Dehmelt,Görlitz,Prussia (Germany),Male,University of Washington,"Seattle, WA",United States of America
+1989,Physics,Individual,Wolfgang Paul,Lorenzkirch,Germany,Male,University of Bonn,Bonn,Federal Republic of Germany
+1990,Chemistry,Individual,Elias James Corey,"Methuen, MA",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1990,Economics,Individual,Harry M. Markowitz,"Chicago, IL",United States of America,Male,City University of New York,"New York, NY",United States of America
+1990,Economics,Individual,Merton H. Miller,"Boston, MA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1990,Economics,Individual,William F. Sharpe,"Boston, MA",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1990,Literature,Individual,Octavio Paz,Mexico City,Mexico,Male,,,
+1990,Medicine,Individual,Joseph E. Murray,"Milford, MA",United States of America,Male,Brigham and Women's Hospital,"Boston, MA",United States of America
+1990,Medicine,Individual,E. Donnall Thomas,"Mart, TX",United States of America,Male,Fred Hutchinson Cancer Research Center,"Seattle, WA",United States of America
+1990,Peace,Individual,Mikhail Sergeyevich Gorbachev,Privolnoye,Union of Soviet Socialist Republics (Russia),Male,,,
+1990,Physics,Individual,Jerome I. Friedman,"Chicago, IL",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1990,Physics,Individual,Henry W. Kendall,"Boston, MA",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1990,Physics,Individual,Richard E. Taylor,"Medicine Hat, Alberta",Canada,Male,Stanford University,"Stanford, CA",United States of America
+1991,Chemistry,Individual,Richard R. Ernst,Winterthur,Switzerland,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+1991,Economics,Individual,Ronald H. Coase,Willesden,United Kingdom,Male,University of Chicago,"Chicago, IL",United States of America
+1991,Literature,Individual,Nadine Gordimer,Springs,South Africa,Female,,,
+1991,Medicine,Individual,Erwin Neher,Landsberg,Germany,Male,Max-Planck-Institut für Biophysikalische Chemie,Göttingen,Federal Republic of Germany
+1991,Medicine,Individual,Bert Sakmann,Stuttgart,Germany,Male,Max-Planck-Institut für medizinische Forschung,Heidelberg,Federal Republic of Germany
+1991,Peace,Organization,Aung San Suu Kyi,Rangoon (Yangon),Burma (Myanmar),Female,,,
+1991,Physics,Individual,Pierre-Gilles de Gennes,Paris,France,Male,Collège de France,Paris,France
+1992,Chemistry,Individual,Rudolph A. Marcus,Montreal,Canada,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1992,Economics,Individual,Gary S. Becker,"Pottsville, PA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1992,Literature,Individual,Derek Walcott,Castries,Saint Lucia,Male,,,
+1992,Medicine,Individual,Edmond H. Fischer,Shanghai,China,Male,University of Washington,"Seattle, WA",United States of America
+1992,Medicine,Individual,Edwin G. Krebs,"Lansing, IA",United States of America,Male,University of Washington,"Seattle, WA",United States of America
+1992,Peace,Individual,Rigoberta Menchú Tum,Aldea Chimel,Guatemala,Female,,,
+1992,Physics,Individual,Georges Charpak,Dabrovica,Poland,Male,École Supérieure de Physique et Chimie,Paris,France
+1992,Physics,Individual,Georges Charpak,Dabrovica,Poland,Male,CERN,Geneva,Switzerland
+1993,Chemistry,Individual,Kary B. Mullis,"Lenoir, NC",United States of America,Male,,"La Jolla, CA",United States of America
+1993,Chemistry,Individual,Michael Smith,Blackpool,United Kingdom,Male,University of British Columbia,Vancouver,Canada
+1993,Economics,Individual,Robert W. Fogel,"New York, NY",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1993,Economics,Individual,Douglass C. North,"Cambridge, MA",United States of America,Male,Washington University,"St. Louis, MO",United States of America
+1993,Literature,Individual,Toni Morrison,"Lorain, OH",United States of America,Female,,,
+1993,Medicine,Individual,Richard J. Roberts,Derby,United Kingdom,Male,New England Biolabs,"Beverly, MA",United States of America
+1993,Medicine,Individual,Phillip A. Sharp,"Falmouth, KY",United States of America,Male,"Massachusetts Institute of Technology (MIT), Center for Cancer Research","Cambridge, MA",United States of America
+1993,Peace,Individual,Nelson Mandela,Qunu,South Africa,Male,,,
+1993,Peace,Individual,Frederik Willem de Klerk,Johannesburg,South Africa,Male,,,
+1993,Physics,Individual,Russell A. Hulse,"New York, NY",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+1993,Physics,Individual,Joseph H. Taylor Jr.,"Philadelphia, PA",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+1994,Chemistry,Individual,George A. Olah,Budapest,Hungary,Male,University of Southern California,"Los Angeles, CA",United States of America
+1994,Economics,Individual,John C. Harsanyi,Budapest,Hungary,Male,University of California,"Berkeley, CA",United States of America
+1994,Economics,Individual,John F. Nash Jr.,"Bluefield, WV",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+1994,Economics,Individual,Reinhard Selten,Breslau (Wroclaw),Germany (Poland),Male,Rheinische Friedrich-Wilhelms-Universität,Bonn,Federal Republic of Germany
+1994,Literature,Individual,Kenzaburo Oe,Uchiko,Japan,Male,,,
+1994,Medicine,Individual,Alfred G. Gilman,"New Haven, CT",United States of America,Male,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",United States of America
+1994,Medicine,Individual,Martin Rodbell,"Baltimore, MD",United States of America,Male,National Institute of Environmental Health Sciences,"Research Triangle Park, NC",United States of America
+1994,Peace,Individual,Yasser Arafat,Cairo,Egypt,Male,,,
+1994,Peace,Individual,Shimon Peres,Vishneva,Poland (Belarus),Male,,,
+1994,Peace,Individual,Yitzhak Rabin,Jerusalem,British Mandate of Palestine (Israel),Male,,,
+1994,Physics,Individual,Bertram N. Brockhouse,"Lethbridge, Alberta",Canada,Male,McMaster University,"Hamilton, Ontario",Canada
+1994,Physics,Individual,Clifford G. Shull,"Pittsburgh, PA",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1995,Chemistry,Individual,Paul J. Crutzen,Amsterdam,Netherlands,Male,Max-Planck-Institut für Chemie,Mainz,Federal Republic of Germany
+1995,Chemistry,Individual,Mario J. Molina,Mexico City,Mexico,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+1995,Chemistry,Individual,F. Sherwood Rowland,"Delaware, OH",United States of America,Male,University of California,"Irvine, CA",United States of America
+1995,Economics,Individual,Robert E. Lucas Jr.,"Yakima, WA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+1995,Literature,Individual,Seamus Heaney,Casteldàwson,Northern Ireland,Male,,,
+1995,Medicine,Individual,Edward B. Lewis,"Wilkes-Barre, PA",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1995,Medicine,Individual,Christiane Nüsslein-Volhard,Magdeburg,Germany,Female,Max-Planck-Institut für Entwicklungsbiologie,Tübingen,Federal Republic of Germany
+1995,Medicine,Individual,Eric F. Wieschaus,"South Bend, IN",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+1995,Peace,Individual,Joseph Rotblat,Warsaw,Russian Empire (Poland),Male,,,
+1995,Peace,Organization,Pugwash Conferences on Science and World Affairs,,,,,,
+1995,Physics,Individual,Martin L. Perl,"New York, NY",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1995,Physics,Individual,Frederick Reines,"Paterson, NJ",United States of America,Male,University of California,"Irvine, CA",United States of America
+1996,Chemistry,Individual,Robert F. Curl Jr.,"Alice, TX",United States of America,Male,Rice University,"Houston, TX",United States of America
+1996,Chemistry,Individual,Sir Harold W. Kroto,Wisbech,United Kingdom,Male,University of Sussex,Brighton,United Kingdom
+1996,Chemistry,Individual,Richard E. Smalley,"Akron, OH",United States of America,Male,Rice University,"Houston, TX",United States of America
+1996,Economics,Individual,James A. Mirrlees,Minnigaff,Scotland,Male,University of Cambridge,Cambridge,United Kingdom
+1996,Economics,Individual,William Vickrey,"Victoria, BC",Canada,Male,Columbia University,"New York, NY",United States of America
+1996,Literature,Individual,Wislawa Szymborska,Bnin (Kórnik),Poland,Female,,,
+1996,Medicine,Individual,Peter C. Doherty,Brisbane,Australia,Male,St. Jude Children's Research Hospital,"Memphis, TN",United States of America
+1996,Medicine,Individual,Rolf M. Zinkernagel,Basel,Switzerland,Male,"University of Zurich, Institute of Experimental Immunology",Zurich,Switzerland
+1996,Peace,Individual,Carlos Filipe Ximenes Belo,Wailacama,East Timor,Male,,,
+1996,Peace,Individual,José Ramos-Horta,Dili,East Timor,Male,,,
+1996,Physics,Individual,David M. Lee,"Rye, NY",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1996,Physics,Individual,Douglas D. Osheroff,"Aberdeen, WA",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1996,Physics,Individual,Robert C. Richardson,"Washington, DC",United States of America,Male,Cornell University,"Ithaca, NY",United States of America
+1997,Chemistry,Individual,Paul D. Boyer,"Provo, UT",United States of America,Male,University of California,"Los Angeles, CA",United States of America
+1997,Chemistry,Individual,John E. Walker,Halifax,United Kingdom,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+1997,Chemistry,Individual,Jens C. Skou,Lemvig,Denmark,Male,Aarhus University,Aarhus,Denmark
+1997,Economics,Individual,Robert C. Merton,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+1997,Economics,Individual,Myron S. Scholes,"Timmins, ON",Canada,Male,Long Term Capital Management,"Greenwich, CT",United States of America
+1997,Literature,Individual,Dario Fo,Leggiuno-Sangiano,Italy,Male,,,
+1997,Medicine,Individual,Stanley B. Prusiner,"Des Moines, IA",United States of America,Male,University of California School of Medicine,"San Francisco, CA",United States of America
+1997,Peace,Organization,International Campaign to Ban Landmines (ICBL),,,,,,
+1997,Peace,Individual,Jody Williams,"Putney, VT",United States of America,Female,,,
+1997,Physics,Individual,Steven Chu,"St. Louis, MO",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1997,Physics,Individual,Claude Cohen-Tannoudji,Constantine,French Algeria (Algeria),Male,Collège de France,Paris,France
+1997,Physics,Individual,Claude Cohen-Tannoudji,Constantine,French Algeria (Algeria),Male,École Normale Supérieure,Paris,France
+1997,Physics,Individual,William D. Phillips,"Wilkes-Barre, PA",United States of America,Male,National Institute of Standards and Technology,"Gaithersburg, MD",United States of America
+1998,Chemistry,Individual,Walter Kohn,Vienna,Austria,Male,University of California,"Santa Barbara, CA",United States of America
+1998,Chemistry,Individual,John A. Pople,Burnham-on-Sea,United Kingdom,Male,Northwestern University,"Evanston, IL",United States of America
+1998,Economics,Individual,Amartya Sen,Santiniketan,India,Male,Trinity College,Cambridge,United Kingdom
+1998,Literature,Individual,José Saramago,Azinhaga,Portugal,Male,,,
+1998,Medicine,Individual,Robert F. Furchgott,"Charleston, SC",United States of America,Male,SUNY Health Science Center,"Brooklyn, NY",United States of America
+1998,Medicine,Individual,Louis J. Ignarro,"Brooklyn, NY",United States of America,Male,University of California School of Medicine,"Los Angeles, CA",United States of America
+1998,Medicine,Individual,Ferid Murad,"Whiting, IN",United States of America,Male,University of Texas Medical School at Houston,"Houston, TX",United States of America
+1998,Peace,Individual,John Hume,Londonderry,Northern Ireland,Male,,,
+1998,Peace,Individual,David Trimble,Belfast,Northern Ireland,Male,,,
+1998,Physics,Individual,Robert B. Laughlin,"Visalia, CA",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+1998,Physics,Individual,Horst L. Störmer,Frankfurt-on-the-Main,West Germany (Germany),Male,Columbia University,"New York, NY",United States of America
+1998,Physics,Individual,Daniel C. Tsui,Henan,China,Male,Princeton University,"Princeton, NJ",United States of America
+1999,Chemistry,Individual,Ahmed H. Zewail,Damanhur,Egypt,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+1999,Economics,Individual,Robert A. Mundell,"Kingston, ON",Canada,Male,Columbia University,"New York, NY",United States of America
+1999,Literature,Individual,Günter Grass,Danzig (Gdansk),Free City of Danzig (Poland),Male,,,
+1999,Medicine,Individual,Günter Blobel,Waltersdorf (Niegoslawice),Germany (Poland),Male,Rockefeller University,"New York, NY",United States of America
+1999,Medicine,Individual,Günter Blobel,Waltersdorf (Niegoslawice),Germany (Poland),Male,Howard Hughes Medical Institute,,
+1999,Peace,Organization,Médecins Sans Frontières,,,,,,
+1999,Physics,Individual,Gerardus 't Hooft,Den Helder,Netherlands,Male,Utrecht University,Utrecht,Netherlands
+1999,Physics,Individual,Martinus J.G. Veltman,Waalwijk,Netherlands,Male,,Bilthoven,Netherlands
+2000,Chemistry,Individual,Alan J. Heeger,"Sioux City, IA",United States of America,Male,University of California,"Santa Barbara, CA",United States of America
+2000,Chemistry,Individual,Alan G. MacDiarmid,Masterton,New Zealand,Male,University of Pennsylvania,"Philadelphia, PA",United States of America
+2000,Chemistry,Individual,Hideki Shirakawa,Tokyo,Japan,Male,University of Tsukuba,Tokyo,Japan
+2000,Economics,Individual,James J. Heckman,"Chicago, IL",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+2000,Economics,Individual,Daniel L. McFadden,"Raleigh, NC",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2000,Literature,Individual,Gao Xingjian,Ganzhou,China,Male,,,
+2000,Medicine,Individual,Arvid Carlsson,Uppsala,Sweden,Male,Göteborg University,Gothenburg,Sweden
+2000,Medicine,Individual,Paul Greengard,"New York, NY",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+2000,Medicine,Individual,Eric R. Kandel,Vienna,Austria,Male,Columbia University,"New York, NY",United States of America
+2000,Peace,Individual,Kim Dae-jung,Mokpo,Korea (South Korea),Male,,,
+2000,Physics,Individual,Zhores I. Alferov,"Vitebsk, Belorussia",Union of Soviet Socialist Republics (Belarus),Male,A.F. Ioffe Physico-Technical Institute,St. Petersburg,Russia
+2000,Physics,Individual,Herbert Kroemer,Weimar,Germany,Male,University of California,"Santa Barbara, CA",United States of America
+2000,Physics,Individual,Jack S. Kilby,"Jefferson City, MO",United States of America,Male,Texas Instruments,"Dallas, TX",United States of America
+2001,Chemistry,Individual,William S. Knowles,"Taunton, MA",United States of America,Male,,"St. Louis, MO",United States of America
+2001,Chemistry,Individual,Ryoji Noyori,Kobe,Japan,Male,Nagoya University,Nagoya,Japan
+2001,Chemistry,Individual,K. Barry Sharpless,"Philadelphia, PA",United States of America,Male,The Scripps Research Institute,"La Jolla, CA",United States of America
+2001,Economics,Individual,George A. Akerlof,"New Haven, CT",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2001,Economics,Individual,A. Michael Spence,"Montclair, NJ",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+2001,Economics,Individual,Joseph E. Stiglitz,"Gary, IN",United States of America,Male,Columbia University,"New York, NY",United States of America
+2001,Literature,Individual,Sir Vidiadhar Surajprasad Naipaul,,Trinidad,Male,,,
+2001,Medicine,Individual,Leland H. Hartwell,"Los Angeles, CA",United States of America,Male,Fred Hutchinson Cancer Research Center,"Seattle, WA",United States of America
+2001,Medicine,Individual,Tim Hunt,Neston,United Kingdom,Male,Imperial Cancer Research Fund,London,United Kingdom
+2001,Medicine,Individual,Sir Paul M. Nurse,Norwich,United Kingdom,Male,Imperial Cancer Research Fund,London,United Kingdom
+2001,Peace,Organization,United Nations (U.N.),,,,,,
+2001,Peace,Individual,Kofi Annan,Kumasi,Gold Coast (Ghana),Male,,,
+2001,Physics,Individual,Eric A. Cornell,"Palo Alto, CA",United States of America,Male,"University of Colorado, JILA","Boulder, CO",United States of America
+2001,Physics,Individual,Wolfgang Ketterle,Heidelberg,West Germany (Germany),Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2001,Physics,Individual,Carl E. Wieman,"Corvallis, OR",United States of America,Male,"University of Colorado, JILA","Boulder, CO",United States of America
+2002,Chemistry,Individual,John B. Fenn,"New York, NY",United States of America,Male,Virginia Commonwealth University,"Richmond, VA",United States of America
+2002,Chemistry,Individual,Koichi Tanaka,Toyama City,Japan,Male,Shimadzu Corp.,Kyoto,Japan
+2002,Chemistry,Individual,Kurt Wüthrich,Aarberg,Switzerland,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland
+2002,Chemistry,Individual,Kurt Wüthrich,Aarberg,Switzerland,Male,The Scripps Research Institute,"La Jolla, CA",United States of America
+2002,Economics,Individual,Daniel Kahneman,Tel Aviv,British Mandate of Palestine (Israel),Male,Princeton University,"Princeton, NJ",United States of America
+2002,Economics,Individual,Vernon L. Smith,"Wichita, KS",United States of America,Male,George Mason University,"Fairfax, VA",United States of America
+2002,Literature,Individual,Imre Kertész,Budapest,Hungary,Male,,,
+2002,Medicine,Individual,Sydney Brenner,Germiston,South Africa,Male,The Molecular Sciences Institute,"Berkeley, CA",United States of America
+2002,Medicine,Individual,H. Robert Horvitz,"Chicago, IL",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2002,Medicine,Individual,John E. Sulston,Cambridge,United Kingdom,Male,The Wellcome Trust Sanger Institute,Cambridge,United Kingdom
+2002,Peace,Individual,Jimmy Carter,"Plains, GA",United States of America,Male,,,
+2002,Physics,Individual,Raymond Davis Jr.,"Washington, DC",United States of America,Male,University of Pennsylvania,"Philadelphia, PA",United States of America
+2002,Physics,Individual,Masatoshi Koshiba,Toyohashi,Japan,Male,University of Tokyo,Tokyo,Japan
+2002,Physics,Individual,Riccardo Giacconi,Genoa,Italy,Male,Associated Universities Inc.,"Washington, DC",United States of America
+2003,Chemistry,Individual,Peter Agre,"Northfield, MN",United States of America,Male,Johns Hopkins University School of Medicine,"Baltimore, MD",United States of America
+2003,Chemistry,Individual,Roderick MacKinnon,"Burlington, MA",United States of America,Male,Rockefeller University,"New York, NY",United States of America
+2003,Chemistry,Individual,Roderick MacKinnon,"Burlington, MA",United States of America,Male,Howard Hughes Medical Institute,,
+2003,Economics,Individual,Robert F. Engle III,"Syracuse, NY",United States of America,Male,New York University,"New York, NY",United States of America
+2003,Economics,Individual,Clive W.J. Granger,Swansea,United Kingdom,Male,University of California,"San Diego, CA",United States of America
+2003,Literature,Individual,John M. Coetzee,Cape Town,South Africa,Male,,,
+2003,Medicine,Individual,Paul C. Lauterbur,"Sidney, OH",United States of America,Male,University of Illinois,"Urbana, IL",United States of America
+2003,Medicine,Individual,Sir Peter Mansfield,London,United Kingdom,Male,"University of Nottingham, School of Physics and Astronomy",Nottingham,United Kingdom
+2003,Peace,Individual,Shirin Ebadi,Hamadan,Iran,Female,,,
+2003,Physics,Individual,Alexei A. Abrikosov,Moscow,Union of Soviet Socialist Republics (Russia),Male,Argonne National Laboratory,"Argonne, IL",United States of America
+2003,Physics,Individual,Vitaly L. Ginzburg,Moscow,Russia,Male,P.N. Lebedev Physical Institute,Moscow,Russia
+2003,Physics,Individual,Anthony J. Leggett,London,United Kingdom,Male,University of Illinois,"Urbana, IL",United States of America
+2004,Chemistry,Individual,Aaron Ciechanover,Haifa,British Protectorate of Palestine (Israel),Male,Technion - Israel Institute of Technology,Haifa,Israel
+2004,Chemistry,Individual,Avram Hershko,Karcag,Hungary,Male,Technion - Israel Institute of Technology,Haifa,Israel
+2004,Chemistry,Individual,Irwin Rose,"Brooklyn, NY",United States of America,Male,University of California,"Irvine, CA",United States of America
+2004,Economics,Individual,Finn E. Kydland,Gjesdal,Norway,Male,Carnegie Mellon University,"Pittsburgh, PA",United States of America
+2004,Economics,Individual,Finn E. Kydland,Gjesdal,Norway,Male,University of California,"Santa Barbara, CA",United States of America
+2004,Economics,Individual,Edward C. Prescott,"Glens Falls, NY",United States of America,Male,Arizona State University,"Tempe, AZ",United States of America
+2004,Economics,Individual,Edward C. Prescott,"Glens Falls, NY",United States of America,Male,Federal Reserve Bank of Minneapolis,"Minneapolis, MN",United States of America
+2004,Literature,Individual,Elfriede Jelinek,Mürzzuschlag,Austria,Female,,,
+2004,Medicine,Individual,Richard Axel,"New York, NY",United States of America,Male,Columbia University,"New York, NY",United States of America
+2004,Medicine,Individual,Linda B. Buck,"Seattle, WA",United States of America,Female,Fred Hutchinson Cancer Research Center,"Seattle, WA",United States of America
+2004,Peace,Individual,Wangari Muta Maathai,Nyeri,Kenya,Female,,,
+2004,Physics,Individual,David J. Gross,"Washington, DC",United States of America,Male,"University of California, Kavli Institute for Theoretical Physics","Santa Barbara, CA",United States of America
+2004,Physics,Individual,H. David Politzer,"New York, NY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+2004,Physics,Individual,Frank Wilczek,"New York, NY",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2005,Chemistry,Individual,Yves Chauvin,Menin,Belgium,Male,Institut Français du Pétrole,Rueil-Malmaison,France
+2005,Chemistry,Individual,Robert H. Grubbs,"Possum Trot, KY",United States of America,Male,California Institute of Technology (Caltech),"Pasadena, CA",United States of America
+2005,Chemistry,Individual,Richard R. Schrock,"Berne, IN",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2005,Economics,Individual,Robert J. Aumann,Frankfurt-on-the-Main,Germany,Male,"University of Jerusalem, Center for RationalityHebrew",Jerusalem,Israel
+2005,Economics,Individual,Thomas C. Schelling,"Oakland, CA",United States of America,Male,"University of Maryland, Department of Economics and School of Public Policy","College Park, MD",United States of America
+2005,Literature,Individual,Harold Pinter,London,United Kingdom,Male,,,
+2005,Medicine,Individual,Barry J. Marshall,Kalgoorlie,Australia,Male,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Nedlands,Australia
+2005,Medicine,Individual,Barry J. Marshall,Kalgoorlie,Australia,Male,University of Western Australia,Perth,Australia
+2005,Medicine,Individual,J. Robin Warren,Adelaide,Australia,Male,,Perth,Australia
+2005,Peace,Organization,International Atomic Energy Agency (IAEA),,,,,,
+2005,Peace,Individual,Mohamed ElBaradei,Cairo,Egypt,Male,,,
+2005,Physics,Individual,Roy J. Glauber,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+2005,Physics,Individual,John L. Hall,"Denver, CO",United States of America,Male,"University of Colorado, JILA","Boulder, CO",United States of America
+2005,Physics,Individual,John L. Hall,"Denver, CO",United States of America,Male,National Institute of Standards and Technology,"Boulder, CO",United States of America
+2005,Physics,Individual,Theodor W. Hänsch,Heidelberg,Germany,Male,Max-Planck-Institut für Quantenoptik,Garching,Germany
+2005,Physics,Individual,Theodor W. Hänsch,Heidelberg,Germany,Male,Ludwig-Maximilians- Universität,Munich,Germany
+2006,Chemistry,Individual,Roger D. Kornberg,"St. Louis, MO",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+2006,Economics,Individual,Edmund S. Phelps,"Evanston, IL",United States of America,Male,Columbia University,"New York, NY",United States of America
+2006,Literature,Individual,Orhan Pamuk,Istanbul,Turkey,Male,,,
+2006,Medicine,Individual,Andrew Z. Fire,"Stanford, CA",United States of America,Male,Stanford University School of Medicine,"Stanford, CA",United States of America
+2006,Medicine,Individual,Craig C. Mello,"New Haven, CT",United States of America,Male,University of Massachusetts Medical School,"Worcester, MA",United States of America
+2006,Peace,Individual,Muhammad Yunus,Chittagong,British India (Bangladesh),Male,,,
+2006,Peace,Organization,Grameen Bank,,,,,,
+2006,Physics,Individual,John C. Mather,"Roanoke, VA",United States of America,Male,NASA Goddard Space Flight Center,"Greenbelt, MD",United States of America
+2006,Physics,Individual,George F. Smoot,"Yukon, FL",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2007,Chemistry,Individual,Gerhard Ertl,Bad Cannstatt,Germany,Male,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany
+2007,Economics,Individual,Leonid Hurwicz,Moscow,Russia,Male,University of Minnesota,"Minneapolis, MN",United States of America
+2007,Economics,Individual,Eric S. Maskin,"New York, NY",United States of America,Male,Institute for Advanced Study,"Princeton, NJ",United States of America
+2007,Economics,Individual,Roger B. Myerson,"Boston, MA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+2007,Literature,Individual,Doris Lessing,Kermanshah,Persia (Iran),Female,,,
+2007,Medicine,Individual,Mario R. Capecchi,Verona,Italy,Male,University of Utah,"Salt Lake City, UT",United States of America
+2007,Medicine,Individual,Mario R. Capecchi,Verona,Italy,Male,Howard Hughes Medical Institute,,
+2007,Medicine,Individual,Sir Martin J. Evans,Stroud,United Kingdom,Male,Cardiff University,Cardiff,United Kingdom
+2007,Medicine,Individual,Oliver Smithies,Halifax,United Kingdom,Male,University of North Carolina,"Chapel Hill, NC",United States of America
+2007,Peace,Organization,Intergovernmental Panel on Climate Change (IPCC),,,,,,
+2007,Peace,Individual,Albert Arnold (Al) Gore Jr.,"Washington, DC",United States of America,Male,,,
+2007,Physics,Individual,Albert Fert,Carcassonne,France,Male,Universit&eacute; Paris-Sud,Orsay,France
+2007,Physics,Individual,Albert Fert,Carcassonne,France,Male,Unit&eacute; Mixte de Physique CNRS/THALES,Orsay,France
+2007,Physics,Individual,Peter Grünberg,Plzen,Czechoslovakia (Czech Republic),Male,Forschungszentrum J&uuml;lich,J&uuml;lich,Germany
+2008,Chemistry,Individual,Osamu Shimomura,Kyoto,Japan,Male,Marine Biological Laboratory (MBL),"Woods Hole, MA",United States of America
+2008,Chemistry,Individual,Osamu Shimomura,Kyoto,Japan,Male,Boston University Medical School,"Massachusetts, MA",United States of America
+2008,Chemistry,Individual,Martin Chalfie,"Chicago, IL",United States of America,Male,Columbia University,"New York, NY",United States of America
+2008,Chemistry,Individual,Roger Y. Tsien,"New York, NY",United States of America,Male,University of California,"San Diego, CA",United States of America
+2008,Chemistry,Individual,Roger Y. Tsien,"New York, NY",United States of America,Male,Howard Hughes Medical Institute,,
+2008,Economics,Individual,Paul Krugman,"New York, NY",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+2008,Literature,Individual,Jean-Marie Gustave Le Clézio,Nice,France,Male,,,
+2008,Medicine,Individual,Harald zur Hausen,Gelsenkirchen,Germany,Male,German Cancer Research Center,Heidelberg,Germany
+2008,Medicine,Individual,Françoise Barré-Sinoussi,Paris,France,Female,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",Paris,France
+2008,Medicine,Individual,Luc Montagnier,Chabris,France,Male,World Foundation for AIDS Research and Prevention,Paris,France
+2008,Peace,Individual,Martti Ahtisaari,Viipuri (Vyborg),Finland,Male,,,
+2008,Physics,Individual,Yoichiro Nambu,Tokyo,Japan,Male,"Enrico Fermi Institute, University of Chicago","Chicago, IL",United States of America
+2008,Physics,Individual,Makoto Kobayashi,Nagoya,Japan,Male,High Energy Accelerator Research Organization (KEK),Tsukuba,Japan
+2008,Physics,Individual,Toshihide Maskawa,Nagoya,Japan,Male,Kyoto Sangyo University,Kyoto,Japan
+2008,Physics,Individual,Toshihide Maskawa,Nagoya,Japan,Male,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University",Kyoto,Japan
+2009,Chemistry,Individual,Venkatraman Ramakrishnan,"Chidambaram, Tamil Nadu",India,Male,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom
+2009,Chemistry,Individual,Thomas A. Steitz,"Milwaukee, WI",United States of America,Male,Yale University,"New Haven, CT",United States of America
+2009,Chemistry,Individual,Thomas A. Steitz,"Milwaukee, WI",United States of America,Male,Howard Hughes Medical Institute,,
+2009,Chemistry,Individual,Ada E. Yonath,Jerusalem,British Mandate of Palestine (Israel),Female,Weizmann Institute of Science,Rehovot,Israel
+2009,Economics,Individual,Elinor Ostrom,"Los Angeles, CA",United States of America,Female,Indiana University,"Bloomington, IN",United States of America
+2009,Economics,Individual,Elinor Ostrom,"Los Angeles, CA",United States of America,Female,Arizona State University,"Tempe, AZ",United States of America
+2009,Economics,Individual,Oliver E. Williamson,"Superior, WI",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2009,Literature,Individual,Herta Müller,"Nitzkydorf, Banat",Romania,Female,,,
+2009,Medicine,Individual,Elizabeth H. Blackburn,"Hobart, Tasmania",Australia,Female,University of California,"San Francisco, CA",United States of America
+2009,Medicine,Individual,Carol W. Greider,"San Diego, CA",United States of America,Female,Johns Hopkins University School of Medicine,"Baltimore, MD",United States of America
+2009,Medicine,Individual,Jack W. Szostak,London,United Kingdom,Male,Harvard Medical School,"Boston, MA",United States of America
+2009,Medicine,Individual,Jack W. Szostak,London,United Kingdom,Male,Massachusetts General Hospital,"Boston, MA",United States of America
+2009,Medicine,Individual,Jack W. Szostak,London,United Kingdom,Male,Howard Hughes Medical Institute,,
+2009,Peace,Individual,Barack H. Obama,"Honolulu, HI",United States of America,Male,,,
+2009,Physics,Individual,Charles Kuen Kao,Shanghai,China,Male,Standard Telecommunication Laboratories,Harlow,United Kingdom
+2009,Physics,Individual,Charles Kuen Kao,Shanghai,China,Male,Chinese University of Hong Kong,Hong Kong,China
+2009,Physics,Individual,Willard S. Boyle,"Amherst, NS",Canada,Male,Bell Laboratories,"Murray Hill, NJ",United States of America
+2009,Physics,Individual,George E. Smith,"White Plains, NY",United States of America,Male,Bell Laboratories,"Murray Hill, NJ",United States of America
+2010,Chemistry,Individual,Richard F. Heck,"Springfield, MA",United States of America,Male,University of Delaware,,United States of America
+2010,Chemistry,Individual,Ei-ichi Negishi,Changchun,China,Male,Purdue University,"West Lafayette, IN",United States of America
+2010,Chemistry,Individual,Akira Suzuki,Mukawa,Japan,Male,Hokkaido University,Sapporo,Japan
+2010,Economics,Individual,Peter A. Diamond,"New York, NY",United States of America,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2010,Economics,Individual,Dale T. Mortensen,"Enterprise, OR",United States of America,Male,Northwestern University,"Evanston, IL",United States of America
+2010,Economics,Individual,Dale T. Mortensen,"Enterprise, OR",United States of America,Male,Aarhus University,Aarhus,Denmark
+2010,Economics,Individual,Christopher A. Pissarides,Nicosia,Cyprus,Male,London School of Economics and Political Science,London,United Kingdom
+2010,Literature,Individual,Mario Vargas Llosa,Arequipa,Peru,Male,,,
+2010,Medicine,Individual,Robert G. Edwards,Batley,United Kingdom,Male,University of Cambridge,Cambridge,United Kingdom
+2010,Peace,Individual,Liu Xiaobo,,China,Male,,,
+2010,Physics,Individual,Andre Geim,Sochi,Russia,Male,University of Manchester,Manchester,United Kingdom
+2010,Physics,Individual,Konstantin Novoselov,Nizhny Tagil,Russia,Male,University of Manchester,Manchester,United Kingdom
+2011,Chemistry,Individual,Dan Shechtman,Tel Aviv,British Mandate of Palestine (Israel),Male,Technion - Israel Institute of Technology,Haifa,Israel
+2011,Economics,Individual,Thomas J. Sargent,"Pasadena, CA",United States of America,Male,New York University,"New York, NY",United States of America
+2011,Economics,Individual,Christopher A. Sims,"Washington, DC",United States of America,Male,Princeton University,"Princeton, NJ",United States of America
+2011,Literature,Individual,Tomas Tranströmer,Stockholm,Sweden,Male,,,
+2011,Medicine,Individual,Bruce A. Beutler,"Chicago, IL",United States of America,Male,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",United States of America
+2011,Medicine,Individual,Bruce A. Beutler,"Chicago, IL",United States of America,Male,The Scripps Research Institute,"La Jolla, CA",United States of America
+2011,Medicine,Individual,Jules A. Hoffmann,Echternach,Luxembourg,Male,University of Strasbourg,Strasbourg,France
+2011,Medicine,Individual,Ralph M. Steinman,Montreal,Canada,Male,Rockefeller University,"New York, NY",United States of America
+2011,Peace,Individual,Ellen Johnson Sirleaf,Monrovia,Liberia,Female,,,
+2011,Peace,Individual,Leymah Gbowee,Monrovia,Liberia,Female,,,
+2011,Peace,Individual,Tawakkol Karman,Ta'izz,Yemen,Female,,,
+2011,Physics,Individual,Saul Perlmutter,"Champaign-Urbana, IL",United States of America,Male,Lawrence Berkeley National Laboratory,"Berkeley, CA",United States of America
+2011,Physics,Individual,Saul Perlmutter,"Champaign-Urbana, IL",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2011,Physics,Individual,Brian P. Schmidt,"Missoula, MT",United States of America,Male,Australian National University,Weston Creek,Australia
+2011,Physics,Individual,Adam G. Riess,"Washington, DC",United States of America,Male,Johns Hopkins University,"Baltimore, MD",United States of America
+2011,Physics,Individual,Adam G. Riess,"Washington, DC",United States of America,Male,Space Telescope Science Institute,"Baltimore, MD",United States of America
+2012,Chemistry,Individual,Robert J. Lefkowitz,"New York, NY",United States of America,Male,Howard Hughes Medical Institute,,
+2012,Chemistry,Individual,Robert J. Lefkowitz,"New York, NY",United States of America,Male,Duke University Medical Center,"Durham, NC",United States of America
+2012,Chemistry,Individual,Brian K. Kobilka,"Little Falls, MN",United States of America,Male,Stanford University School of Medicine,"Stanford, CA",United States of America
+2012,Economics,Individual,Alvin E. Roth,"New York, NY",United States of America,Male,Harvard University,"Cambridge, MA",United States of America
+2012,Economics,Individual,Alvin E. Roth,"New York, NY",United States of America,Male,Harvard Business School,"Boston, MA",United States of America
+2012,Economics,Individual,Lloyd S. Shapley,"Cambridge, MA",United States of America,Male,University of California,"Los Angeles, CA",United States of America
+2012,Literature,Individual,Mo Yan,Gaomi,China,Male,,,
+2012,Medicine,Individual,Sir John B. Gurdon,Dippenhall,United Kingdom,Male,Gurdon Institute,Cambridge,United Kingdom
+2012,Medicine,Individual,Shinya Yamanaka,Osaka,Japan,Male,Kyoto University,Kyoto,Japan
+2012,Medicine,Individual,Shinya Yamanaka,Osaka,Japan,Male,Gladstone Institutes,"San Francisco, CA",United States of America
+2012,Peace,Organization,European Union (EU),,,,,,
+2012,Physics,Individual,Serge Haroche,Casablanca,Morocco,Male,Collège de France,Paris,France
+2012,Physics,Individual,Serge Haroche,Casablanca,Morocco,Male,École Normale Supérieure,Paris,France
+2012,Physics,Individual,David J. Wineland,"Milwaukee, WI",United States of America,Male,National Institute of Standards and Technology,"Boulder, CO",United States of America
+2012,Physics,Individual,David J. Wineland,"Milwaukee, WI",United States of America,Male,University of Colorado,"Boulder, CO",United States of America
+2013,Chemistry,Individual,Martin Karplus,Vienna,Austria,Male,Université de Strasbourg,Strasbourg,France
+2013,Chemistry,Individual,Martin Karplus,Vienna,Austria,Male,Harvard University,"Cambridge, MA",United States of America
+2013,Chemistry,Individual,Michael Levitt,Pretoria,South Africa,Male,Stanford University School of Medicine,"Stanford, CA",United States of America
+2013,Chemistry,Individual,Arieh Warshel,Kibbutz Sde-Nahum,British Mandate of Palestine (Israel),Male,University of Southern California,"Los Angeles, CA",United States of America
+2013,Economics,Individual,Eugene F. Fama,"Boston, MA",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+2013,Economics,Individual,Lars Peter Hansen,"Urbana, IL",United States of America,Male,University of Chicago,"Chicago, IL",United States of America
+2013,Economics,Individual,Robert J. Shiller,"Detroit, MI",United States of America,Male,Yale University,"New Haven, CT",United States of America
+2013,Literature,Individual,Alice Munro,Wingham,Canada,Female,,,
+2013,Medicine,Individual,James E. Rothman,"Haverhill, MA",United States of America,Male,Yale University,"New Haven, CT",United States of America
+2013,Medicine,Individual,Randy W. Schekman,"St. Paul, MN",United States of America,Male,University of California,"Berkeley, CA",United States of America
+2013,Medicine,Individual,Randy W. Schekman,"St. Paul, MN",United States of America,Male,Howard Hughes Medical Institute,,
+2013,Medicine,Individual,Thomas C. Südhof,Göttingen,Germany,Male,Stanford University,"Stanford, CA",United States of America
+2013,Medicine,Individual,Thomas C. Südhof,Göttingen,Germany,Male,Howard Hughes Medical Institute,,
+2013,Peace,Organization,Organisation for the Prohibition of Chemical Weapons (OPCW),,,,,,
+2013,Physics,Individual,François Englert,Etterbeek,Belgium,Male,Université Libre de Bruxelles,Brussels,Belgium
+2013,Physics,Individual,Peter W. Higgs,Newcastle upon Tyne,United Kingdom,Male,University of Edinburgh,Edinburgh,United Kingdom
+2014,Chemistry,Individual,Eric Betzig,"Ann Arbor, MI",United States of America,Male,"Janelia Research Campus, Howard Hughes Medical Institute","Ashburn, VA",United States of America
+2014,Chemistry,Individual,Stefan W. Hell,Arad,Romania,Male,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany
+2014,Chemistry,Individual,Stefan W. Hell,Arad,Romania,Male,German Cancer Research Center,Heidelberg,Germany
+2014,Chemistry,Individual,William E. Moerner,"Pleasanton, CA",United States of America,Male,Stanford University,"Stanford, CA",United States of America
+2014,Economics,Individual,Jean Tirole,Troyes,France,Male,Toulouse School of Economics (TSE),Toulouse,France
+2014,Literature,Individual,Patrick Modiano,Paris,France,Male,,,
+2014,Medicine,Individual,John O'Keefe,"New York, NY",United States of America,Male,University College,London,United Kingdom
+2014,Medicine,Individual,May-Britt Moser,Fosnavåg,Norway,Female,Norwegian University of Science and Technology (NTNU),Trondheim,Norway
+2014,Medicine,Individual,Edvard I. Moser,Ålesund,Norway,Male,Norwegian University of Science and Technology (NTNU),Trondheim,Norway
+2014,Peace,Individual,Kailash Satyarthi,Vidisha,India,Male,,,
+2014,Peace,Individual,Malala Yousafzai,Mingora,Pakistan,Female,,,
+2014,Physics,Individual,Isamu Akasaki,Chiran,Japan,Male,Meijo University,Nagoya,Japan
+2014,Physics,Individual,Isamu Akasaki,Chiran,Japan,Male,Nagoya University,Nagoya,Japan
+2014,Physics,Individual,Hiroshi Amano,Hamamatsu,Japan,Male,Nagoya University,Nagoya,Japan
+2014,Physics,Individual,Shuji Nakamura,Ikata,Japan,Male,University of California,"Santa Barbara, CA",United States of America
+2015,Chemistry,Individual,Tomas Lindahl,Stockholm,Sweden,Male,Francis Crick Institute,Hertfordshire,United Kingdom
+2015,Chemistry,Individual,Tomas Lindahl,Stockholm,Sweden,Male,Clare Hall Laboratory,Hertfordshire,United Kingdom
+2015,Chemistry,Individual,Paul Modrich,"Raton, NM",United States of America,Male,Howard Hughes Medical Institute,"Durham, NC",United States of America
+2015,Chemistry,Individual,Paul Modrich,"Raton, NM",United States of America,Male,Duke University School of Medicine,"Durham, NC",United States of America
+2015,Chemistry,Individual,Aziz Sancar,Savur,Turkey,Male,University of North Carolina,"Chapel Hill, NC",United States of America
+2015,Economics,Individual,Angus Deaton,Edinburgh,United Kingdom,Male,Princeton University,"Princeton, NJ",United States of America
+2015,Literature,Individual,Svetlana Alexievich,Ivano-Frankivsk,Ukraine,Female,,,
+2015,Medicine,Individual,William C. Campbell,Ramelton,Ireland,Male,Drew University,"Madison, NJ",United States of America
+2015,Medicine,Individual,Satoshi Ōmura,Yamanashi Prefecture,Japan,Male,Kitasato University,Tokyo,Japan
+2015,Medicine,Individual,Youyou Tu,Zhejiang Ningbo,China,Female,China Academy of Traditional Chinese Medicine,Beijing,China
+2015,Peace,Organization,National Dialogue Quartet,,,,,,
+2015,Physics,Individual,Takaaki Kajita,Higashimatsuyama,Japan,Male,University of Tokyo,Kashiwa,Japan
+2015,Physics,Individual,Arthur B. McDonald,Sydney,Canada,Male,Queen's University,Kingston,Canada
+2016,Chemistry,Individual,Jean-Pierre Sauvage,Paris,France,Male,University of Strasbourg,Strasbourg,France
+2016,Chemistry,Individual,Sir J. Fraser Stoddart,Edinburgh,United Kingdom,Male,Northwestern University,"Evanston, IL",United States of America
+2016,Chemistry,Individual,Bernard L. Feringa,Barger-Compascuum,Netherlands,Male,University of Groningen,Groningen,Netherlands
+2016,Economics,Individual,Oliver Hart,London,United Kingdom,Male,Harvard University,"Cambridge, MA",United States of America
+2016,Economics,Individual,Bengt Holmström,Helsinki,Finland,Male,Massachusetts Institute of Technology (MIT),"Cambridge, MA",United States of America
+2016,Literature,Individual,Bob Dylan,"Duluth, MN",United States of America,Male,,,
+2016,Medicine,Individual,Yoshinori Ohsumi,Fukuoka,Japan,Male,Tokyo Institute of Technology,Tokyo,Japan
+2016,Peace,Individual,Juan Manuel Santos,Bogotá,Colombia,Male,,,
+2016,Physics,Individual,David J. Thouless,Bearsden,United Kingdom,Male,University of Washington,"Seattle, WA",United States of America
+2016,Physics,Individual,F. Duncan M. Haldane,London,United Kingdom,Male,Princeton University,"Princeton, NJ",United States of America
+2016,Physics,Individual,J. Michael Kosterlitz,Aberdeen,United Kingdom,Male,Brown University,"Providence, RI",United States of America
