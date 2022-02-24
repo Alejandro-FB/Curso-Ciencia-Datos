@@ -1,0 +1,200 @@
+Rank,Country Name,Male Height in Ft,Female Height in Ft
+1,Netherlands,6.03,5.59
+2,Montenegro,6.01,5.58
+3,Estonia,6,5.53
+4,Bosnia and Herzegovina,5.99,5.49
+5,Iceland,5.97,5.54
+6,Denmark,5.97,5.56
+7,Czech Republic,5.94,5.51
+8,Latvia,5.94,5.54
+9,Slovakia,5.94,5.48
+10,Slovenia,5.94,5.49
+11,Ukraine,5.94,5.47
+12,Croatia,5.93,5.47
+13,Serbia,5.93,5.52
+14,Lithuania,5.93,5.5
+15,Poland,5.93,5.44
+16,Finland,5.92,5.46
+17,Norway,5.92,5.46
+18,Sweden,5.92,5.47
+19,Germany,5.91,5.45
+20,Dominica,5.91,5.48
+21,Bermuda,5.9,5.45
+22,Puerto Rico,5.89,5.35
+23,Greece,5.88,5.44
+24,Belgium,5.88,5.36
+25,Ireland,5.87,5.4
+26,Lebanon,5.87,5.37
+27,Andorra,5.87,5.43
+28,Antigua and Barbuda,5.87,5.44
+29,Australia,5.87,5.4
+30,Canada,5.86,5.4
+31,Switzerland,5.86,5.39
+32,Grenada,5.86,5.45
+33,Belarus,5.86,5.48
+34,France,5.86,5.4
+35,Austria,5.86,5.48
+36,Luxembourg,5.86,5.42
+37,Cook Islands,5.85,5.49
+38,French Polynesia,5.85,5.46
+39,United Kingdom,5.85,5.38
+40,Romania,5.83,5.4
+41,New Zealand,5.83,5.4
+42,Saint Vincent and the Grenadines,5.82,5.42
+43,Niue,5.81,5.48
+44,American Samoa,5.81,5.5
+45,Barbados,5.81,5.44
+46,Jamaica,5.81,5.39
+47,United States,5.81,5.36
+48,Tunisia,5.8,5.3
+49,Russia,5.8,5.4
+50,Hungary,5.79,5.33
+51,Saint Lucia,5.79,5.43
+52,North Macedonia,5.79,5.28
+53,Libya,5.79,5.33
+54,Turkey,5.79,5.31
+55,Morocco,5.79,5.29
+56,Senegal,5.78,5.38
+57,Spain,5.78,5.32
+58,Tokelau,5.78,5.45
+59,Trinidad and Tobago,5.78,5.36
+60,Israel,5.77,5.32
+61,Georgia,5.77,5.36
+62,Seychelles,5.77,5.33
+63,Brazil,5.77,5.33
+64,China,5.76,5.36
+65,Iran,5.76,5.29
+66,Moldova,5.76,5.35
+67,South Korea,5.76,5.36
+68,Kazakhstan,5.76,5.31
+69,Tonga,5.75,5.45
+70,Palestine,5.74,5.29
+71,Algeria,5.74,5.33
+72,Mali,5.74,5.31
+73,Kuwait,5.74,5.25
+74,Jordan,5.74,5.23
+75,Hong Kong,5.74,5.27
+76,Argentina,5.73,5.29
+77,North Korea,5.73,5.29
+78,Dominican Republic,5.73,5.29
+79,Egypt,5.73,5.28
+80,Suriname,5.73,5.32
+81,Italy,5.72,5.31
+82,Samoa,5.72,5.37
+83,Bahamas,5.72,5.36
+84,Malta,5.72,5.35
+85,Turkmenistan,5.72,5.34
+86,Portugal,5.72,5.29
+87,Uruguay,5.72,5.3
+88,Bulgaria,5.71,5.4
+89,United Arab Emirates,5.71,5.27
+90,Albania,5.71,5.32
+91,Costa Rica,5.71,5.26
+92,Azerbaijan,5.71,5.29
+93,Fiji,5.71,5.39
+94,Greenland,5.7,5.3
+95,Paraguay,5.7,5.24
+96,Iraq,5.7,5.21
+97,Saint Kitts and Nevis,5.7,5.34
+98,Armenia,5.7,5.24
+99,Cuba,5.69,5.25
+100,Venezuela,5.69,5.25
+101,Taiwan,5.69,5.27
+102,Singapore,5.69,5.29
+103,Qatar,5.68,5.27
+104,Botswana,5.68,5.32
+105,Mauritius,5.68,5.21
+106,Chile,5.67,5.23
+107,Bahrain,5.67,5.19
+108,Cyprus,5.67,5.27
+109,Haiti,5.65,5.27
+110,Guyana,5.65,5.24
+111,Cameroon,5.65,5.26
+112,Sudan,5.65,5.26
+113,Japan,5.65,5.2
+114,Burkina Faso,5.64,5.29
+115,Colombia,5.64,5.18
+116,Chad,5.64,5.32
+117,Oman,5.63,5.2
+118,Kyrgyzstan,5.63,5.26
+119,Syria,5.63,5.23
+120,Thailand,5.63,5.23
+121,Nigeria,5.63,5.19
+122,Tuvalu,5.62,5.37
+123,Republic of the Congo,5.62,5.21
+124,Somalia,5.62,5.24
+125,Uzbekistan,5.61,5.26
+126,Djibouti,5.6,5.24
+127,Guinea,5.6,5.21
+128,Zimbabwe,5.6,5.24
+129,Mongolia,5.6,5.25
+130,El Salvador,5.6,5.13
+131,Saudi Arabia,5.6,5.21
+132,Palau,5.6,5.23
+133,Eritrea,5.6,5.17
+134,Belize,5.59,5.19
+135,Gabon,5.59,5.25
+136,Kenya,5.59,5.23
+137,Sao Tome and Principe,5.59,5.24
+138,Ghana,5.59,5.21
+139,Mexico,5.59,5.18
+140,Niger,5.59,5.24
+141,Panama,5.58,5.19
+142,Togo,5.58,5.22
+143,Kiribati,5.58,5.28
+144,Nicaragua,5.57,5.11
+145,Namibia,5.57,5.26
+146,South Africa,5.57,5.2
+147,Honduras,5.56,5.09
+148,Micronesia,5.56,5.24
+149,Nauru,5.56,5.18
+150,Eswatini,5.56,5.21
+151,Malaysia,5.55,5.15
+152,Central African Republic,5.54,5.24
+153,Vietnam,5.54,5.2
+154,Ethiopia,5.54,5.16
+155,Uganda,5.54,5.2
+156,DR Congo,5.53,5.13
+157,Afghanistan,5.53,5.12
+158,Angola,5.53,5.19
+159,Benin,5.53,5.2
+160,Tajikistan,5.53,5.19
+161,Gambia,5.52,5.31
+162,Vanuatu,5.52,5.27
+163,Ivory Coast,5.52,5.21
+164,Equatorial Guinea,5.52,5.19
+165,Guinea-Bissau,5.52,5.21
+166,Bolivia,5.52,5.1
+167,Sri Lanka,5.51,5.11
+168,Lesotho,5.51,5.14
+169,Maldives,5.51,5.06
+170,Comoros,5.5,5.14
+171,Zambia,5.5,5.16
+172,Burundi,5.49,5.09
+173,Pakistan,5.49,5.08
+174,Ecuador,5.49,5.09
+175,Bhutan,5.48,5.09
+176,Tanzania,5.48,5.15
+177,Peru,5.47,5.07
+178,Myanmar,5.47,5.08
+179,India,5.46,5.09
+180,Sierra Leone,5.46,5.16
+181,Brunei,5.46,5.08
+182,Indonesia,5.45,5.06
+183,Rwanda,5.45,5.14
+184,Malawi,5.44,5.12
+185,Mauritania,5.43,5.25
+186,Liberia,5.43,5.14
+187,Cambodia,5.42,5.08
+188,Marshall Islands,5.42,5.08
+189,Philippines,5.42,5.06
+190,Madagascar,5.42,5.02
+191,Bangladesh,5.42,5
+192,Yemen,5.39,5.08
+193,Nepal,5.39,5
+194,Guatemala,5.39,4.95
+195,Mozambique,5.39,5.1
+196,Papua New Guinea,5.35,5.15
+197,Solomon Islands,5.35,5.14
+198,Laos,5.34,5.02
+199,Timor-Leste,5.25,5.01
